@@ -1,0 +1,1001 @@
+Invoice Number,Date Sale,Time Sale,Product,Category,Quantity,Unit Price,Total Sale,Payment Method,Seller ,Discounts ,Taxes,Notes,Remaining Stock
+6497-964,2024-07-13,17:52:23,Juice,Drinks,5,8.02,40.1,Credit Card,Anna,0.76,7.22,Regular Client,28
+3930-318,2024-07-03,02:54:23,Camel,Cigarettes,10,16.7,167,Cash,Charles,11.01,30.06,Regular Client,95
+2937-511,2024-07-03,15:14:23,Water,Drinks,9,17.23,155.07,Debit,Anna,1.59,27.91,Without Notes,41
+1257-910,2024-07-09,16:52:23,Lucky Strike,Cigarettes,10,10.08,100.8,Credit Card,John,4.9,10.4,Without Notes,30
+7596-465,2024-06-26,00:55:23,Magazine,Others,5,2.57,12.85,Credit Card,Anna,0.5,2.31,Without Notes,73
+2478-455,2024-06-27,23:59:23,Camel,Cigarettes,8,16.7,133.6,Debit,Maria,7.08,21.95,Promotion Applied,2
+5962-650,2024-07-18,16:31:23,Cookies,Candies,4,19.13,76.52,Debit,Charles,6.44,13.77,Promotion Applied,12
+9049-856,2024-07-06,23:04:23,Toilet Paper,Others,10,8.43,84.3,Credit Card,John,0.08,15.17,Without Notes,43
+9031-591,2024-06-23,09:47:23,Cookies,Candies,5,16.4,82,Cash,Anna,6.7,14.76,Without Notes,29
+2240-247,2024-07-01,11:49:23,Chewing gums,Candies,6,19.57,117.42,Credit Card,Charles,8,21.14,Without Notes,71
+8111-474,2024-06-21,16:23:23,Beer,Drinks,10,14.06,140.6,Debit,John,8.55,25.31,Promotion Applied,85
+2083-332,2024-06-27,17:47:23,Cookies,Candies,10,4.75,47.5,Cash,John,2.41,8.55,Without Notes,19
+4762-289,2024-07-01,13:52:23,Juice,Drinks,7,16.06,112.42,Cash,Anna,4.26,20.24,Promotion Applied,82
+8625-911,2024-07-03,01:19:23,Water,Drinks,9,3.08,27.72,Credit Card,Charles,2.26,4.99,Promotion Applied,16
+6069-657,2024-06-26,00:26:23,Juice,Drinks,3,17.89,53.67,Cash,Anna,0.44,9.66,Without Notes,85
+3814-755,2024-07-16,18:02:23,Camel,Cigarettes,10,16.7,167,Debit,Charles,2.75,17.44,Regular Client,81
+4835-543,2024-07-07,12:19:23,Chocolate,Candies,1,8.5,8.5,Debit,John,0.65,1.53,Promotion Applied,67
+8831-190,2024-06-26,16:09:23,Magazine,Others,10,14.51,145.1,Credit Card,Charles,1.22,26.12,Regular Client,66
+9570-486,2024-06-21,03:28:23,Lucky Strike,Cigarettes,3,10.08,30.24,Debit,Charles,1.17,5.44,Promotion Applied,1
+9873-642,2024-07-06,04:46:23,Lucky Strike,Cigarettes,7,10.08,70.56,Debit,Charles,7.25,21.92,Regular Client,31
+3052-379,2024-07-16,03:42:23,Water,Drinks,10,17.3,173,Cash,John,14.35,31.14,Without Notes,17
+9166-651,2024-07-17,21:39:23,Toilet Paper,Others,7,2.02,14.14,Credit Card,Charles,0.81,2.55,Without Notes,73
+7490-166,2024-07-20,00:40:23,Candies,Candies,3,3.11,9.33,Credit Card,Anna,0.31,1.68,Without Notes,99
+5258-121,2024-06-23,03:08:23,Lucky Strike,Cigarettes,2,10.08,20.16,Credit Card,Charles,0.64,6.62,Promotion Applied,86
+3809-132,2024-07-07,14:55:23,Candies,Candies,9,11.62,104.58,Cash,Charles,1.4,18.82,Promotion Applied,49
+4444-246,2024-07-07,00:44:23,Magazine,Others,7,10.39,72.73,Credit Card,Charles,6.28,13.09,Without Notes,42
+8928-783,2024-07-13,19:34:23,Marlboro,Cigarettes,6,11.09,66.54,Debit,John,0.3,1.83,Regular Client,47
+9693-125,2024-07-07,15:14:23,Marlboro,Cigarettes,7,11.09,77.63,Cash,Anna,4.56,13.97,Without Notes,10
+4197-719,2024-07-11,20:04:23,Toilet Paper,Others,1,9.78,9.78,Cash,Anna,0.69,1.76,Without Notes,58
+5115-979,2024-06-27,07:21:23,Lucky Strike,Cigarettes,10,10.08,100.8,Credit Card,Maria,4.61,27.72,Regular Client,84
+7001-162,2024-07-10,09:20:23,Chocolate,Candies,9,10.24,92.16,Cash,John,8.28,16.59,Regular Client,81
+9105-546,2024-07-18,02:44:23,Candies,Candies,3,14.04,42.12,Credit Card,Charles,1.63,7.58,Without Notes,6
+6373-453,2024-06-30,00:50:23,Juice,Drinks,2,16.55,33.1,Debit,Charles,1.13,5.96,Promotion Applied,81
+7883-963,2024-06-27,14:30:23,Beer,Drinks,1,14.72,14.72,Cash,Anna,0.4,2.65,Without Notes,24
+3429-289,2024-07-11,17:05:23,Lucky Strike,Cigarettes,8,10.08,80.64,Cash,Charles,3.9,25.85,Regular Client,82
+9838-486,2024-06-29,23:41:23,Chocolate,Candies,5,11.33,56.65,Debit,Maria,0.51,10.2,Regular Client,64
+2193-749,2024-06-24,21:04:23,Toilet Paper,Others,9,14.82,133.38,Cash,Anna,0.28,24.01,Promotion Applied,70
+8480-100,2024-06-30,22:11:23,Juice,Drinks,10,7.63,76.3,Cash,John,6.67,13.73,Regular Client,21
+6751-279,2024-06-30,01:59:23,Lucky Strike,Cigarettes,5,10.08,50.4,Credit Card,John,1.47,8.81,Without Notes,63
+5793-593,2024-07-14,15:32:23,Camel,Cigarettes,9,16.7,150.3,Debit,Anna,2.4,8.46,Promotion Applied,95
+7328-376,2024-07-07,01:51:23,Toilet Paper,Others,10,18.66,186.6,Credit Card,John,18.58,33.59,Promotion Applied,11
+4087-144,2024-07-08,01:34:23,Soda,Drinks,5,15.11,75.55,Cash,Charles,6.13,13.6,Promotion Applied,68
+2695-614,2024-07-01,18:42:23,Magazine,Others,3,9.94,29.82,Debit,Charles,2.29,5.37,Regular Client,99
+2698-282,2024-06-20,18:47:23,Juice,Drinks,8,18.79,150.32,Credit Card,Maria,3.56,27.06,Without Notes,25
+5087-698,2024-06-23,21:50:23,Cigarette Lighter,Others,4,10.64,42.56,Debit,Anna,0.48,7.66,Regular Client,63
+1797-591,2024-06-26,19:35:23,Magazine,Others,6,10.53,63.18,Credit Card,Anna,5.74,11.37,Without Notes,58
+8674-890,2024-07-03,09:23:23,Juice,Drinks,5,13.18,65.9,Debit,Maria,4.4,11.86,Regular Client,3
+1982-523,2024-07-03,21:00:23,Marlboro,Cigarettes,2,11.09,22.18,Debit,John,1.68,3.63,Promotion Applied,89
+7297-119,2024-06-30,09:33:23,Soda,Drinks,2,3.24,6.48,Cash,John,0.64,1.17,Without Notes,25
+7975-556,2024-07-07,16:59:23,Chewing gums,Candies,3,3.66,10.98,Debit,Maria,0.79,1.98,Regular Client,17
+8499-416,2024-07-04,22:31:23,Camel,Cigarettes,7,16.7,116.9,Cash,Anna,5.45,12.65,Regular Client,21
+7767-576,2024-06-29,15:38:23,Toilet Paper,Others,6,1.49,8.94,Cash,Charles,0.11,1.61,Without Notes,30
+6222-210,2024-06-26,05:36:23,Candies,Candies,2,2.37,4.74,Credit Card,Charles,0.04,0.85,Without Notes,10
+7705-584,2024-06-27,15:03:23,Marlboro,Cigarettes,4,11.09,44.36,Debit,Anna,2.4,8.28,Promotion Applied,62
+1846-952,2024-07-19,12:37:23,Beer,Drinks,7,5.4,37.8,Cash,Maria,0.43,6.8,Regular Client,38
+7597-826,2024-06-26,19:22:23,Chewing gums,Candies,3,17.84,53.52,Credit Card,Anna,4.92,9.63,Without Notes,2
+7662-315,2024-06-20,15:23:23,Marlboro,Cigarettes,3,11.09,33.27,Cash,Maria,4.82,9.01,Promotion Applied,48
+7488-494,2024-06-23,04:27:23,Juice,Drinks,4,16.33,65.32,Cash,John,5.36,11.76,Promotion Applied,9
+9594-889,2024-07-20,13:51:23,Cookies,Candies,10,17.67,176.7,Credit Card,John,15.9,31.81,Regular Client,60
+4531-702,2024-07-01,04:55:23,Water,Drinks,5,15.61,78.05,Debit,Maria,2.24,14.05,Promotion Applied,35
+4681-842,2024-07-14,06:32:23,Magazine,Others,10,18.13,181.3,Debit,Maria,16.91,32.63,Without Notes,25
+5087-338,2024-06-30,23:21:23,Cigarette Lighter,Others,5,10.64,53.2,Debit,John,3.91,9.46,Without Notes,4
+3337-485,2024-07-20,18:33:23,Chewing gums,Candies,4,4.25,17,Debit,Maria,0.25,3.06,Promotion Applied,47
+9751-341,2024-06-20,21:42:23,Water,Drinks,7,14.67,102.69,Credit Card,John,2.34,18.48,Regular Client,60
+5180-292,2024-07-05,02:34:23,Candies,Candies,10,6.05,60.5,Credit Card,John,0.23,10.89,Without Notes,88
+9605-212,2024-07-09,02:02:23,Magazine,Others,10,10.5,105,Debit,Anna,4.82,18.9,Without Notes,20
+1252-478,2024-07-19,05:45:23,Magazine,Others,6,6.23,37.38,Credit Card,Maria,0.25,6.73,Promotion Applied,84
+9422-698,2024-06-23,14:53:23,Lucky Strike,Cigarettes,5,10.08,50.4,Debit,Maria,0.06,1.52,Without Notes,29
+6902-218,2024-06-30,21:33:23,Magazine,Others,3,19.46,58.38,Credit Card,John,2.69,10.51,Regular Client,44
+2354-990,2024-07-21,05:13:23,Chewing gums,Candies,2,1.12,2.24,Credit Card,Maria,0.06,0.4,Promotion Applied,57
+1691-249,2024-07-06,15:57:23,Water,Drinks,4,7.33,29.32,Debit,Charles,0.97,5.28,Regular Client,99
+9308-882,2024-07-13,19:33:23,Candies,Candies,1,6.37,6.37,Debit,Anna,0.57,1.15,Without Notes,72
+5558-603,2024-07-13,04:40:23,Lucky Strike,Cigarettes,6,10.08,60.48,Cash,John,2.08,18.15,Promotion Applied,98
+6323-407,2024-07-04,09:00:23,Juice,Drinks,1,8.35,8.35,Debit,Maria,0.62,1.5,Without Notes,32
+1669-501,2024-07-01,05:47:23,Water,Drinks,9,15.5,139.5,Cash,Anna,7.43,25.11,Without Notes,26
+9159-188,2024-07-07,18:17:23,Lucky Strike,Cigarettes,8,10.08,80.64,Cash,Charles,10.4,25.68,Promotion Applied,20
+8077-621,2024-07-14,22:04:23,Beer,Drinks,5,7.94,39.7,Cash,Maria,0.07,7.15,Without Notes,55
+9763-435,2024-06-28,09:10:23,Lucky Strike,Cigarettes,5,10.08,50.4,Debit,Anna,4.03,13.01,Promotion Applied,13
+4796-123,2024-06-23,13:29:23,Juice,Drinks,3,18.14,54.42,Debit,Maria,1.13,9.8,Without Notes,50
+5430-913,2024-07-10,14:41:23,Water,Drinks,5,9.33,46.65,Cash,Anna,1.23,8.4,Without Notes,19
+6352-265,2024-07-19,17:47:23,Chewing gums,Candies,3,19.27,57.81,Credit Card,John,2.24,10.41,Promotion Applied,26
+1229-224,2024-06-27,18:56:23,Chewing gums,Candies,5,18.22,91.1,Debit,Charles,6.58,16.4,Promotion Applied,16
+6591-498,2024-07-10,00:09:23,Toilet Paper,Others,6,12.16,72.96,Debit,John,6.35,13.13,Regular Client,60
+6323-371,2024-07-14,09:19:23,Magazine,Others,10,8.1,81,Credit Card,Charles,0.88,14.58,Without Notes,32
+1541-350,2024-07-12,10:27:23,Chocolate,Candies,5,13.34,66.7,Debit,Anna,6.44,12.01,Without Notes,40
+2047-727,2024-07-11,21:04:23,Juice,Drinks,3,16.37,49.11,Debit,Maria,2.56,8.84,Regular Client,71
+3183-543,2024-07-08,23:20:23,Magazine,Others,7,19.26,134.82,Credit Card,John,0.48,24.27,Without Notes,73
+3155-431,2024-07-17,09:51:23,Marlboro,Cigarettes,2,11.09,22.18,Credit Card,Anna,2.15,5.05,Regular Client,70
+6649-197,2024-06-29,04:32:23,Chocolate,Candies,4,9.16,36.64,Debit,Maria,2.92,6.6,Regular Client,83
+6968-950,2024-06-28,12:00:23,Magazine,Others,4,7.4,29.6,Debit,Maria,0.72,5.33,Regular Client,14
+3426-387,2024-07-13,03:58:23,Soda,Drinks,5,4.53,22.65,Cash,Charles,0.42,4.08,Without Notes,91
+7798-339,2024-07-18,15:57:23,Magazine,Others,9,17.72,159.48,Cash,Charles,9.93,28.71,Without Notes,15
+4452-671,2024-07-17,19:54:23,Marlboro,Cigarettes,9,11.09,99.81,Debit,John,4.69,15.11,Regular Client,74
+2133-201,2024-06-21,20:25:23,Marlboro,Cigarettes,1,11.09,11.09,Debit,Charles,1.76,3.46,Regular Client,5
+4953-481,2024-07-03,15:36:23,Magazine,Others,7,4.32,30.24,Credit Card,Anna,2.45,5.44,Promotion Applied,15
+8639-403,2024-06-20,23:52:23,Cigarette Lighter,Others,2,10.64,21.28,Cash,Anna,2.13,4.23,Promotion Applied,21
+7229-422,2024-07-11,03:47:23,Magazine,Others,1,14.33,14.33,Debit,Charles,0.69,2.58,Without Notes,83
+4188-967,2024-07-18,12:13:23,Cigarette Lighter,Others,9,10.64,95.76,Debit,John,3.14,8.07,Without Notes,10
+9086-960,2024-06-29,05:28:23,Beer,Drinks,8,19.41,155.28,Debit,Charles,5.39,27.95,Without Notes,74
+9496-620,2024-07-03,18:10:23,Camel,Cigarettes,1,16.7,16.7,Cash,Charles,0.28,1.62,Without Notes,8
+5120-478,2024-06-23,04:48:23,Soda,Drinks,3,19.34,58.02,Debit,Charles,2.78,10.44,Without Notes,88
+3064-146,2024-07-19,14:39:23,Chocolate,Candies,10,3.69,36.9,Debit,Charles,1.02,6.64,Regular Client,14
+7648-554,2024-06-28,21:30:23,Water,Drinks,8,15.98,127.84,Debit,Charles,7.32,23.01,Promotion Applied,27
+5664-150,2024-06-27,13:32:23,Lucky Strike,Cigarettes,9,10.08,90.72,Cash,Charles,3.49,21.85,Regular Client,46
+9467-822,2024-06-22,01:52:23,Juice,Drinks,10,8.57,85.7,Cash,Charles,5.38,15.43,Without Notes,57
+1068-195,2024-07-04,10:02:23,Beer,Drinks,2,15.57,31.14,Credit Card,Anna,0.38,5.61,Without Notes,6
+8936-201,2024-07-10,15:48:23,Marlboro,Cigarettes,7,11.09,77.63,Cash,John,9.87,21.82,Promotion Applied,34
+9658-857,2024-07-20,16:44:23,Water,Drinks,2,7.52,15.04,Credit Card,Anna,0.18,2.71,Regular Client,63
+7160-950,2024-06-28,17:58:23,Toilet Paper,Others,1,17.59,17.59,Cash,Anna,0.89,3.17,Promotion Applied,65
+3657-948,2024-06-23,15:17:23,Toilet Paper,Others,10,9.29,92.9,Cash,John,7.59,16.72,Promotion Applied,75
+9534-666,2024-07-13,12:22:23,Marlboro,Cigarettes,9,11.09,99.81,Cash,Charles,4.11,9.69,Without Notes,77
+3839-684,2024-07-08,03:34:23,Beer,Drinks,5,10.81,54.05,Credit Card,John,0.35,9.73,Without Notes,92
+3892-115,2024-07-14,19:30:23,Marlboro,Cigarettes,4,11.09,44.36,Cash,Charles,0.46,0.89,Without Notes,44
+5752-322,2024-07-12,00:06:23,Chewing gums,Candies,5,2.8,14,Credit Card,Charles,0.3,2.52,Without Notes,25
+6553-759,2024-07-01,01:50:23,Lucky Strike,Cigarettes,4,10.08,40.32,Cash,John,1.58,3.53,Without Notes,59
+3145-417,2024-06-22,11:05:23,Lucky Strike,Cigarettes,7,10.08,70.56,Cash,Maria,0.39,5.8,Without Notes,84
+1589-422,2024-06-23,04:56:23,Water,Drinks,9,6.92,62.28,Credit Card,Maria,5.97,11.21,Regular Client,62
+8437-243,2024-07-17,02:37:23,Water,Drinks,6,10.72,64.32,Debit,Charles,3.34,11.58,Regular Client,47
+9527-768,2024-06-27,14:09:23,Marlboro,Cigarettes,10,11.09,110.9,Debit,Maria,10.49,20.36,Without Notes,33
+4384-514,2024-06-26,21:03:23,Magazine,Others,4,5.41,21.64,Cash,John,1.45,3.9,Without Notes,16
+3276-708,2024-07-11,13:00:23,Soda,Drinks,4,9.08,36.32,Debit,Anna,2.16,6.54,Regular Client,93
+8812-648,2024-07-13,01:32:23,Water,Drinks,8,12.06,96.48,Credit Card,Anna,6.94,17.37,Without Notes,93
+5154-866,2024-07-16,06:37:23,Cigarette Lighter,Others,10,10.64,106.4,Credit Card,Charles,7.32,22.36,Without Notes,36
+8421-509,2024-07-07,14:47:23,Camel,Cigarettes,6,16.7,100.2,Credit Card,Maria,1.76,3.65,Without Notes,31
+3349-903,2024-06-21,03:55:23,Camel,Cigarettes,4,16.7,66.8,Debit,John,3.77,14.23,Regular Client,11
+5768-159,2024-06-29,02:36:23,Chocolate,Candies,9,7.27,65.43,Cash,Maria,1.64,11.78,Without Notes,8
+7034-701,2024-06-26,02:13:23,Soda,Drinks,10,16.45,164.5,Credit Card,Maria,13.12,29.61,Without Notes,56
+4535-791,2024-07-12,21:29:23,Marlboro,Cigarettes,5,11.09,55.45,Debit,Maria,0.57,5.9,Regular Client,82
+1600-768,2024-06-24,10:42:23,Lucky Strike,Cigarettes,8,10.08,80.64,Debit,Maria,6.31,20.76,Without Notes,56
+4642-389,2024-06-22,09:01:23,Chocolate,Candies,7,9.52,66.64,Cash,John,1.37,12,Without Notes,31
+6931-313,2024-07-17,10:31:23,Juice,Drinks,10,13.78,137.8,Debit,John,6.16,24.8,Without Notes,62
+7299-346,2024-06-29,02:19:23,Marlboro,Cigarettes,2,11.09,22.18,Debit,Charles,3.04,6.75,Regular Client,31
+9084-749,2024-07-17,20:45:23,Camel,Cigarettes,6,16.7,100.2,Debit,John,1,2.68,Without Notes,51
+6086-656,2024-07-03,09:57:23,Chocolate,Candies,4,15.43,61.72,Debit,John,2.3,11.11,Without Notes,58
+5733-819,2024-07-16,10:32:23,Toilet Paper,Others,1,19.53,19.53,Debit,Anna,1.68,3.52,Regular Client,1
+5992-177,2024-06-25,00:35:23,Camel,Cigarettes,6,16.7,100.2,Debit,Charles,2.67,11.28,Promotion Applied,42
+9714-652,2024-07-08,13:59:23,Juice,Drinks,10,18.34,183.4,Credit Card,Anna,1.6,33.01,Without Notes,43
+5891-684,2024-06-24,13:48:23,Candies,Candies,5,15.77,78.85,Cash,Maria,2.97,14.19,Without Notes,86
+1443-252,2024-07-10,14:19:23,Juice,Drinks,3,8.25,24.75,Credit Card,John,1.01,4.46,Without Notes,95
+9918-783,2024-06-25,18:56:23,Soda,Drinks,3,1.39,4.17,Credit Card,John,0.41,0.75,Promotion Applied,7
+1883-797,2024-07-11,08:24:23,Cigarette Lighter,Others,1,10.64,10.64,Credit Card,Maria,1.41,3.1,Without Notes,8
+4221-662,2024-07-03,12:27:23,Candies,Candies,3,5.56,16.68,Debit,John,0.48,3,Promotion Applied,66
+8495-765,2024-07-15,05:36:23,Toilet Paper,Others,6,19.42,116.52,Debit,Charles,5.5,20.97,Without Notes,93
+2710-807,2024-07-03,10:56:23,Juice,Drinks,5,10.66,53.3,Debit,John,2.86,9.59,Without Notes,93
+9738-541,2024-06-23,00:02:23,Soda,Drinks,3,5.38,16.14,Credit Card,Charles,1.56,2.91,Without Notes,75
+5001-789,2024-07-15,05:26:23,Candies,Candies,4,4.79,19.16,Debit,Maria,0.48,3.45,Regular Client,94
+5317-302,2024-07-12,05:40:23,Juice,Drinks,9,1.05,9.45,Cash,Maria,0.38,1.7,Regular Client,91
+7575-433,2024-07-17,17:29:23,Chocolate,Candies,9,15.64,140.76,Credit Card,John,1.01,25.34,Regular Client,60
+2513-902,2024-07-18,06:32:23,Cookies,Candies,3,2.75,8.25,Cash,Charles,0.64,1.48,Promotion Applied,32
+4167-668,2024-07-16,17:27:23,Magazine,Others,6,8.83,52.98,Debit,John,1.97,9.54,Without Notes,9
+8861-944,2024-07-07,07:54:23,Marlboro,Cigarettes,4,11.09,44.36,Debit,Maria,0.39,1.14,Without Notes,59
+9440-669,2024-06-29,16:14:23,Lucky Strike,Cigarettes,2,10.08,20.16,Cash,Maria,1.1,2.34,Promotion Applied,34
+6981-138,2024-07-05,14:35:23,Toilet Paper,Others,9,11.89,107.01,Cash,John,5.57,19.26,Without Notes,48
+3494-951,2024-07-13,00:29:23,Toilet Paper,Others,3,16.41,49.23,Debit,Charles,1.52,8.86,Without Notes,9
+3498-468,2024-07-13,08:30:23,Water,Drinks,2,6.19,12.38,Credit Card,Maria,0.11,2.23,Promotion Applied,59
+8820-882,2024-06-27,08:58:23,Chewing gums,Candies,9,19.13,172.17,Debit,Maria,5.67,30.99,Promotion Applied,89
+2858-431,2024-06-21,17:24:23,Chocolate,Candies,10,13.27,132.7,Debit,John,5.78,23.89,Promotion Applied,65
+1560-579,2024-07-04,04:28:23,Camel,Cigarettes,4,16.7,66.8,Cash,John,2.55,11.85,Promotion Applied,91
+3305-395,2024-07-16,00:35:23,Water,Drinks,4,14.79,59.16,Cash,Charles,3.15,10.65,Promotion Applied,78
+6680-439,2024-06-22,11:12:23,Chewing gums,Candies,1,15.44,15.44,Cash,Anna,1.07,2.78,Promotion Applied,23
+4032-254,2024-07-07,02:56:23,Lucky Strike,Cigarettes,6,10.08,60.48,Debit,John,5.38,13.66,Without Notes,18
+9936-157,2024-07-11,17:39:23,Cigarette Lighter,Others,8,10.64,85.12,Cash,Maria,3.19,17.87,Without Notes,68
+8177-632,2024-07-05,20:24:23,Beer,Drinks,4,18.32,73.28,Credit Card,Charles,4.66,13.19,Promotion Applied,91
+9034-541,2024-07-10,01:10:23,Chocolate,Candies,5,6.47,32.35,Credit Card,Anna,2.4,5.82,Without Notes,82
+7946-462,2024-07-02,03:49:23,Lucky Strike,Cigarettes,10,10.08,100.8,Debit,Anna,0.2,32.22,Without Notes,41
+3760-192,2024-07-13,17:12:23,Lucky Strike,Cigarettes,4,10.08,40.32,Credit Card,Anna,1.23,6.67,Regular Client,69
+6923-367,2024-07-13,15:20:23,Chocolate,Candies,5,17.62,88.1,Debit,Charles,8.14,15.86,Promotion Applied,92
+8094-158,2024-07-20,20:39:23,Water,Drinks,5,2.15,10.75,Debit,Charles,0.56,1.93,Without Notes,55
+5283-427,2024-07-11,21:51:23,Soda,Drinks,4,16.51,66.04,Credit Card,Anna,4.28,11.89,Without Notes,65
+4469-364,2024-07-08,11:24:23,Cookies,Candies,5,6.8,34,Credit Card,Anna,2.15,6.12,Regular Client,38
+1889-714,2024-07-16,08:09:23,Camel,Cigarettes,3,16.7,50.1,Cash,John,2.52,4.64,Without Notes,20
+9227-240,2024-07-04,08:57:23,Camel,Cigarettes,4,16.7,66.8,Cash,Maria,1.14,10.8,Promotion Applied,20
+8327-968,2024-07-06,12:04:23,Marlboro,Cigarettes,6,11.09,66.54,Cash,Maria,2.67,13.67,Regular Client,12
+3219-829,2024-07-06,04:04:23,Marlboro,Cigarettes,2,11.09,22.18,Cash,John,0.43,2.39,Without Notes,27
+4093-275,2024-07-12,14:39:23,Marlboro,Cigarettes,5,11.09,55.45,Debit,John,2.06,8.64,Promotion Applied,61
+9224-917,2024-07-04,00:46:23,Toilet Paper,Others,8,19.28,154.24,Debit,Maria,1.63,27.76,Without Notes,8
+6846-613,2024-06-24,02:50:23,Water,Drinks,3,14.31,42.93,Credit Card,Charles,3.66,7.73,Regular Client,97
+9146-309,2024-06-21,05:17:23,Beer,Drinks,7,12.79,89.53,Credit Card,Maria,6.65,16.12,Without Notes,1
+3746-374,2024-07-06,23:04:23,Magazine,Others,4,7.82,31.28,Credit Card,Maria,2.05,5.63,Without Notes,83
+1477-791,2024-07-08,19:10:23,Magazine,Others,4,4.77,19.08,Credit Card,John,0.3,3.43,Regular Client,74
+5935-320,2024-06-26,10:44:23,Juice,Drinks,4,9.54,38.16,Cash,Charles,3.12,6.87,Without Notes,31
+2017-502,2024-06-22,06:39:23,Cookies,Candies,10,6.19,61.9,Debit,Charles,3.07,11.14,Without Notes,78
+7725-499,2024-07-11,20:30:23,Candies,Candies,1,10.13,10.13,Cash,Charles,0.18,1.82,Regular Client,6
+4981-443,2024-07-15,03:22:23,Magazine,Others,6,12.99,77.94,Cash,John,3.4,14.03,Promotion Applied,54
+2416-561,2024-06-22,11:27:23,Cigarette Lighter,Others,9,10.64,95.76,Credit Card,Charles,8.42,30.26,Without Notes,43
+5347-698,2024-07-07,12:59:23,Chocolate,Candies,7,6.45,45.15,Cash,Anna,3.28,8.13,Regular Client,72
+2468-502,2024-06-30,11:26:23,Magazine,Others,2,2.42,4.84,Debit,Maria,0.11,0.87,Without Notes,0
+7911-697,2024-07-03,11:35:23,Toilet Paper,Others,1,5.45,5.45,Debit,Maria,0.48,0.98,Without Notes,54
+5065-330,2024-06-24,00:15:23,Chocolate,Candies,5,2.2,11,Debit,Maria,0.14,1.98,Regular Client,88
+7893-696,2024-07-08,16:08:23,Cookies,Candies,6,19.88,119.28,Debit,Maria,2.88,21.47,Without Notes,67
+3261-241,2024-07-18,12:35:23,Chewing gums,Candies,3,17.08,51.24,Credit Card,Maria,2.21,9.22,Without Notes,89
+8893-525,2024-07-10,13:12:23,Cigarette Lighter,Others,9,10.64,95.76,Debit,Maria,0.96,29.69,Without Notes,75
+2593-406,2024-06-25,14:43:23,Beer,Drinks,10,13.61,136.1,Debit,Charles,3.37,24.5,Regular Client,53
+8307-558,2024-07-05,08:44:23,Lucky Strike,Cigarettes,7,10.08,70.56,Debit,John,0.79,4.26,Regular Client,94
+9397-392,2024-07-01,14:07:23,Lucky Strike,Cigarettes,2,10.08,20.16,Debit,Maria,0.24,1.15,Promotion Applied,94
+5758-914,2024-07-21,11:24:23,Cigarette Lighter,Others,4,10.64,42.56,Credit Card,Maria,0.2,9.69,Regular Client,81
+1255-267,2024-07-15,18:07:23,Water,Drinks,7,7.35,51.45,Debit,Maria,3.82,9.26,Without Notes,62
+8670-262,2024-06-30,12:54:23,Juice,Drinks,5,14.57,72.85,Debit,John,1.71,13.11,Promotion Applied,82
+1488-988,2024-07-15,13:48:23,Beer,Drinks,7,8.37,58.59,Debit,John,1.49,10.55,Promotion Applied,97
+2990-198,2024-06-28,01:58:23,Water,Drinks,9,18.66,167.94,Cash,John,0.7,30.23,Regular Client,10
+8353-164,2024-07-03,21:30:23,Water,Drinks,4,15.05,60.2,Cash,Maria,0.64,10.84,Regular Client,15
+1672-555,2024-06-28,20:37:23,Candies,Candies,8,14.51,116.08,Credit Card,John,9.79,20.89,Regular Client,48
+5257-808,2024-07-02,16:34:23,Juice,Drinks,3,10.35,31.05,Debit,John,0.29,5.59,Without Notes,1
+5211-762,2024-07-18,18:37:23,Cigarette Lighter,Others,1,10.64,10.64,Debit,Anna,0.8,2.12,Regular Client,10
+6505-338,2024-07-15,21:47:23,Water,Drinks,3,5.57,16.71,Cash,Maria,0.45,3.01,Without Notes,54
+5332-477,2024-06-25,17:43:23,Cigarette Lighter,Others,9,10.64,95.76,Credit Card,Maria,2.39,19.52,Without Notes,77
+1782-781,2024-06-30,18:34:23,Magazine,Others,9,8.67,78.03,Cash,Maria,6.29,14.05,Without Notes,93
+3494-499,2024-07-04,01:49:23,Juice,Drinks,7,4.8,33.6,Credit Card,Charles,1.25,6.05,Promotion Applied,84
+8983-820,2024-07-07,04:15:23,Juice,Drinks,6,6.4,38.4,Credit Card,Maria,1.63,6.91,Promotion Applied,18
+3731-504,2024-07-19,00:44:23,Cigarette Lighter,Others,2,10.64,21.28,Cash,John,0.42,6.36,Promotion Applied,82
+7143-477,2024-07-03,21:40:23,Water,Drinks,1,16.29,16.29,Cash,John,1.1,2.93,Without Notes,96
+4593-164,2024-07-10,13:24:23,Chocolate,Candies,9,9.57,86.13,Debit,Charles,3.61,15.5,Without Notes,80
+7706-341,2024-07-04,14:15:23,Toilet Paper,Others,1,16.08,16.08,Credit Card,Charles,0.58,2.89,Without Notes,49
+6104-629,2024-07-16,05:13:23,Candies,Candies,7,18.1,126.7,Debit,Charles,7.14,22.81,Regular Client,82
+6994-443,2024-07-07,23:39:23,Cookies,Candies,3,10.89,32.67,Credit Card,John,0.36,5.88,Without Notes,13
+9912-684,2024-07-08,15:06:23,Marlboro,Cigarettes,5,11.09,55.45,Credit Card,John,9.17,17.07,Without Notes,77
+4613-165,2024-07-09,00:31:23,Marlboro,Cigarettes,3,11.09,33.27,Credit Card,Maria,0.67,1.98,Promotion Applied,43
+8354-962,2024-07-18,12:20:23,Beer,Drinks,9,5.05,45.45,Debit,Maria,1.82,8.18,Regular Client,92
+9534-754,2024-06-29,19:51:23,Water,Drinks,3,2.83,8.49,Credit Card,John,0.68,1.53,Without Notes,79
+6321-452,2024-07-20,10:30:23,Marlboro,Cigarettes,5,11.09,55.45,Credit Card,Anna,0.53,10.31,Regular Client,27
+5181-498,2024-06-23,22:09:23,Chocolate,Candies,3,2.82,8.46,Debit,Charles,0.29,1.52,Without Notes,51
+2568-639,2024-07-01,22:06:23,Beer,Drinks,4,6.29,25.16,Debit,Anna,0.07,4.53,Regular Client,89
+4799-605,2024-07-19,02:30:23,Lucky Strike,Cigarettes,1,10.08,10.08,Cash,Charles,0.6,2.52,Without Notes,0
+6903-545,2024-07-14,11:19:23,Beer,Drinks,3,18.19,54.57,Debit,Anna,1.5,9.82,Without Notes,78
+4760-471,2024-06-24,12:06:23,Chocolate,Candies,4,6.53,26.12,Credit Card,John,1.7,4.7,Without Notes,64
+8016-230,2024-07-13,12:54:23,Lucky Strike,Cigarettes,5,10.08,50.4,Cash,Charles,3.02,5.66,Promotion Applied,43
+2252-997,2024-07-03,23:35:23,Candies,Candies,3,2.36,7.08,Debit,John,0.64,1.27,Without Notes,95
+1705-572,2024-07-17,10:47:23,Beer,Drinks,4,19.25,77,Credit Card,Anna,2.38,13.86,Without Notes,94
+2041-623,2024-07-02,02:36:23,Camel,Cigarettes,2,16.7,33.4,Cash,Charles,0.82,5.79,Regular Client,88
+6430-669,2024-07-19,18:50:23,Candies,Candies,2,9.07,18.14,Debit,John,0.98,3.27,Without Notes,15
+4645-280,2024-07-17,10:37:23,Marlboro,Cigarettes,9,11.09,99.81,Credit Card,Maria,7.16,21.85,Promotion Applied,28
+2940-803,2024-07-01,10:50:23,Toilet Paper,Others,3,1.22,3.66,Debit,John,0.15,0.66,Without Notes,53
+8516-539,2024-07-17,00:20:23,Toilet Paper,Others,5,15.12,75.6,Cash,Charles,2.32,13.61,Regular Client,91
+9549-594,2024-06-30,19:18:23,Water,Drinks,1,9.52,9.52,Debit,Maria,0.05,1.71,Without Notes,28
+6005-989,2024-06-21,16:23:23,Chocolate,Candies,10,12.58,125.8,Cash,John,4.3,22.64,Promotion Applied,41
+9768-833,2024-07-06,17:19:23,Toilet Paper,Others,4,6.1,24.4,Cash,Charles,0.59,4.39,Promotion Applied,75
+1042-220,2024-06-25,01:04:23,Toilet Paper,Others,7,14.63,102.41,Debit,Maria,1.1,18.43,Without Notes,49
+2971-189,2024-07-03,04:55:23,Candies,Candies,10,5.33,53.3,Debit,John,1.09,9.59,Without Notes,44
+1294-925,2024-06-26,14:36:23,Toilet Paper,Others,7,19.6,137.2,Cash,Charles,8.72,24.7,Without Notes,91
+2803-690,2024-07-19,19:07:23,Beer,Drinks,1,13.63,13.63,Debit,Charles,0.09,2.45,Promotion Applied,88
+1553-133,2024-07-13,15:27:23,Cookies,Candies,10,17.6,176,Cash,John,13.41,31.68,Regular Client,86
+7105-933,2024-06-25,04:46:23,Camel,Cigarettes,8,16.7,133.6,Credit Card,Maria,11.15,23.99,Regular Client,7
+2475-602,2024-06-24,15:22:23,Cookies,Candies,8,9.32,74.56,Cash,Charles,0.55,13.42,Regular Client,52
+9269-289,2024-06-29,03:02:23,Cookies,Candies,10,2.67,26.7,Credit Card,Anna,0.57,4.81,Without Notes,9
+3736-131,2024-07-07,04:41:23,Water,Drinks,4,15.54,62.16,Cash,John,4.75,11.19,Regular Client,8
+4765-352,2024-06-30,08:30:23,Toilet Paper,Others,7,13.31,93.17,Cash,Charles,7.69,16.77,Without Notes,67
+1701-818,2024-07-11,00:01:23,Chewing gums,Candies,8,17.69,141.52,Cash,Anna,4.68,25.47,Without Notes,88
+7557-182,2024-06-30,23:45:23,Chocolate,Candies,2,2.39,4.78,Debit,John,0.14,0.86,Without Notes,51
+6813-316,2024-07-01,10:30:23,Cigarette Lighter,Others,2,10.64,21.28,Cash,Anna,1.16,2.46,Without Notes,15
+4622-712,2024-07-15,07:35:23,Lucky Strike,Cigarettes,3,10.08,30.24,Debit,John,2.35,9.31,Promotion Applied,88
+4835-448,2024-07-08,08:50:23,Chewing gums,Candies,1,15.46,15.46,Debit,Anna,0.05,2.78,Regular Client,92
+1192-183,2024-06-27,11:23:23,Toilet Paper,Others,9,2.71,24.39,Credit Card,Maria,1.13,4.39,Regular Client,28
+4254-819,2024-07-21,07:13:23,Chewing gums,Candies,3,14.65,43.95,Cash,Anna,1.7,7.91,Without Notes,0
+8616-290,2024-06-29,18:45:23,Water,Drinks,8,1.33,10.64,Credit Card,Maria,0.36,1.92,Without Notes,46
+5529-235,2024-07-17,22:02:23,Magazine,Others,9,13.25,119.25,Debit,Maria,4.79,21.46,Regular Client,86
+5331-313,2024-06-25,19:49:23,Soda,Drinks,4,8.64,34.56,Debit,Charles,0.03,6.22,Without Notes,25
+6391-454,2024-07-17,08:57:23,Beer,Drinks,1,10.51,10.51,Debit,John,0.8,1.89,Without Notes,53
+1796-775,2024-07-08,03:04:23,Chewing gums,Candies,5,14.03,70.15,Credit Card,John,6.69,12.63,Without Notes,37
+6671-972,2024-06-24,23:56:23,Toilet Paper,Others,1,15.13,15.13,Cash,Maria,0.76,2.72,Regular Client,100
+8607-462,2024-07-11,15:53:23,Lucky Strike,Cigarettes,6,10.08,60.48,Cash,John,0.92,12.23,Promotion Applied,45
+7266-518,2024-07-20,07:53:23,Soda,Drinks,10,5.19,51.9,Debit,Anna,0.45,9.34,Promotion Applied,67
+9715-978,2024-07-02,05:12:23,Chewing gums,Candies,3,1.36,4.08,Debit,Maria,0.05,0.73,Without Notes,38
+6629-384,2024-06-29,14:57:23,Lucky Strike,Cigarettes,3,10.08,30.24,Cash,Anna,0.71,1.65,Without Notes,58
+5960-589,2024-07-04,16:45:23,Cigarette Lighter,Others,2,10.64,21.28,Cash,Maria,0.32,3.81,Without Notes,9
+2373-689,2024-07-06,03:53:23,Chewing gums,Candies,8,12.29,98.32,Credit Card,Maria,9.18,17.7,Without Notes,43
+1830-406,2024-07-02,22:54:23,Marlboro,Cigarettes,10,11.09,110.9,Cash,John,8.41,25.87,Regular Client,16
+2399-359,2024-07-08,16:15:23,Toilet Paper,Others,5,13.66,68.3,Debit,Maria,2.14,12.29,Promotion Applied,29
+9557-444,2024-06-24,23:10:23,Toilet Paper,Others,2,3.29,6.58,Debit,Anna,0.47,1.18,Without Notes,31
+5791-990,2024-07-10,18:55:23,Chewing gums,Candies,3,14.9,44.7,Cash,John,0.8,8.05,Promotion Applied,30
+5103-789,2024-06-27,10:43:23,Chewing gums,Candies,6,6.92,41.52,Debit,Maria,1.5,7.47,Promotion Applied,48
+7634-895,2024-06-29,20:22:23,Juice,Drinks,5,8.48,42.4,Credit Card,Charles,1.68,7.63,Promotion Applied,99
+1360-698,2024-07-08,12:50:23,Water,Drinks,4,2.53,10.12,Cash,John,0.76,1.82,Without Notes,70
+6049-756,2024-06-22,17:04:23,Water,Drinks,1,11.61,11.61,Credit Card,Maria,0.5,2.09,Promotion Applied,88
+7233-890,2024-07-13,00:04:23,Water,Drinks,1,7.31,7.31,Debit,Maria,0.43,1.32,Promotion Applied,25
+5021-825,2024-07-01,08:45:23,Marlboro,Cigarettes,8,11.09,88.72,Cash,Maria,9.2,24.02,Promotion Applied,15
+4098-478,2024-07-03,23:59:23,Lucky Strike,Cigarettes,4,10.08,40.32,Credit Card,Maria,3.7,11.03,Without Notes,22
+6411-955,2024-06-21,21:23:23,Lucky Strike,Cigarettes,3,10.08,30.24,Debit,Anna,0.45,0.86,Without Notes,30
+1001-393,2024-07-18,14:33:23,Water,Drinks,7,15.32,107.24,Credit Card,Charles,2.53,19.3,Promotion Applied,30
+2211-665,2024-07-14,18:15:23,Chocolate,Candies,8,5.75,46,Credit Card,Charles,2.66,8.28,Without Notes,100
+5759-752,2024-07-11,21:52:23,Magazine,Others,5,6.04,30.2,Debit,Charles,2.29,5.44,Promotion Applied,47
+6003-691,2024-07-20,02:09:23,Camel,Cigarettes,7,16.7,116.9,Debit,Maria,0.28,13.96,Without Notes,18
+4963-141,2024-06-24,16:25:23,Candies,Candies,9,8.59,77.31,Credit Card,John,2.78,13.92,Without Notes,50
+7681-113,2024-07-19,22:31:23,Chewing gums,Candies,6,8.29,49.74,Debit,Charles,3.62,8.95,Promotion Applied,96
+5091-393,2024-07-19,07:58:23,Toilet Paper,Others,3,3.35,10.05,Cash,Charles,0.93,1.81,Without Notes,81
+5732-611,2024-07-11,10:54:23,Water,Drinks,6,11.35,68.1,Cash,Charles,1.64,12.26,Without Notes,25
+2505-185,2024-06-21,19:59:23,Cookies,Candies,4,15.01,60.04,Debit,John,0.64,10.81,Regular Client,48
+6252-926,2024-06-24,02:54:23,Cigarette Lighter,Others,6,10.64,63.84,Debit,Maria,0.58,14,Without Notes,56
+2189-265,2024-07-05,03:21:23,Soda,Drinks,1,17.54,17.54,Credit Card,Anna,1.68,3.16,Promotion Applied,33
+7011-270,2024-07-20,02:41:23,Soda,Drinks,3,3.27,9.81,Credit Card,John,0.54,1.77,Promotion Applied,33
+5578-924,2024-07-16,14:06:23,Juice,Drinks,5,18.54,92.7,Credit Card,Anna,0.99,16.69,Promotion Applied,74
+8701-283,2024-06-25,15:56:23,Candies,Candies,6,7.96,47.76,Cash,Maria,0.03,8.6,Without Notes,100
+5044-658,2024-06-22,16:47:23,Water,Drinks,3,15.03,45.09,Credit Card,Maria,1.76,8.12,Without Notes,42
+7722-928,2024-07-18,13:52:23,Magazine,Others,3,17.96,53.88,Debit,Anna,0.71,9.7,Without Notes,16
+2221-765,2024-07-09,14:36:23,Lucky Strike,Cigarettes,10,10.08,100.8,Debit,Charles,5.15,13.41,Regular Client,64
+6848-888,2024-06-22,18:10:23,Camel,Cigarettes,8,16.7,133.6,Credit Card,Charles,5.76,10.53,Without Notes,55
+8616-784,2024-07-07,00:02:23,Juice,Drinks,10,2.49,24.9,Credit Card,Charles,0.17,4.48,Promotion Applied,98
+5697-302,2024-07-10,15:16:23,Cigarette Lighter,Others,5,10.64,53.2,Debit,Anna,0.28,11.95,Promotion Applied,84
+6570-363,2024-06-25,10:21:23,Chocolate,Candies,6,14.46,86.76,Debit,John,1.42,15.62,Promotion Applied,15
+1006-699,2024-07-12,23:09:23,Camel,Cigarettes,5,16.7,83.5,Credit Card,Anna,0.89,1.8,Regular Client,15
+7736-925,2024-06-24,04:45:23,Chewing gums,Candies,9,2.45,22.05,Cash,Anna,0.78,3.97,Without Notes,37
+6442-443,2024-07-20,17:23:23,Chocolate,Candies,9,1.69,15.21,Credit Card,Maria,1.39,2.74,Promotion Applied,19
+4132-937,2024-07-02,16:25:23,Magazine,Others,7,10.63,74.41,Debit,Anna,1.99,13.39,Without Notes,64
+1274-493,2024-06-27,09:34:23,Cookies,Candies,10,18.47,184.7,Cash,John,15.28,33.25,Regular Client,15
+9441-253,2024-07-05,06:00:23,Candies,Candies,7,11.02,77.14,Credit Card,John,6.61,13.89,Without Notes,10
+3435-205,2024-06-27,03:42:23,Chocolate,Candies,5,10.9,54.5,Cash,John,5.18,9.81,Regular Client,16
+3524-110,2024-06-26,23:13:23,Cookies,Candies,4,5.79,23.16,Credit Card,John,2.31,4.17,Without Notes,53
+7266-873,2024-07-14,21:42:23,Chocolate,Candies,7,10.99,76.93,Credit Card,John,0.31,13.85,Promotion Applied,0
+7889-591,2024-06-22,03:16:23,Chewing gums,Candies,5,13.01,65.05,Credit Card,Anna,4.86,11.71,Without Notes,34
+9033-111,2024-06-21,23:08:23,Candies,Candies,10,3.19,31.9,Debit,Charles,2.77,5.74,Promotion Applied,92
+5278-508,2024-07-19,12:10:23,Toilet Paper,Others,1,2.54,2.54,Debit,Charles,0.13,0.46,Without Notes,98
+1685-257,2024-07-16,03:12:23,Chewing gums,Candies,3,8.44,25.32,Debit,Maria,0.84,4.56,Regular Client,24
+6757-233,2024-06-23,09:42:23,Beer,Drinks,4,12.34,49.36,Credit Card,John,4.19,8.88,Promotion Applied,90
+9970-578,2024-06-26,09:03:23,Lucky Strike,Cigarettes,9,10.08,90.72,Cash,Charles,0.94,7.84,Promotion Applied,84
+8010-683,2024-06-29,06:15:23,Soda,Drinks,10,4.66,46.6,Debit,Anna,1.14,8.39,Promotion Applied,9
+4930-896,2024-06-23,08:04:23,Camel,Cigarettes,7,16.7,116.9,Debit,John,3.18,22.21,Promotion Applied,97
+9245-583,2024-07-16,10:14:23,Water,Drinks,4,3.87,15.48,Cash,Charles,1.19,2.79,Without Notes,58
+9555-917,2024-06-28,03:21:23,Camel,Cigarettes,3,16.7,50.1,Cash,Charles,0.77,3.27,Regular Client,12
+1859-846,2024-07-09,06:01:23,Camel,Cigarettes,5,16.7,83.5,Debit,Anna,3.09,6.59,Promotion Applied,79
+2552-272,2024-07-18,21:36:23,Water,Drinks,10,7.29,72.9,Cash,Charles,4.6,13.12,Promotion Applied,15
+9840-442,2024-06-26,03:42:23,Cigarette Lighter,Others,7,10.64,74.48,Debit,John,3.27,11.06,Without Notes,47
+1189-888,2024-07-15,04:13:23,Juice,Drinks,5,11.78,58.9,Cash,Maria,1.6,10.6,Without Notes,64
+2977-832,2024-07-18,12:40:23,Lucky Strike,Cigarettes,4,10.08,40.32,Debit,Maria,3.3,7.62,Regular Client,66
+1912-361,2024-07-11,21:03:23,Toilet Paper,Others,5,10.78,53.9,Debit,Maria,2.08,9.7,Without Notes,18
+6514-354,2024-07-19,14:42:23,Magazine,Others,8,1.27,10.16,Debit,John,0.19,1.83,Without Notes,63
+8378-342,2024-06-21,20:40:23,Lucky Strike,Cigarettes,9,10.08,90.72,Cash,John,6.14,26.21,Without Notes,33
+6950-689,2024-07-13,07:50:23,Camel,Cigarettes,1,16.7,16.7,Credit Card,Charles,0.73,2.64,Without Notes,76
+1236-884,2024-07-21,09:04:23,Candies,Candies,1,11.05,11.05,Debit,John,1.06,1.99,Without Notes,37
+8768-803,2024-07-05,05:02:23,Lucky Strike,Cigarettes,3,10.08,30.24,Credit Card,Charles,2.32,4.58,Regular Client,98
+4898-185,2024-07-05,18:33:23,Cigarette Lighter,Others,1,10.64,10.64,Cash,Charles,0.49,1.74,Regular Client,92
+5573-996,2024-06-24,17:01:23,Magazine,Others,7,12.12,84.84,Debit,John,7.17,15.27,Without Notes,49
+2277-135,2024-07-09,18:05:23,Toilet Paper,Others,8,1.63,13.04,Debit,John,0.65,2.35,Without Notes,39
+6760-705,2024-06-27,10:46:23,Lucky Strike,Cigarettes,1,10.08,10.08,Credit Card,John,0.16,0.86,Without Notes,49
+2793-114,2024-07-07,02:00:23,Juice,Drinks,8,14.8,118.4,Credit Card,John,8.31,21.31,Without Notes,58
+1657-496,2024-07-08,06:56:23,Cigarette Lighter,Others,1,10.64,10.64,Debit,John,0.21,0.38,Without Notes,2
+9649-659,2024-06-27,20:44:23,Beer,Drinks,8,6.14,49.12,Credit Card,Maria,0.88,8.84,Without Notes,54
+7681-276,2024-07-02,02:40:23,Beer,Drinks,5,10.13,50.65,Debit,Anna,2.78,9.12,Without Notes,70
+2453-443,2024-07-08,20:54:23,Candies,Candies,6,6.1,36.6,Debit,John,2.72,6.59,Without Notes,14
+6621-326,2024-07-17,19:08:23,Water,Drinks,10,19.92,199.2,Credit Card,Anna,8.89,35.86,Without Notes,26
+6917-352,2024-07-08,15:04:23,Chewing gums,Candies,5,13.94,69.7,Debit,John,0.44,12.55,Promotion Applied,47
+7621-590,2024-06-25,02:56:23,Water,Drinks,4,14.72,58.88,Debit,Maria,5.24,10.6,Regular Client,47
+3799-533,2024-07-01,05:19:23,Lucky Strike,Cigarettes,8,10.08,80.64,Debit,Anna,3.74,18.94,Regular Client,4
+8442-103,2024-06-24,07:48:23,Marlboro,Cigarettes,5,11.09,55.45,Cash,Anna,0.41,1.13,Without Notes,0
+6657-550,2024-07-19,06:15:23,Juice,Drinks,8,4.81,38.48,Credit Card,Charles,0.98,6.93,Without Notes,70
+9225-807,2024-07-07,23:48:23,Chocolate,Candies,2,4.5,9,Debit,Maria,0.69,1.62,Regular Client,92
+5477-660,2024-07-13,08:21:23,Chewing gums,Candies,3,12.01,36.03,Debit,Maria,0.03,6.49,Without Notes,86
+4025-734,2024-07-09,18:51:23,Magazine,Others,5,4.64,23.2,Debit,Charles,2.05,4.18,Without Notes,10
+5942-497,2024-07-17,15:16:23,Cigarette Lighter,Others,5,10.64,53.2,Credit Card,Maria,2.91,6.03,Without Notes,52
+9556-176,2024-07-13,06:25:23,Cookies,Candies,6,9.97,59.82,Debit,John,2.51,10.77,Without Notes,84
+1317-419,2024-07-02,06:05:23,Chocolate,Candies,9,11.81,106.29,Cash,John,4.72,19.13,Promotion Applied,55
+8026-576,2024-07-19,13:45:23,Magazine,Others,1,3.26,3.26,Credit Card,Maria,0.17,0.59,Regular Client,48
+5145-798,2024-07-13,01:56:23,Beer,Drinks,3,12.54,37.62,Debit,Charles,1.69,6.77,Without Notes,47
+1934-484,2024-07-03,05:11:23,Lucky Strike,Cigarettes,9,10.08,90.72,Debit,Maria,0.75,11.79,Without Notes,32
+6496-799,2024-06-30,23:54:23,Lucky Strike,Cigarettes,5,10.08,50.4,Cash,Maria,1.44,8.63,Regular Client,98
+2673-359,2024-07-07,07:30:23,Marlboro,Cigarettes,3,11.09,33.27,Debit,Charles,1.86,9.28,Regular Client,37
+3320-566,2024-07-15,05:30:23,Candies,Candies,10,18.1,181,Credit Card,John,15.47,32.58,Without Notes,97
+8354-989,2024-07-03,15:20:23,Water,Drinks,8,16.19,129.52,Debit,Maria,0.79,23.31,Regular Client,94
+1358-574,2024-07-18,09:34:23,Chocolate,Candies,5,8.08,40.4,Cash,Maria,0.31,7.27,Promotion Applied,99
+2898-187,2024-07-17,16:34:23,Marlboro,Cigarettes,1,11.09,11.09,Credit Card,John,0.33,1.97,Without Notes,20
+1067-861,2024-07-03,10:04:23,Cookies,Candies,7,6.79,47.53,Cash,Charles,2.76,8.56,Promotion Applied,32
+6933-799,2024-06-21,10:47:23,Candies,Candies,7,10.31,72.17,Debit,Anna,6.7,12.99,Without Notes,1
+6989-370,2024-06-21,18:38:23,Cigarette Lighter,Others,10,10.64,106.4,Debit,Maria,12.85,25.2,Without Notes,92
+2889-209,2024-07-07,09:00:23,Soda,Drinks,8,2.44,19.52,Debit,Anna,1.91,3.51,Promotion Applied,26
+4785-158,2024-07-10,14:55:23,Chewing gums,Candies,4,10.47,41.88,Credit Card,Anna,2.22,7.54,Regular Client,46
+4693-868,2024-07-12,02:13:23,Beer,Drinks,8,13.53,108.24,Debit,Charles,0.18,19.48,Promotion Applied,70
+2425-885,2024-06-24,08:08:23,Candies,Candies,1,13.41,13.41,Cash,Anna,0.93,2.41,Without Notes,100
+5332-615,2024-07-18,10:57:23,Chocolate,Candies,1,17.98,17.98,Credit Card,Maria,1.56,3.24,Promotion Applied,29
+4689-171,2024-07-20,17:55:23,Marlboro,Cigarettes,4,11.09,44.36,Cash,John,1.55,8.82,Without Notes,97
+3280-838,2024-07-16,04:15:23,Cookies,Candies,9,16.45,148.05,Credit Card,Maria,9.74,26.65,Promotion Applied,67
+9307-556,2024-07-09,23:31:23,Marlboro,Cigarettes,3,11.09,33.27,Credit Card,Maria,4.44,8.45,Without Notes,80
+6756-109,2024-07-15,03:45:23,Chewing gums,Candies,3,19.29,57.87,Cash,John,2.09,10.42,Without Notes,21
+7993-986,2024-06-26,13:07:23,Chocolate,Candies,6,7.08,42.48,Credit Card,John,1,7.65,Without Notes,6
+3950-906,2024-06-20,23:24:23,Water,Drinks,5,6.17,30.85,Credit Card,Maria,2.1,5.55,Without Notes,53
+1515-328,2024-07-01,08:46:23,Juice,Drinks,1,2.17,2.17,Cash,Charles,0.05,0.39,Without Notes,40
+3305-965,2024-06-29,03:55:23,Cookies,Candies,8,15.66,125.28,Credit Card,Anna,2.54,22.55,Regular Client,85
+3907-275,2024-07-04,08:08:23,Chewing gums,Candies,10,7.57,75.7,Cash,Charles,0.31,13.63,Promotion Applied,59
+5189-699,2024-06-28,16:25:23,Soda,Drinks,10,7.67,76.7,Credit Card,Charles,6.2,13.81,Without Notes,97
+1122-643,2024-06-28,06:00:23,Toilet Paper,Others,2,18.73,37.46,Debit,John,3.35,6.74,Without Notes,36
+1118-715,2024-06-25,04:06:23,Marlboro,Cigarettes,2,11.09,22.18,Cash,John,1,2.55,Without Notes,9
+4914-585,2024-06-22,04:56:23,Chocolate,Candies,5,9.48,47.4,Debit,Maria,1.57,8.53,Promotion Applied,85
+3504-251,2024-07-11,11:27:23,Candies,Candies,4,10.29,41.16,Credit Card,Maria,2.31,7.41,Regular Client,15
+5597-733,2024-06-21,21:15:23,Toilet Paper,Others,1,18.69,18.69,Cash,Maria,1.39,3.36,Regular Client,74
+1749-233,2024-07-15,20:18:23,Camel,Cigarettes,8,16.7,133.6,Credit Card,Charles,1.66,25.75,Regular Client,81
+1283-412,2024-07-12,10:41:23,Chocolate,Candies,9,15.6,140.4,Credit Card,Charles,2.55,25.27,Without Notes,12
+1307-978,2024-07-13,02:56:23,Water,Drinks,2,5.39,10.78,Credit Card,Anna,0.45,1.94,Promotion Applied,64
+3563-970,2024-07-19,15:26:23,Chewing gums,Candies,8,3.93,31.44,Cash,Maria,0.66,5.66,Promotion Applied,55
+7221-958,2024-07-05,01:42:23,Beer,Drinks,7,11.93,83.51,Debit,Charles,0.74,15.03,Without Notes,8
+5744-388,2024-07-02,11:19:23,Soda,Drinks,3,11.46,34.38,Debit,Charles,3.33,6.19,Without Notes,77
+9812-929,2024-07-03,03:28:23,Lucky Strike,Cigarettes,2,10.08,20.16,Credit Card,Charles,2.81,6.8,Promotion Applied,41
+1121-351,2024-06-26,07:54:23,Water,Drinks,6,5.29,31.74,Credit Card,John,2.28,5.71,Without Notes,43
+8570-447,2024-06-29,05:43:23,Lucky Strike,Cigarettes,1,10.08,10.08,Cash,John,0.49,3.59,Without Notes,98
+9509-535,2024-07-16,00:36:23,Toilet Paper,Others,3,6.88,20.64,Cash,Anna,1.59,3.72,Without Notes,83
+5839-761,2024-06-25,01:05:23,Candies,Candies,3,15.62,46.86,Cash,Charles,2.21,8.43,Regular Client,77
+2783-752,2024-07-19,16:10:23,Soda,Drinks,1,13.18,13.18,Credit Card,Maria,0.03,2.37,Without Notes,4
+5683-660,2024-07-15,21:11:23,Water,Drinks,6,11.12,66.72,Cash,Charles,5.97,12.01,Without Notes,62
+2669-673,2024-06-30,07:42:23,Camel,Cigarettes,9,16.7,150.3,Cash,Maria,1.86,5.9,Without Notes,63
+9252-892,2024-07-09,03:11:23,Juice,Drinks,10,5.98,59.8,Cash,Maria,1.27,10.76,Without Notes,79
+8421-678,2024-06-26,17:31:23,Soda,Drinks,8,4.23,33.84,Credit Card,John,2.47,6.09,Promotion Applied,93
+5012-108,2024-06-23,09:17:23,Water,Drinks,2,7,14,Credit Card,John,0.51,2.52,Regular Client,52
+7780-614,2024-07-12,14:08:23,Soda,Drinks,1,16.5,16.5,Debit,Maria,1.55,2.97,Promotion Applied,54
+9048-740,2024-07-14,23:17:23,Chewing gums,Candies,7,7.78,54.46,Cash,John,2.51,9.8,Without Notes,79
+9257-582,2024-07-14,11:52:23,Water,Drinks,1,8.24,8.24,Debit,Charles,0.73,1.48,Without Notes,33
+1883-428,2024-06-22,06:58:23,Cookies,Candies,5,10.81,54.05,Cash,John,5.38,9.73,Without Notes,89
+1761-700,2024-07-04,10:56:23,Juice,Drinks,6,17.71,106.26,Credit Card,John,6.69,19.13,Regular Client,77
+7029-656,2024-07-20,21:42:23,Water,Drinks,4,8.52,34.08,Credit Card,Maria,3.14,6.13,Promotion Applied,63
+5955-721,2024-07-03,18:39:23,Juice,Drinks,10,9.67,96.7,Cash,Maria,9.31,17.41,Promotion Applied,18
+2100-579,2024-07-07,07:56:23,Chewing gums,Candies,3,11.78,35.34,Cash,Anna,0.55,6.36,Regular Client,87
+1756-656,2024-07-20,22:55:23,Lucky Strike,Cigarettes,2,10.08,20.16,Credit Card,Maria,1.75,6.8,Promotion Applied,25
+2842-247,2024-06-25,20:01:23,Candies,Candies,1,16.7,16.7,Credit Card,Anna,1.41,3.01,Promotion Applied,24
+2060-215,2024-07-03,05:53:23,Camel,Cigarettes,7,16.7,116.9,Credit Card,Charles,0.33,4.45,Without Notes,100
+3679-644,2024-07-15,03:34:23,Cigarette Lighter,Others,10,10.64,106.4,Cash,Maria,13.77,27.76,Regular Client,42
+5567-108,2024-07-01,19:18:23,Camel,Cigarettes,10,16.7,167,Credit Card,Maria,0.23,4.14,Regular Client,75
+6423-752,2024-07-16,01:57:23,Cookies,Candies,1,19.08,19.08,Credit Card,Anna,1.02,3.43,Regular Client,25
+6183-863,2024-06-27,10:25:23,Cookies,Candies,9,13.72,123.48,Debit,Maria,9.19,22.23,Without Notes,6
+1811-451,2024-06-25,14:22:23,Camel,Cigarettes,1,16.7,16.7,Credit Card,Maria,0.2,0.51,Without Notes,98
+5932-959,2024-06-21,09:29:23,Candies,Candies,7,13.94,97.58,Credit Card,Anna,1.8,17.56,Without Notes,26
+1116-561,2024-07-10,13:26:23,Camel,Cigarettes,10,16.7,167,Credit Card,Anna,6.09,23.81,Without Notes,27
+4334-671,2024-07-02,06:44:23,Cigarette Lighter,Others,2,10.64,21.28,Credit Card,Charles,0.03,2.75,Promotion Applied,75
+3904-398,2024-07-15,20:09:23,Cookies,Candies,6,4.51,27.06,Debit,Anna,0.19,4.87,Regular Client,69
+2277-465,2024-07-05,19:02:23,Magazine,Others,9,16.67,150.03,Cash,John,2.82,27.01,Promotion Applied,69
+9335-610,2024-07-04,03:51:23,Soda,Drinks,7,14.56,101.92,Debit,Charles,9.26,18.35,Promotion Applied,71
+1330-824,2024-07-14,20:25:23,Juice,Drinks,1,12.1,12.1,Debit,Anna,0.96,2.18,Regular Client,77
+3172-831,2024-06-28,14:35:23,Magazine,Others,10,7.2,72,Cash,Anna,3.92,12.96,Promotion Applied,78
+1785-668,2024-06-24,18:51:23,Toilet Paper,Others,7,15.66,109.62,Cash,Charles,9.17,19.73,Regular Client,21
+8672-851,2024-06-28,06:40:23,Candies,Candies,1,7.93,7.93,Debit,Anna,0.55,1.43,Regular Client,4
+7053-486,2024-07-10,19:08:23,Juice,Drinks,7,8.43,59.01,Debit,Anna,4.36,10.62,Promotion Applied,9
+8029-486,2024-07-12,14:44:23,Chocolate,Candies,9,3.36,30.24,Debit,Charles,1.68,5.44,Without Notes,38
+9528-661,2024-07-03,09:21:23,Water,Drinks,9,5.4,48.6,Credit Card,John,2.9,8.75,Regular Client,31
+7115-130,2024-06-26,17:34:23,Magazine,Others,2,1.58,3.16,Credit Card,John,0.12,0.57,Without Notes,50
+2186-820,2024-06-22,18:51:23,Chocolate,Candies,9,13.29,119.61,Cash,John,1.1,21.53,Promotion Applied,47
+2383-336,2024-07-12,03:24:23,Chocolate,Candies,7,17.48,122.36,Cash,John,7.38,22.02,Promotion Applied,99
+3260-946,2024-06-25,17:24:23,Marlboro,Cigarettes,7,11.09,77.63,Cash,John,8.56,20.41,Without Notes,99
+8170-768,2024-06-24,06:10:23,Soda,Drinks,8,17.1,136.8,Debit,Anna,5.58,24.62,Without Notes,49
+3292-442,2024-07-11,04:46:23,Water,Drinks,4,11.98,47.92,Debit,Anna,1.83,8.63,Without Notes,8
+7152-963,2024-07-05,05:51:23,Beer,Drinks,5,10.31,51.55,Cash,Charles,2.83,9.28,Without Notes,93
+7582-634,2024-07-10,05:57:23,Lucky Strike,Cigarettes,10,10.08,100.8,Cash,Anna,0.99,2.56,Without Notes,90
+3259-344,2024-07-05,03:35:23,Toilet Paper,Others,8,4.04,32.32,Debit,Maria,1.35,5.82,Regular Client,53
+4359-643,2024-07-01,04:00:23,Beer,Drinks,3,1.45,4.35,Debit,Charles,0.39,0.78,Without Notes,48
+3438-982,2024-07-02,00:21:23,Chewing gums,Candies,6,9.67,58.02,Credit Card,Maria,1.42,10.44,Promotion Applied,21
+2247-354,2024-06-27,15:33:23,Cookies,Candies,7,14.36,100.52,Debit,John,7.21,18.09,Without Notes,48
+2806-207,2024-07-01,10:24:23,Magazine,Others,8,2.96,23.68,Cash,Maria,0.68,4.26,Without Notes,53
+6243-359,2024-07-07,00:56:23,Soda,Drinks,8,3.94,31.52,Cash,Maria,3.1,5.67,Without Notes,61
+2034-757,2024-06-24,23:32:23,Chewing gums,Candies,6,16.9,101.4,Cash,Charles,3.14,18.25,Without Notes,88
+3126-885,2024-07-17,21:37:23,Lucky Strike,Cigarettes,1,10.08,10.08,Credit Card,Anna,0.1,3.28,Promotion Applied,52
+3317-936,2024-07-04,02:11:23,Water,Drinks,4,9.69,38.76,Debit,Charles,0.29,6.98,Without Notes,33
+6376-363,2024-07-05,05:30:23,Soda,Drinks,5,2.9,14.5,Cash,Maria,0.25,2.61,Promotion Applied,10
+7894-244,2024-07-19,15:27:23,Chewing gums,Candies,9,1.24,11.16,Credit Card,John,0.1,2.01,Regular Client,19
+1556-675,2024-07-08,01:15:23,Cookies,Candies,2,12.65,25.3,Debit,John,2.03,4.55,Without Notes,47
+8041-208,2024-07-20,16:35:23,Lucky Strike,Cigarettes,5,10.08,50.4,Credit Card,Maria,1.18,4.37,Without Notes,87
+4502-270,2024-06-21,12:53:23,Toilet Paper,Others,1,15.09,15.09,Debit,Anna,1.08,2.72,Regular Client,44
+6503-502,2024-07-12,13:18:23,Camel,Cigarettes,10,16.7,167,Cash,Charles,0.01,7.7,Without Notes,44
+7661-139,2024-07-10,07:56:23,Soda,Drinks,4,8.37,33.48,Credit Card,Maria,0.46,6.03,Without Notes,47
+1868-617,2024-07-05,16:10:23,Cigarette Lighter,Others,10,10.64,106.4,Debit,Charles,1.37,31.84,Regular Client,81
+6510-588,2024-07-09,21:37:23,Cigarette Lighter,Others,8,10.64,85.12,Cash,Anna,3.49,8.76,Regular Client,69
+8012-672,2024-07-11,17:04:23,Candies,Candies,9,4.03,36.27,Credit Card,Charles,0.3,6.53,Without Notes,90
+3029-296,2024-07-15,08:53:23,Juice,Drinks,4,1.55,6.2,Cash,Charles,0.35,1.12,Without Notes,59
+4444-816,2024-07-14,14:57:23,Toilet Paper,Others,1,19.79,19.79,Cash,Anna,0.81,3.56,Regular Client,3
+7597-398,2024-07-06,04:33:23,Soda,Drinks,4,18.81,75.24,Cash,John,4.12,13.54,Without Notes,55
+8950-812,2024-07-13,10:35:23,Cigarette Lighter,Others,3,10.64,31.92,Cash,Maria,5.7,10.39,Without Notes,60
+3115-362,2024-07-03,11:03:23,Water,Drinks,9,19.3,173.7,Cash,Maria,4.01,31.27,Without Notes,27
+8689-462,2024-07-06,08:39:23,Toilet Paper,Others,8,15.61,124.88,Credit Card,Charles,12.02,22.48,Regular Client,75
+2195-193,2024-07-15,14:32:23,Lucky Strike,Cigarettes,8,10.08,80.64,Cash,John,8.05,16.16,Regular Client,36
+5775-206,2024-07-03,04:39:23,Chewing gums,Candies,2,19.57,39.14,Credit Card,Maria,0.47,7.05,Without Notes,62
+9254-515,2024-06-21,01:55:23,Camel,Cigarettes,9,16.7,150.3,Cash,Anna,0.09,1.81,Without Notes,20
+4838-680,2024-07-03,18:15:23,Chewing gums,Candies,1,19.78,19.78,Credit Card,Anna,0.94,3.56,Regular Client,19
+9042-158,2024-07-08,06:44:23,Soda,Drinks,3,13.31,39.93,Debit,Maria,2.24,7.19,Without Notes,69
+1571-735,2024-07-09,15:35:23,Cigarette Lighter,Others,8,10.64,85.12,Credit Card,John,2.34,8.4,Without Notes,81
+6923-871,2024-06-27,12:28:23,Beer,Drinks,3,10.42,31.26,Debit,John,3.04,5.63,Promotion Applied,83
+9804-419,2024-07-19,11:30:23,Chocolate,Candies,3,14.97,44.91,Cash,Anna,2.73,8.08,Without Notes,22
+9750-113,2024-07-15,17:54:23,Candies,Candies,2,9.45,18.9,Debit,John,0.74,3.4,Regular Client,41
+7529-302,2024-06-23,09:59:23,Cookies,Candies,6,5.53,33.18,Credit Card,Charles,2.22,5.97,Promotion Applied,39
+1017-322,2024-07-13,01:00:23,Beer,Drinks,6,18.51,111.06,Credit Card,Anna,4.71,19.99,Regular Client,22
+8531-621,2024-06-20,22:14:23,Lucky Strike,Cigarettes,1,10.08,10.08,Debit,Anna,0.03,0.68,Promotion Applied,1
+2499-291,2024-07-17,04:59:23,Candies,Candies,10,12.56,125.6,Credit Card,Anna,8.68,22.61,Promotion Applied,32
+6135-428,2024-07-06,18:04:23,Marlboro,Cigarettes,7,11.09,77.63,Credit Card,John,3.86,13.47,Regular Client,75
+6174-282,2024-06-30,02:30:23,Chewing gums,Candies,9,5.75,51.75,Cash,Anna,5.1,9.31,Promotion Applied,50
+9134-855,2024-07-08,12:45:23,Cookies,Candies,8,9.97,79.76,Credit Card,Charles,1.21,14.36,Regular Client,3
+1981-716,2024-07-14,13:26:23,Toilet Paper,Others,1,1.86,1.86,Credit Card,Maria,0.18,0.33,Without Notes,54
+5894-100,2024-07-03,16:19:23,Lucky Strike,Cigarettes,8,10.08,80.64,Debit,Charles,3.41,12.92,Promotion Applied,8
+1887-504,2024-07-18,15:40:23,Marlboro,Cigarettes,8,11.09,88.72,Cash,John,8.69,20.56,Promotion Applied,80
+1199-711,2024-07-12,04:16:23,Candies,Candies,10,19.4,194,Cash,John,3.59,34.92,Promotion Applied,13
+7550-566,2024-07-13,00:32:23,Water,Drinks,5,4.94,24.7,Credit Card,Charles,0.15,4.45,Without Notes,43
+8571-156,2024-07-13,18:01:23,Juice,Drinks,2,12.84,25.68,Debit,Maria,1.14,4.62,Promotion Applied,19
+7317-260,2024-07-12,19:01:23,Toilet Paper,Others,3,3.61,10.83,Credit Card,Anna,0.52,1.95,Regular Client,33
+8552-614,2024-07-02,02:09:23,Candies,Candies,5,14.75,73.75,Credit Card,Charles,3.39,13.28,Without Notes,51
+3706-658,2024-07-07,21:00:23,Marlboro,Cigarettes,7,11.09,77.63,Cash,Charles,1,15.42,Promotion Applied,8
+8425-821,2024-07-07,16:23:23,Cookies,Candies,7,4.46,31.22,Credit Card,Anna,1.42,5.62,Without Notes,39
+1762-896,2024-06-27,11:35:23,Lucky Strike,Cigarettes,5,10.08,50.4,Credit Card,Charles,0.16,2.29,Regular Client,84
+2359-180,2024-07-14,01:12:23,Water,Drinks,8,13.19,105.52,Debit,Anna,3.31,18.99,Regular Client,89
+2002-808,2024-07-18,09:12:23,Marlboro,Cigarettes,5,11.09,55.45,Credit Card,Charles,1.73,4.55,Regular Client,8
+9918-111,2024-06-24,10:01:23,Cigarette Lighter,Others,7,10.64,74.48,Debit,Charles,0.3,9.89,Without Notes,100
+9953-669,2024-06-29,09:46:23,Marlboro,Cigarettes,1,11.09,11.09,Credit Card,Charles,0.45,3.45,Without Notes,85
+4464-788,2024-07-08,03:35:23,Toilet Paper,Others,6,11.84,71.04,Cash,Anna,2.7,12.79,Without Notes,65
+6048-996,2024-07-11,00:02:23,Cookies,Candies,8,8.82,70.56,Credit Card,John,2.91,12.7,Without Notes,67
+9742-111,2024-07-18,15:13:23,Toilet Paper,Others,6,14.97,89.82,Debit,Charles,7.04,16.17,Regular Client,61
+1393-397,2024-06-30,07:28:23,Toilet Paper,Others,6,3.86,23.16,Debit,Anna,0.53,4.17,Without Notes,3
+6818-111,2024-07-20,01:12:23,Chewing gums,Candies,4,19.02,76.08,Debit,Maria,3.87,13.69,Promotion Applied,10
+8811-178,2024-06-22,00:23:23,Toilet Paper,Others,2,1.68,3.36,Debit,Charles,0.12,0.6,Promotion Applied,5
+2541-194,2024-07-20,23:16:23,Cigarette Lighter,Others,10,10.64,106.4,Credit Card,Anna,4.95,23.94,Without Notes,12
+3868-928,2024-06-30,22:07:23,Marlboro,Cigarettes,3,11.09,33.27,Debit,Anna,2.09,4.31,Regular Client,11
+5620-997,2024-06-22,07:40:23,Lucky Strike,Cigarettes,4,10.08,40.32,Debit,John,4.73,9.63,Without Notes,21
+2785-388,2024-06-28,12:07:23,Marlboro,Cigarettes,1,11.09,11.09,Debit,Maria,0.26,0.99,Regular Client,20
+2146-722,2024-07-05,01:56:23,Magazine,Others,1,18.11,18.11,Debit,Charles,0.59,3.26,Without Notes,61
+3128-165,2024-06-22,01:12:23,Lucky Strike,Cigarettes,5,10.08,50.4,Debit,Anna,0.54,1.22,Without Notes,52
+4711-717,2024-07-16,14:53:23,Lucky Strike,Cigarettes,1,10.08,10.08,Debit,John,0.06,0.64,Without Notes,40
+7825-643,2024-06-20,21:20:23,Lucky Strike,Cigarettes,9,10.08,90.72,Debit,Maria,3.01,31.36,Without Notes,60
+9543-531,2024-07-19,13:01:23,Chocolate,Candies,10,19.34,193.4,Cash,John,8.55,34.81,Without Notes,6
+1911-759,2024-07-14,22:51:23,Camel,Cigarettes,3,16.7,50.1,Cash,Charles,3.79,9.51,Without Notes,86
+7650-251,2024-06-21,01:08:23,Lucky Strike,Cigarettes,7,10.08,70.56,Cash,Maria,0.08,4.83,Regular Client,85
+7235-407,2024-07-16,09:43:23,Cookies,Candies,8,18.42,147.36,Credit Card,Charles,13.19,26.52,Promotion Applied,25
+5774-968,2024-07-21,00:54:23,Water,Drinks,5,14.08,70.4,Cash,Anna,5.9,12.67,Promotion Applied,9
+4373-669,2024-06-24,19:25:23,Lucky Strike,Cigarettes,10,10.08,100.8,Debit,Charles,4.93,10.55,Regular Client,50
+2291-128,2024-07-07,00:30:23,Cookies,Candies,10,5.04,50.4,Credit Card,Charles,3.71,9.07,Promotion Applied,18
+9050-367,2024-06-27,03:46:23,Lucky Strike,Cigarettes,6,10.08,60.48,Debit,Charles,0.58,1.35,Without Notes,85
+3722-510,2024-07-17,09:33:23,Soda,Drinks,9,11.6,104.4,Credit Card,John,6.02,18.79,Regular Client,94
+2620-567,2024-07-04,04:38:23,Toilet Paper,Others,5,10.62,53.1,Debit,Maria,1.23,9.56,Without Notes,82
+4891-851,2024-07-01,02:59:23,Cigarette Lighter,Others,2,10.64,21.28,Cash,Charles,0.08,0.51,Without Notes,36
+1844-796,2024-07-11,15:29:23,Toilet Paper,Others,9,15,135,Cash,Charles,12.01,24.3,Without Notes,19
+7145-541,2024-07-15,18:15:23,Lucky Strike,Cigarettes,7,10.08,70.56,Debit,Anna,1.96,12.03,Without Notes,97
+8552-921,2024-06-25,06:40:23,Magazine,Others,3,11.11,33.33,Credit Card,Charles,2.57,6,Promotion Applied,45
+4651-118,2024-06-30,05:00:23,Lucky Strike,Cigarettes,5,10.08,50.4,Debit,John,3.61,7.23,Promotion Applied,5
+1383-935,2024-06-28,01:47:23,Camel,Cigarettes,6,16.7,100.2,Debit,Charles,0.48,8.37,Promotion Applied,19
+8931-118,2024-07-10,21:31:23,Camel,Cigarettes,8,16.7,133.6,Credit Card,John,4.05,21.77,Promotion Applied,48
+6169-706,2024-07-04,22:49:23,Water,Drinks,8,12.94,103.52,Credit Card,Charles,3.48,18.63,Without Notes,28
+2532-365,2024-07-17,21:43:23,Cigarette Lighter,Others,8,10.64,85.12,Cash,Maria,8.69,24.21,Promotion Applied,39
+9565-975,2024-07-17,10:39:23,Marlboro,Cigarettes,4,11.09,44.36,Credit Card,Anna,1.05,5.43,Regular Client,53
+3572-795,2024-07-11,03:48:23,Lucky Strike,Cigarettes,1,10.08,10.08,Cash,John,0.99,3.3,Without Notes,2
+7328-825,2024-06-28,11:59:23,Candies,Candies,3,1.07,3.21,Credit Card,Anna,0.08,0.58,Without Notes,84
+7885-183,2024-07-16,03:29:23,Toilet Paper,Others,7,2.73,19.11,Cash,Maria,0.61,3.44,Regular Client,85
+3449-911,2024-07-09,21:19:23,Magazine,Others,4,12.32,49.28,Cash,Charles,2.29,8.87,Without Notes,89
+3721-376,2024-07-16,05:35:23,Candies,Candies,6,4.22,25.32,Debit,John,2.03,4.56,Promotion Applied,45
+5611-188,2024-07-06,03:00:23,Beer,Drinks,1,4.52,4.52,Debit,Maria,0.44,0.81,Without Notes,71
+4231-945,2024-07-16,18:43:23,Chocolate,Candies,7,9.2,64.4,Credit Card,Maria,0.5,11.59,Promotion Applied,87
+8813-537,2024-06-26,15:19:23,Candies,Candies,1,18.84,18.84,Debit,John,0.39,3.39,Promotion Applied,54
+3602-225,2024-06-22,12:41:23,Camel,Cigarettes,10,16.7,167,Debit,Maria,0.52,2.07,Promotion Applied,67
+9353-632,2024-07-04,17:44:23,Chewing gums,Candies,5,7.74,38.7,Credit Card,John,2.98,6.97,Without Notes,64
+2259-406,2024-07-08,06:31:23,Cookies,Candies,8,6.42,51.36,Debit,Charles,3.03,9.24,Without Notes,9
+1855-316,2024-06-24,23:03:23,Chocolate,Candies,10,14.34,143.4,Credit Card,Anna,7.24,25.81,Regular Client,19
+2302-602,2024-06-28,06:16:23,Cigarette Lighter,Others,5,10.64,53.2,Debit,John,4.29,7.95,Without Notes,35
+7821-550,2024-07-12,18:54:23,Toilet Paper,Others,2,8.2,16.4,Debit,Anna,1.49,2.95,Without Notes,79
+3493-466,2024-06-27,05:10:23,Marlboro,Cigarettes,5,11.09,55.45,Cash,Anna,0.61,7.6,Without Notes,93
+8886-272,2024-07-11,02:12:23,Lucky Strike,Cigarettes,4,10.08,40.32,Cash,John,0.16,8.56,Regular Client,3
+4307-413,2024-07-04,21:22:23,Toilet Paper,Others,2,17.26,34.52,Credit Card,Charles,2.83,6.21,Without Notes,98
+3390-237,2024-07-08,19:53:23,Toilet Paper,Others,10,4.38,43.8,Cash,Charles,0.48,7.88,Regular Client,86
+4838-522,2024-07-07,18:48:23,Magazine,Others,1,10.38,10.38,Credit Card,Charles,0.12,1.87,Regular Client,34
+6311-861,2024-07-18,14:29:23,Toilet Paper,Others,6,6.64,39.84,Cash,Charles,3.33,7.17,Promotion Applied,35
+4732-799,2024-07-05,16:10:23,Soda,Drinks,4,18.48,73.92,Credit Card,Charles,1.66,13.31,Regular Client,48
+7201-759,2024-07-14,11:31:23,Magazine,Others,10,9.11,91.1,Credit Card,Maria,7.29,16.4,Without Notes,0
+3554-404,2024-07-08,12:12:23,Cigarette Lighter,Others,3,10.64,31.92,Cash,Anna,0.84,7.31,Without Notes,80
+1750-329,2024-07-19,09:56:23,Camel,Cigarettes,4,16.7,66.8,Debit,Charles,6.17,11.16,Regular Client,31
+4043-134,2024-06-26,21:34:23,Chewing gums,Candies,8,17.31,138.48,Credit Card,John,1.51,24.93,Regular Client,6
+5924-580,2024-07-17,07:05:23,Camel,Cigarettes,8,16.7,133.6,Debit,Anna,1.87,3.38,Without Notes,28
+2647-808,2024-06-23,23:41:23,Camel,Cigarettes,4,16.7,66.8,Credit Card,Anna,3.04,7.25,Without Notes,11
+5114-490,2024-07-16,20:00:23,Marlboro,Cigarettes,1,11.09,11.09,Cash,Maria,0.46,1.98,Regular Client,20
+9271-979,2024-06-25,04:10:23,Cookies,Candies,6,1.07,6.42,Cash,Maria,0.39,1.16,Promotion Applied,10
+9646-998,2024-06-26,03:43:23,Chewing gums,Candies,3,2.98,8.94,Credit Card,Maria,0.23,1.61,Regular Client,2
+9025-133,2024-07-08,20:24:23,Lucky Strike,Cigarettes,1,10.08,10.08,Debit,Anna,1.12,3.09,Without Notes,50
+9438-307,2024-07-01,16:37:23,Chocolate,Candies,7,13.87,97.09,Credit Card,Maria,0.26,17.48,Without Notes,85
+6464-916,2024-07-14,15:34:23,Toilet Paper,Others,8,7.68,61.44,Debit,Anna,2.76,11.06,Without Notes,32
+3692-486,2024-06-20,21:29:23,Water,Drinks,7,3.83,26.81,Debit,Charles,0.74,4.83,Promotion Applied,32
+7160-557,2024-07-01,06:26:23,Juice,Drinks,7,19.86,139.02,Debit,Anna,8.06,25.02,Regular Client,98
+6262-772,2024-07-03,01:22:23,Beer,Drinks,9,2.07,18.63,Credit Card,Maria,1.29,3.35,Without Notes,14
+6831-974,2024-07-10,20:22:23,Candies,Candies,9,9.7,87.3,Cash,John,6.65,15.71,Without Notes,46
+7216-205,2024-07-14,01:12:23,Chewing gums,Candies,2,1.03,2.06,Cash,Anna,0.11,0.37,Regular Client,25
+9695-924,2024-07-12,04:30:23,Soda,Drinks,9,18.38,165.42,Credit Card,John,16.14,29.78,Without Notes,58
+2740-321,2024-07-16,13:45:23,Candies,Candies,1,5.21,5.21,Debit,John,0.43,0.94,Without Notes,6
+5544-657,2024-07-11,20:53:23,Camel,Cigarettes,8,16.7,133.6,Credit Card,John,3.68,25.52,Promotion Applied,24
+6481-403,2024-07-15,11:51:23,Magazine,Others,7,6.3,44.1,Credit Card,Charles,3.59,7.94,Promotion Applied,49
+5243-447,2024-07-03,01:33:23,Soda,Drinks,10,12.76,127.6,Debit,Anna,9.99,22.97,Promotion Applied,88
+1865-718,2024-07-20,04:51:23,Soda,Drinks,5,14.26,71.3,Credit Card,Maria,6.25,12.83,Regular Client,68
+7762-759,2024-07-12,20:15:23,Lucky Strike,Cigarettes,8,10.08,80.64,Debit,John,12.02,28.57,Promotion Applied,87
+3505-756,2024-07-01,12:34:23,Lucky Strike,Cigarettes,7,10.08,70.56,Credit Card,Maria,8.19,16.2,Regular Client,9
+6940-229,2024-07-19,15:16:23,Beer,Drinks,4,11.62,46.48,Debit,Anna,0.97,8.37,Without Notes,77
+6300-715,2024-07-21,00:30:23,Candies,Candies,6,18.54,111.24,Credit Card,John,10.11,20.02,Promotion Applied,86
+4814-771,2024-06-24,19:08:23,Chocolate,Candies,6,2.77,16.62,Cash,Maria,0.67,2.99,Without Notes,39
+8017-586,2024-07-10,20:37:23,Chewing gums,Candies,6,1.85,11.1,Credit Card,Charles,0.84,2,Promotion Applied,29
+8350-503,2024-07-18,23:53:23,Magazine,Others,2,11.95,23.9,Cash,John,1.5,4.3,Without Notes,48
+3462-495,2024-07-02,09:19:23,Cigarette Lighter,Others,8,10.64,85.12,Debit,Maria,2.21,8.18,Without Notes,59
+1837-768,2024-06-24,16:28:23,Camel,Cigarettes,1,16.7,16.7,Credit Card,Maria,0.32,1.95,Without Notes,30
+5584-717,2024-07-17,07:45:23,Cookies,Candies,4,17.11,68.44,Debit,Charles,0.15,12.32,Regular Client,80
+5014-951,2024-07-12,21:28:23,Lucky Strike,Cigarettes,3,10.08,30.24,Debit,John,0.69,1.92,Regular Client,2
+2839-596,2024-06-24,12:16:23,Cigarette Lighter,Others,7,10.64,74.48,Credit Card,John,0.76,4.93,Promotion Applied,24
+3441-249,2024-07-13,01:59:23,Marlboro,Cigarettes,8,11.09,88.72,Debit,Anna,6.68,27.75,Without Notes,32
+2428-351,2024-07-02,00:24:23,Cigarette Lighter,Others,10,10.64,106.4,Credit Card,Charles,10.86,26.96,Without Notes,93
+1725-100,2024-07-02,06:58:23,Cigarette Lighter,Others,2,10.64,21.28,Credit Card,Maria,0.1,0.96,Without Notes,21
+8698-706,2024-07-06,00:22:23,Soda,Drinks,4,10.83,43.32,Debit,Anna,0.69,7.8,Regular Client,29
+8419-527,2024-06-23,14:55:23,Chocolate,Candies,4,16.79,67.16,Credit Card,Anna,5.3,12.09,Promotion Applied,47
+4296-217,2024-07-01,07:58:23,Candies,Candies,7,7.31,51.17,Cash,Maria,4.91,9.21,Without Notes,58
+9542-223,2024-07-04,20:31:23,Beer,Drinks,5,2.67,13.35,Credit Card,Anna,0.52,2.4,Promotion Applied,14
+7430-943,2024-07-16,06:59:23,Toilet Paper,Others,5,18.08,90.4,Debit,Maria,7.58,16.27,Promotion Applied,61
+4249-170,2024-07-07,00:57:23,Lucky Strike,Cigarettes,4,10.08,40.32,Credit Card,Charles,2.85,10.57,Without Notes,0
+4642-572,2024-07-07,09:58:23,Magazine,Others,3,8.44,25.32,Cash,Charles,1.27,4.56,Without Notes,58
+4078-186,2024-07-14,19:02:23,Chewing gums,Candies,3,3.32,9.96,Debit,John,0.24,1.79,Promotion Applied,48
+3540-410,2024-07-01,11:22:23,Cigarette Lighter,Others,1,10.64,10.64,Debit,Anna,0.43,1.94,Promotion Applied,43
+8335-609,2024-07-12,09:51:23,Camel,Cigarettes,8,16.7,133.6,Credit Card,John,5.97,15.7,Without Notes,54
+9758-861,2024-07-15,08:58:23,Toilet Paper,Others,1,19.88,19.88,Credit Card,Maria,0.57,3.58,Regular Client,99
+3910-489,2024-06-29,09:07:23,Cigarette Lighter,Others,4,10.64,42.56,Debit,Charles,0.67,10.16,Regular Client,24
+9597-464,2024-07-21,07:33:23,Camel,Cigarettes,1,16.7,16.7,Cash,Anna,0.43,3.26,Promotion Applied,92
+9105-657,2024-07-21,00:04:23,Beer,Drinks,10,13.08,130.8,Debit,Charles,7.75,23.54,Regular Client,99
+4257-565,2024-07-19,05:45:23,Chocolate,Candies,1,19.37,19.37,Cash,Charles,1.47,3.49,Regular Client,70
+8824-462,2024-07-20,01:43:23,Toilet Paper,Others,5,16.57,82.85,Debit,Maria,5.9,14.91,Without Notes,95
+4615-906,2024-07-18,08:46:23,Soda,Drinks,8,2.07,16.56,Debit,John,1.33,2.98,Promotion Applied,40
+9065-501,2024-07-21,03:22:23,Chocolate,Candies,6,16.09,96.54,Cash,Charles,6.33,17.38,Promotion Applied,61
+3731-870,2024-07-07,09:47:23,Cookies,Candies,3,5.51,16.53,Debit,John,1.2,2.98,Without Notes,28
+2252-735,2024-07-19,12:10:23,Lucky Strike,Cigarettes,10,10.08,100.8,Cash,John,6.57,17.89,Without Notes,17
+7894-176,2024-07-13,19:19:23,Camel,Cigarettes,9,16.7,150.3,Cash,Anna,4.49,15.55,Regular Client,95
+6167-467,2024-07-15,16:42:23,Candies,Candies,6,19.6,117.6,Debit,Anna,8.64,21.17,Promotion Applied,37
+8035-490,2024-06-24,20:29:23,Water,Drinks,1,8.97,8.97,Debit,Maria,0.14,1.61,Promotion Applied,1
+1603-831,2024-07-10,20:42:23,Lucky Strike,Cigarettes,4,10.08,40.32,Cash,Maria,2.39,6.46,Regular Client,81
+5245-933,2024-07-14,20:04:23,Cigarette Lighter,Others,6,10.64,63.84,Debit,Maria,0.58,7.41,Promotion Applied,68
+9876-804,2024-07-10,13:56:23,Cigarette Lighter,Others,3,10.64,31.92,Debit,Anna,1.1,5.54,Without Notes,27
+9006-609,2024-07-12,22:43:23,Marlboro,Cigarettes,7,11.09,77.63,Credit Card,Charles,7.18,24.68,Without Notes,71
+2339-986,2024-06-24,09:31:23,Chocolate,Candies,10,17.31,173.1,Cash,Anna,14.1,31.16,Regular Client,2
+8416-304,2024-07-20,01:59:23,Chewing gums,Candies,2,10.28,20.56,Cash,Anna,1.87,3.7,Promotion Applied,53
+7673-764,2024-06-21,09:57:23,Cookies,Candies,6,6.17,37.02,Debit,Anna,3.14,6.66,Regular Client,41
+2315-916,2024-06-28,11:29:23,Cigarette Lighter,Others,4,10.64,42.56,Credit Card,John,1.99,10.58,Without Notes,91
+1473-700,2024-07-04,14:14:23,Camel,Cigarettes,1,16.7,16.7,Cash,Charles,1.35,3.03,Without Notes,29
+6837-934,2024-06-28,09:56:23,Marlboro,Cigarettes,10,11.09,110.9,Debit,Charles,10.71,21.64,Without Notes,21
+8208-270,2024-06-24,07:51:23,Toilet Paper,Others,9,1.01,9.09,Credit Card,Anna,0.8,1.64,Promotion Applied,0
+6731-224,2024-07-04,19:20:23,Magazine,Others,7,8.29,58.03,Credit Card,John,4.22,10.45,Regular Client,38
+7138-948,2024-07-20,09:24:23,Lucky Strike,Cigarettes,8,10.08,80.64,Cash,John,0.6,2.62,Without Notes,19
+4739-312,2024-07-04,23:00:23,Juice,Drinks,2,7.06,14.12,Debit,Anna,1.16,2.54,Without Notes,53
+3138-559,2024-06-30,05:22:23,Lucky Strike,Cigarettes,10,10.08,100.8,Debit,Anna,3.18,15.37,Without Notes,81
+2503-530,2024-07-17,02:15:23,Beer,Drinks,2,3.95,7.9,Debit,Anna,0.76,1.42,Regular Client,85
+3483-752,2024-07-15,04:12:23,Lucky Strike,Cigarettes,8,10.08,80.64,Credit Card,John,0.77,6.68,Without Notes,13
+2980-853,2024-07-03,17:34:23,Chocolate,Candies,1,11.24,11.24,Credit Card,Anna,0.9,2.02,Without Notes,0
+3324-848,2024-07-18,16:15:23,Camel,Cigarettes,9,16.7,150.3,Credit Card,Anna,2.2,11.6,Without Notes,30
+2671-384,2024-07-03,14:20:23,Chewing gums,Candies,10,1.2,12,Cash,Anna,0.74,2.16,Without Notes,55
+1014-647,2024-07-20,13:39:23,Cigarette Lighter,Others,8,10.64,85.12,Credit Card,Charles,4.3,13.54,Promotion Applied,38
+9038-671,2024-07-18,21:37:23,Magazine,Others,5,17.21,86.05,Credit Card,John,1.83,15.49,Without Notes,91
+3943-602,2024-06-29,07:41:23,Chocolate,Candies,5,19.45,97.25,Cash,Maria,3.99,17.5,Regular Client,75
+7149-781,2024-07-15,16:50:23,Marlboro,Cigarettes,2,11.09,22.18,Cash,Anna,2,4.79,Promotion Applied,71
+5154-635,2024-06-23,01:47:23,Lucky Strike,Cigarettes,9,10.08,90.72,Cash,Maria,3.8,30.97,Without Notes,4
+2754-862,2024-07-19,19:00:23,Juice,Drinks,4,14.82,59.28,Debit,Maria,2.73,10.67,Without Notes,35
+5188-496,2024-06-26,16:22:23,Magazine,Others,9,2.74,24.66,Credit Card,John,2.27,4.44,Without Notes,83
+8668-461,2024-07-21,13:36:23,Marlboro,Cigarettes,4,11.09,44.36,Debit,Maria,1.86,8.32,Without Notes,2
+9750-349,2024-07-19,13:14:23,Chocolate,Candies,3,13.49,40.47,Cash,John,2.61,7.28,Without Notes,94
+8250-991,2024-06-24,04:36:23,Marlboro,Cigarettes,1,11.09,11.09,Debit,Maria,1.12,2.93,Regular Client,89
+1367-376,2024-06-25,15:41:23,Chocolate,Candies,1,2.26,2.26,Debit,Maria,0.17,0.41,Regular Client,36
+6437-535,2024-07-17,13:48:23,Cookies,Candies,3,8.4,25.2,Cash,Anna,2.28,4.54,Without Notes,55
+3275-792,2024-07-12,06:58:23,Magazine,Others,6,14.37,86.22,Debit,John,3.43,15.52,Without Notes,53
+9291-991,2024-07-06,14:12:23,Camel,Cigarettes,7,16.7,116.9,Debit,Charles,3.01,12.37,Without Notes,43
+1101-959,2024-07-03,01:42:23,Toilet Paper,Others,5,7.46,37.3,Credit Card,John,2.77,6.71,Promotion Applied,31
+1510-400,2024-06-29,19:00:23,Juice,Drinks,2,17.1,34.2,Debit,Anna,1.17,6.16,Without Notes,14
+6387-672,2024-07-18,18:36:23,Water,Drinks,2,10.32,20.64,Debit,Anna,1.09,3.72,Without Notes,93
+9780-734,2024-07-06,23:49:23,Lucky Strike,Cigarettes,8,10.08,80.64,Credit Card,John,1.66,5.98,Regular Client,64
+5866-953,2024-06-23,03:45:23,Chocolate,Candies,10,14.93,149.3,Debit,John,5.9,26.87,Promotion Applied,2
+6290-218,2024-06-26,06:42:23,Beer,Drinks,7,1.57,10.99,Credit Card,Anna,0.77,1.98,Without Notes,36
+5263-451,2024-06-23,07:12:23,Cookies,Candies,3,10.36,31.08,Cash,John,0.19,5.59,Promotion Applied,9
+5346-645,2024-06-20,23:41:23,Beer,Drinks,6,2.82,16.92,Cash,Anna,1.57,3.05,Without Notes,75
+4983-823,2024-06-29,00:16:23,Chewing gums,Candies,10,9.64,96.4,Credit Card,John,1.91,17.35,Without Notes,81
+6942-218,2024-07-08,06:32:23,Cigarette Lighter,Others,9,10.64,95.76,Cash,Charles,5.4,16.8,Without Notes,52
+4264-637,2024-06-21,11:47:23,Toilet Paper,Others,1,18.53,18.53,Cash,Maria,0.86,3.34,Without Notes,50
+6486-303,2024-07-18,12:01:23,Camel,Cigarettes,5,16.7,83.5,Debit,John,1.45,7.04,Promotion Applied,66
+8658-334,2024-06-22,06:44:23,Camel,Cigarettes,2,16.7,33.4,Credit Card,Charles,0.18,2.66,Promotion Applied,10
+2043-527,2024-07-15,08:11:23,Toilet Paper,Others,10,7.35,73.5,Cash,Anna,6.6,13.23,Without Notes,27
+7662-874,2024-07-14,07:48:23,Cookies,Candies,6,16.93,101.58,Credit Card,Anna,7.71,18.28,Regular Client,54
+2517-190,2024-06-22,14:58:23,Toilet Paper,Others,3,10.79,32.37,Credit Card,Maria,1.47,5.83,Without Notes,28
+4493-255,2024-07-15,07:33:23,Cookies,Candies,6,15.42,92.52,Debit,Anna,9.11,16.65,Without Notes,37
+3397-146,2024-07-12,15:29:23,Juice,Drinks,7,6.15,43.05,Credit Card,Anna,0.53,7.75,Without Notes,95
+4579-128,2024-07-17,19:18:23,Juice,Drinks,4,18.78,75.12,Credit Card,Charles,1.93,13.52,Regular Client,47
+2006-484,2024-07-11,18:52:23,Cigarette Lighter,Others,3,10.64,31.92,Credit Card,Anna,5.15,10.11,Regular Client,10
+8228-505,2024-07-14,06:57:23,Cookies,Candies,8,3,24,Credit Card,Anna,2.11,4.32,Regular Client,67
+6041-453,2024-07-17,20:47:23,Chewing gums,Candies,5,5.44,27.2,Debit,John,1.39,4.9,Promotion Applied,34
+5451-639,2024-07-12,02:04:23,Water,Drinks,4,11.11,44.44,Credit Card,Anna,2.94,8,Promotion Applied,91
+5659-208,2024-06-24,21:27:23,Cookies,Candies,3,12.26,36.78,Credit Card,John,3.33,6.62,Without Notes,18
+2151-672,2024-07-09,02:39:23,Marlboro,Cigarettes,2,11.09,22.18,Debit,Anna,1.17,3.93,Without Notes,60
+5917-723,2024-06-30,19:21:23,Chocolate,Candies,4,1.97,7.88,Debit,Charles,0.05,1.42,Regular Client,49
+3449-865,2024-06-25,03:56:23,Beer,Drinks,4,13.74,54.96,Credit Card,John,4.61,9.89,Without Notes,29
+7003-293,2024-06-29,01:40:23,Candies,Candies,6,3.84,23.04,Debit,Charles,0.97,4.15,Promotion Applied,10
+8667-233,2024-07-18,09:09:23,Toilet Paper,Others,10,17.72,177.2,Cash,Charles,1.58,31.9,Regular Client,17
+8062-132,2024-07-04,04:27:23,Water,Drinks,10,15.92,159.2,Cash,Anna,4.54,28.66,Without Notes,85
+9761-911,2024-07-19,07:28:23,Cookies,Candies,4,1.72,6.88,Cash,Charles,0.6,1.24,Without Notes,53
+8926-225,2024-06-26,16:02:23,Marlboro,Cigarettes,5,11.09,55.45,Debit,Anna,3.68,9.73,Promotion Applied,91
+6280-517,2024-06-21,03:48:23,Camel,Cigarettes,8,16.7,133.6,Cash,John,4.32,25.29,Without Notes,58
+8451-833,2024-07-07,22:37:23,Candies,Candies,5,1.26,6.3,Cash,Charles,0.3,1.13,Without Notes,22
+4989-890,2024-07-19,17:48:23,Beer,Drinks,3,4.57,13.71,Cash,Anna,0.11,2.47,Without Notes,91
+1672-464,2024-07-07,11:52:23,Chocolate,Candies,8,16.22,129.76,Cash,Anna,12.27,23.36,Without Notes,73
+7049-172,2024-07-08,20:44:23,Beer,Drinks,9,5.48,49.32,Debit,Maria,4.03,8.88,Without Notes,27
+9894-942,2024-07-16,02:28:23,Marlboro,Cigarettes,10,11.09,110.9,Debit,Charles,2.31,12.64,Promotion Applied,23
+9225-507,2024-07-12,16:31:23,Magazine,Others,10,14.9,149,Cash,John,1.54,26.82,Without Notes,58
+7620-623,2024-07-10,20:33:23,Toilet Paper,Others,2,1.62,3.24,Cash,John,0.09,0.58,Without Notes,53
+1464-818,2024-07-03,09:35:23,Cigarette Lighter,Others,2,10.64,21.28,Credit Card,Maria,1.62,3.56,Promotion Applied,79
+5436-690,2024-06-25,10:53:23,Soda,Drinks,10,6.38,63.8,Debit,Maria,3.1,11.48,Regular Client,24
+3826-517,2024-07-15,12:50:23,Juice,Drinks,1,4.94,4.94,Debit,Maria,0.41,0.89,Promotion Applied,92
+8397-876,2024-07-20,19:35:23,Toilet Paper,Others,5,3.73,18.65,Cash,Charles,0.89,3.36,Promotion Applied,31
+3260-206,2024-06-24,15:52:23,Marlboro,Cigarettes,3,11.09,33.27,Cash,Anna,0.63,10.03,Without Notes,28
+2901-744,2024-06-30,21:56:23,Marlboro,Cigarettes,9,11.09,99.81,Credit Card,Maria,5.36,15.41,Without Notes,17
+8892-752,2024-06-29,04:46:23,Juice,Drinks,6,14.39,86.34,Debit,John,6.5,15.54,Without Notes,48
+3238-941,2024-07-08,07:00:23,Chocolate,Candies,10,3.32,33.2,Debit,Maria,2.52,5.98,Regular Client,36
+9254-978,2024-07-17,01:15:23,Marlboro,Cigarettes,7,11.09,77.63,Cash,John,6.33,18.13,Without Notes,7
+5390-105,2024-07-04,22:53:23,Lucky Strike,Cigarettes,1,10.08,10.08,Credit Card,Anna,1.11,3.31,Promotion Applied,69
+5309-479,2024-06-29,14:29:23,Camel,Cigarettes,10,16.7,167,Debit,Maria,0.47,4,Regular Client,53
+9570-588,2024-06-25,11:23:23,Soda,Drinks,9,6.6,59.4,Cash,John,2.48,10.69,Regular Client,13
+1796-898,2024-06-26,00:19:23,Cookies,Candies,4,11.81,47.24,Debit,Maria,3.43,8.5,Regular Client,86
+2289-873,2024-07-03,20:43:23,Marlboro,Cigarettes,6,11.09,66.54,Debit,John,2.85,11.42,Without Notes,58
+9386-869,2024-07-02,07:42:23,Beer,Drinks,5,5.23,26.15,Cash,Anna,1.41,4.71,Promotion Applied,83
+8026-238,2024-07-02,03:01:23,Magazine,Others,5,17.97,89.85,Cash,Charles,2.7,16.17,Without Notes,2
+4404-679,2024-06-23,08:36:23,Camel,Cigarettes,9,16.7,150.3,Credit Card,Maria,9,31.4,Regular Client,27
+6985-111,2024-07-07,07:13:23,Lucky Strike,Cigarettes,10,10.08,100.8,Credit Card,John,1.43,15.3,Without Notes,76
+9663-730,2024-07-09,08:53:23,Magazine,Others,8,14.48,115.84,Debit,Anna,9.02,20.85,Without Notes,69
+6600-750,2024-07-14,11:40:23,Magazine,Others,3,9.78,29.34,Credit Card,Charles,0.62,5.28,Without Notes,39
+2692-601,2024-06-28,09:52:23,Chewing gums,Candies,1,11.26,11.26,Cash,John,0.94,2.03,Regular Client,41
+5584-593,2024-07-17,22:28:23,Chewing gums,Candies,7,11.01,77.07,Cash,Charles,6.75,13.87,Without Notes,44
+3616-646,2024-07-07,02:19:23,Candies,Candies,7,15.58,109.06,Cash,John,6,19.63,Without Notes,65
+2446-197,2024-07-01,23:19:23,Lucky Strike,Cigarettes,10,10.08,100.8,Cash,Charles,1.22,34.15,Promotion Applied,13
+1447-395,2024-06-25,03:55:23,Lucky Strike,Cigarettes,8,10.08,80.64,Cash,Charles,7.06,18.23,Without Notes,28
+3210-619,2024-06-24,19:13:23,Candies,Candies,1,15.31,15.31,Cash,Anna,1.23,2.76,Without Notes,78
+4561-658,2024-07-06,16:24:23,Lucky Strike,Cigarettes,8,10.08,80.64,Cash,Anna,2.02,7.99,Without Notes,10
+5824-752,2024-07-13,11:06:23,Beer,Drinks,1,16.69,16.69,Debit,Anna,0.62,3,Promotion Applied,76
+4353-599,2024-07-11,00:58:23,Cigarette Lighter,Others,7,10.64,74.48,Cash,John,7.45,14.84,Promotion Applied,9
+5196-683,2024-07-05,17:02:23,Cigarette Lighter,Others,10,10.64,106.4,Credit Card,Charles,2.29,15.57,Without Notes,78
+5457-474,2024-07-07,22:12:23,Chewing gums,Candies,2,2.36,4.72,Cash,Anna,0.33,0.85,Promotion Applied,69
+2914-749,2024-07-15,00:29:23,Beer,Drinks,8,16.89,135.12,Debit,Charles,3.69,24.32,Regular Client,95
+4885-377,2024-07-03,13:09:23,Marlboro,Cigarettes,6,11.09,66.54,Cash,Anna,0.46,5.42,Without Notes,66
+1381-803,2024-07-03,08:01:23,Chewing gums,Candies,9,10.75,96.75,Debit,Maria,8.74,17.41,Regular Client,24
+8384-716,2024-06-30,01:57:23,Water,Drinks,3,16.62,49.86,Debit,John,0.66,8.97,Without Notes,45
+9563-973,2024-07-17,18:14:23,Cookies,Candies,7,11.66,81.62,Debit,Maria,3.78,14.69,Without Notes,90
+6108-621,2024-07-06,19:15:23,Chewing gums,Candies,1,9.98,9.98,Cash,Anna,0.84,1.8,Promotion Applied,92
+1123-741,2024-06-25,11:02:23,Magazine,Others,1,19.26,19.26,Cash,John,0.75,3.47,Without Notes,31
+9418-397,2024-07-06,22:28:23,Cookies,Candies,2,13.4,26.8,Debit,Anna,0.55,4.82,Without Notes,14
+5413-452,2024-06-23,08:27:23,Beer,Drinks,2,1.66,3.32,Debit,Anna,0.2,0.6,Regular Client,50
+1596-320,2024-06-22,19:15:23,Marlboro,Cigarettes,10,11.09,110.9,Credit Card,John,0.23,2.29,Promotion Applied,43
+8454-438,2024-07-09,19:54:23,Chocolate,Candies,7,9.2,64.4,Cash,Maria,0.52,11.59,Promotion Applied,56
+9835-315,2024-07-08,16:45:23,Chewing gums,Candies,5,14.53,72.65,Cash,Maria,7.04,13.08,Without Notes,8
+5090-356,2024-06-29,09:32:23,Juice,Drinks,9,18.59,167.31,Cash,Anna,13.77,30.12,Without Notes,92
+9114-133,2024-06-21,13:52:23,Cigarette Lighter,Others,4,10.64,42.56,Cash,Maria,1.3,3.17,Promotion Applied,25
+6419-420,2024-07-06,08:57:23,Camel,Cigarettes,1,16.7,16.7,Debit,Maria,1.6,3.36,Regular Client,25
+7798-481,2024-06-22,07:09:23,Water,Drinks,7,3.46,24.22,Debit,Anna,0.83,4.36,Regular Client,90
+7323-189,2024-06-21,15:15:23,Chewing gums,Candies,5,13.8,69,Debit,Maria,0.15,12.42,Promotion Applied,22
+1155-591,2024-07-14,03:01:23,Magazine,Others,3,15.21,45.63,Cash,Charles,0.81,8.21,Without Notes,48
+8231-654,2024-07-14,10:56:23,Magazine,Others,2,19.35,38.7,Credit Card,Charles,1.75,6.97,Promotion Applied,82
+4595-143,2024-06-29,08:24:23,Magazine,Others,10,19.28,192.8,Credit Card,Charles,4.94,34.7,Without Notes,28
+9438-734,2024-07-15,21:38:23,Soda,Drinks,3,4.22,12.66,Cash,Anna,0.16,2.28,Promotion Applied,37
+5185-138,2024-07-12,22:25:23,Toilet Paper,Others,4,3.05,12.2,Credit Card,Maria,0.28,2.2,Regular Client,28
+4725-460,2024-06-28,14:08:23,Lucky Strike,Cigarettes,9,10.08,90.72,Credit Card,Maria,7.02,25.06,Without Notes,47
+1726-841,2024-06-24,06:40:23,Toilet Paper,Others,5,5.12,25.6,Credit Card,Anna,1.72,4.61,Promotion Applied,63
+2697-260,2024-07-20,07:43:23,Candies,Candies,2,16.59,33.18,Credit Card,Maria,0.05,5.97,Without Notes,4
+7336-820,2024-07-20,18:57:23,Chewing gums,Candies,6,17.56,105.36,Cash,John,7.38,18.96,Without Notes,42
+4126-923,2024-07-20,00:11:23,Soda,Drinks,7,1.19,8.33,Debit,Anna,0.34,1.5,Without Notes,82
+2646-713,2024-07-17,17:27:23,Magazine,Others,10,15.19,151.9,Debit,Maria,7.96,27.34,Without Notes,72
+8773-204,2024-07-13,00:20:23,Lucky Strike,Cigarettes,7,10.08,70.56,Cash,Anna,1.44,4.56,Promotion Applied,17
+9663-919,2024-06-21,09:17:23,Cigarette Lighter,Others,8,10.64,85.12,Cash,Maria,2.3,4.44,Without Notes,17
+4651-109,2024-07-11,05:14:23,Candies,Candies,8,15.4,123.2,Debit,Maria,9.44,22.18,Promotion Applied,95
+9486-169,2024-07-17,23:25:23,Chocolate,Candies,4,16.5,66,Cash,John,3.57,11.88,Without Notes,5
+6707-129,2024-07-10,16:28:23,Magazine,Others,5,12.36,61.8,Credit Card,Maria,5.39,11.12,Promotion Applied,14
+8902-313,2024-07-05,23:39:23,Chewing gums,Candies,8,8.64,69.12,Debit,John,1.9,12.44,Without Notes,24
+1782-686,2024-07-04,03:27:23,Toilet Paper,Others,5,8.25,41.25,Cash,John,1.2,7.42,Regular Client,87
+3346-514,2024-07-11,05:25:23,Water,Drinks,10,3.57,35.7,Cash,Maria,0.27,6.43,Promotion Applied,48
+8046-695,2024-06-25,14:35:23,Lucky Strike,Cigarettes,1,10.08,10.08,Debit,Charles,0.69,1.6,Without Notes,19
+8305-769,2024-06-23,03:27:23,Chocolate,Candies,6,8.29,49.74,Cash,Maria,2.96,8.95,Regular Client,39
+8257-131,2024-06-30,14:27:23,Marlboro,Cigarettes,3,11.09,33.27,Credit Card,Anna,2.07,10.77,Promotion Applied,17
+7012-311,2024-07-08,21:39:23,Camel,Cigarettes,1,16.7,16.7,Cash,John,0.58,2.77,Promotion Applied,98
+5320-810,2024-07-02,08:44:23,Candies,Candies,8,15.26,122.08,Debit,Charles,8.53,21.97,Without Notes,49
+8821-222,2024-06-24,08:08:23,Lucky Strike,Cigarettes,3,10.08,30.24,Cash,John,1.54,4.46,Without Notes,63
+9921-335,2024-07-19,23:05:23,Magazine,Others,4,7.27,29.08,Credit Card,Charles,0.58,5.23,Without Notes,48
+1054-923,2024-07-12,22:44:23,Magazine,Others,7,15.4,107.8,Cash,Anna,7.79,19.4,Without Notes,64
+5462-177,2024-07-08,20:53:23,Chocolate,Candies,3,19.31,57.93,Credit Card,Charles,2.08,10.43,Without Notes,72
+5284-652,2024-07-20,22:42:23,Water,Drinks,9,16.51,148.59,Debit,Maria,10.92,26.75,Regular Client,32
+1132-165,2024-06-21,02:11:23,Beer,Drinks,9,8.44,75.96,Cash,Charles,4.49,13.67,Without Notes,84
+9317-217,2024-07-11,18:43:23,Juice,Drinks,3,5.38,16.14,Credit Card,John,0.96,2.91,Without Notes,0
+2550-945,2024-07-18,09:45:23,Water,Drinks,3,12.23,36.69,Credit Card,John,3.2,6.6,Without Notes,29
+7873-936,2024-07-03,20:06:23,Soda,Drinks,8,19.31,154.48,Cash,Anna,5.14,27.81,Regular Client,7
+4619-631,2024-07-12,08:35:23,Soda,Drinks,7,7.68,53.76,Cash,Maria,2.44,9.68,Without Notes,33
+3924-362,2024-06-28,06:50:23,Camel,Cigarettes,9,16.7,150.3,Debit,Charles,1.45,25.5,Regular Client,41
+2545-256,2024-07-09,05:50:23,Juice,Drinks,4,12.97,51.88,Credit Card,John,5.07,9.34,Without Notes,15
+1151-993,2024-07-16,13:17:23,Cookies,Candies,5,10.56,52.8,Debit,Maria,4.01,9.5,Without Notes,5
+8165-209,2024-06-30,02:51:23,Beer,Drinks,2,10.1,20.2,Credit Card,Maria,0.96,3.64,Promotion Applied,64
+9900-766,2024-07-09,08:56:23,Cigarette Lighter,Others,1,10.64,10.64,Cash,Anna,0.08,0.63,Without Notes,43
+8142-361,2024-07-10,17:04:23,Beer,Drinks,1,18.69,18.69,Cash,Charles,1.68,3.36,Without Notes,98
+4849-727,2024-07-07,19:22:23,Marlboro,Cigarettes,3,11.09,33.27,Debit,Maria,3.24,9.53,Without Notes,34
+9130-290,2024-07-08,14:42:23,Chewing gums,Candies,3,14.36,43.08,Credit Card,Charles,2.02,7.75,Promotion Applied,58
+5020-941,2024-06-30,02:49:23,Chocolate,Candies,3,8.31,24.93,Debit,Maria,1.35,4.49,Without Notes,98
+9380-658,2024-07-09,01:47:23,Cigarette Lighter,Others,8,10.64,85.12,Credit Card,Anna,0.36,5.34,Regular Client,58
+9717-437,2024-07-16,09:40:23,Beer,Drinks,10,8.66,86.6,Cash,Charles,6.52,15.59,Promotion Applied,0
+3241-159,2024-07-04,05:30:23,Chocolate,Candies,1,12.84,12.84,Cash,Charles,0.5,2.31,Without Notes,46
+3737-835,2024-07-15,19:24:23,Camel,Cigarettes,4,16.7,66.8,Debit,Charles,0.51,2.84,Regular Client,96
+2791-903,2024-06-23,17:05:23,Lucky Strike,Cigarettes,1,10.08,10.08,Cash,Charles,0.48,2.24,Without Notes,71
+8904-476,2024-07-01,06:30:23,Soda,Drinks,6,9.25,55.5,Debit,John,4.26,9.99,Without Notes,89
+2631-703,2024-07-17,06:24:23,Toilet Paper,Others,1,6.04,6.04,Debit,John,0.08,1.09,Regular Client,12
+9758-713,2024-07-11,13:22:23,Marlboro,Cigarettes,6,11.09,66.54,Cash,John,5.05,16.15,Without Notes,73
+9633-498,2024-06-26,07:40:23,Toilet Paper,Others,1,14.51,14.51,Cash,Charles,0.46,2.61,Promotion Applied,77
+2775-812,2024-07-14,14:15:23,Lucky Strike,Cigarettes,2,10.08,20.16,Debit,Charles,0.34,1.44,Without Notes,38
+5903-988,2024-07-08,04:21:23,Camel,Cigarettes,5,16.7,83.5,Debit,John,4.01,13.68,Regular Client,0
+2779-778,2024-07-18,14:45:23,Toilet Paper,Others,1,14.54,14.54,Cash,Charles,1.26,2.62,Without Notes,7
+7921-726,2024-07-16,01:00:23,Camel,Cigarettes,9,16.7,150.3,Cash,Anna,0.4,10.34,Without Notes,100
+4521-562,2024-07-01,16:20:23,Water,Drinks,9,1.22,10.98,Cash,Maria,0.24,1.98,Without Notes,4
+2214-915,2024-07-05,13:34:23,Toilet Paper,Others,1,6.86,6.86,Debit,Charles,0,1.23,Without Notes,31
+2854-329,2024-07-13,22:07:23,Cigarette Lighter,Others,2,10.64,21.28,Debit,John,0.14,2.42,Regular Client,90
+2213-191,2024-07-08,02:07:23,Soda,Drinks,4,16.39,65.56,Credit Card,John,2.66,11.8,Without Notes,54
+5448-285,2024-07-14,17:48:23,Marlboro,Cigarettes,3,11.09,33.27,Credit Card,Maria,2.75,6.23,Without Notes,31
+7370-208,2024-07-04,01:59:23,Water,Drinks,5,14.15,70.75,Credit Card,Maria,0.29,12.73,Without Notes,14
+5997-722,2024-06-28,18:10:23,Cookies,Candies,6,19.13,114.78,Debit,Anna,2.62,20.66,Promotion Applied,52
+5168-754,2024-06-28,14:55:23,Cookies,Candies,5,11.38,56.9,Debit,John,2.89,10.24,Regular Client,11
+8600-918,2024-06-27,12:32:23,Juice,Drinks,8,7.71,61.68,Debit,Charles,0.99,11.1,Regular Client,34
+8908-686,2024-06-28,04:53:23,Beer,Drinks,5,7.23,36.15,Debit,Anna,0.62,6.51,Promotion Applied,89
+8533-757,2024-06-27,16:25:23,Chocolate,Candies,2,14.15,28.3,Cash,Maria,2.76,5.09,Promotion Applied,80
+4441-176,2024-06-28,02:29:23,Lucky Strike,Cigarettes,7,10.08,70.56,Cash,John,7.07,12.88,Without Notes,66
+5948-362,2024-06-25,14:29:23,Candies,Candies,10,9.86,98.6,Credit Card,Maria,1.73,17.75,Without Notes,6
+4438-383,2024-07-08,05:38:23,Cookies,Candies,5,8.85,44.25,Debit,Anna,1.1,7.96,Regular Client,74
+2339-410,2024-06-29,05:30:23,Marlboro,Cigarettes,8,11.09,88.72,Cash,Maria,0.3,9.46,Promotion Applied,56
+6936-308,2024-06-30,23:27:23,Water,Drinks,9,3.68,33.12,Debit,Maria,2.8,5.96,Promotion Applied,31
+8629-821,2024-06-20,16:24:23,Soda,Drinks,8,13.83,110.64,Debit,Charles,8.21,19.92,Without Notes,8
+8886-421,2024-07-10,23:41:23,Juice,Drinks,10,4.34,43.4,Cash,Maria,2.26,7.81,Without Notes,54
+6815-657,2024-07-17,07:40:23,Toilet Paper,Others,6,8.41,50.46,Cash,John,1.23,9.08,Regular Client,59
+8432-211,2024-07-15,05:43:23,Toilet Paper,Others,4,6.4,25.6,Credit Card,Charles,0.76,4.61,Promotion Applied,9
+6364-290,2024-07-20,09:13:23,Soda,Drinks,8,5.76,46.08,Credit Card,John,3.74,8.29,Regular Client,91
+7441-269,2024-07-17,00:39:23,Water,Drinks,8,9.81,78.48,Cash,Maria,7.45,14.13,Promotion Applied,92
+1025-835,2024-07-09,04:26:23,Marlboro,Cigarettes,5,11.09,55.45,Credit Card,Maria,3.83,8.63,Without Notes,12
+7184-707,2024-07-05,22:39:23,Camel,Cigarettes,4,16.7,66.8,Credit Card,Charles,0.79,1.64,Without Notes,99
+3409-726,2024-07-16,08:29:23,Cigarette Lighter,Others,6,10.64,63.84,Credit Card,Anna,7.7,16.23,Without Notes,38
+5065-497,2024-07-09,21:54:23,Lucky Strike,Cigarettes,7,10.08,70.56,Cash,Maria,2.42,9.84,Without Notes,54
+5199-477,2024-07-17,15:13:23,Water,Drinks,6,5.34,32.04,Debit,Charles,0.28,5.77,Regular Client,10
+2790-998,2024-07-11,00:31:23,Magazine,Others,5,5.64,28.2,Cash,Charles,0.03,5.08,Without Notes,96
+2415-921,2024-07-20,11:37:23,Toilet Paper,Others,5,6.17,30.85,Credit Card,Charles,0.18,5.55,Without Notes,80
+3214-435,2024-07-16,23:10:23,Camel,Cigarettes,8,16.7,133.6,Cash,Maria,0.29,14.67,Regular Client,65
+9825-438,2024-06-23,15:30:23,Cigarette Lighter,Others,1,10.64,10.64,Cash,John,0.04,0.22,Without Notes,40
+1806-186,2024-07-19,16:20:23,Toilet Paper,Others,4,6.63,26.52,Credit Card,Anna,2.56,4.77,Regular Client,56
+9677-165,2024-06-23,14:13:23,Marlboro,Cigarettes,6,11.09,66.54,Cash,Anna,0.58,4.27,Promotion Applied,45
+7895-536,2024-07-18,20:49:23,Soda,Drinks,5,16.14,80.7,Cash,John,1.47,14.53,Without Notes,18
+5627-268,2024-07-01,09:28:23,Beer,Drinks,8,10.74,85.92,Debit,Charles,0.13,15.47,Without Notes,12
+4083-990,2024-07-04,09:03:23,Soda,Drinks,9,19.77,177.93,Credit Card,Maria,6.06,32.03,Regular Client,31
+7904-920,2024-07-17,05:42:23,Candies,Candies,3,7.34,22.02,Debit,Anna,1.32,3.96,Regular Client,16
+8337-440,2024-07-18,12:17:23,Magazine,Others,10,8.45,84.5,Debit,Anna,1.22,15.21,Without Notes,43
+8262-737,2024-07-17,07:36:23,Juice,Drinks,5,7.69,38.45,Cash,Anna,0.21,6.92,Without Notes,24
+8239-984,2024-07-04,17:42:23,Cookies,Candies,2,17.13,34.26,Debit,John,2.91,6.17,Regular Client,27
+6387-572,2024-07-05,22:25:23,Lucky Strike,Cigarettes,9,10.08,90.72,Cash,Anna,1.08,7.71,Without Notes,37
+2615-171,2024-07-13,10:39:23,Chewing gums,Candies,8,9.79,78.32,Credit Card,Anna,2.72,14.1,Regular Client,64
+3303-322,2024-06-27,01:13:23,Beer,Drinks,6,8.39,50.34,Cash,Maria,4.48,9.06,Regular Client,7
+9954-263,2024-06-22,15:56:23,Lucky Strike,Cigarettes,4,10.08,40.32,Cash,Charles,0.31,2.07,Regular Client,45
+5022-772,2024-06-27,17:19:23,Magazine,Others,2,4.34,8.68,Cash,John,0.48,1.56,Without Notes,68
+6488-520,2024-07-11,04:13:23,Lucky Strike,Cigarettes,5,10.08,50.4,Cash,Charles,0.16,4.98,Promotion Applied,91
+5096-123,2024-07-09,11:09:23,Cigarette Lighter,Others,8,10.64,85.12,Debit,Charles,5.36,11.45,Regular Client,71
+9118-894,2024-06-25,08:56:23,Marlboro,Cigarettes,3,11.09,33.27,Cash,Anna,1.45,7.95,Without Notes,22
+2351-729,2024-06-22,14:06:23,Water,Drinks,1,7.72,7.72,Credit Card,Anna,0.53,1.39,Without Notes,6
+1753-646,2024-07-17,03:29:23,Candies,Candies,10,14.57,145.7,Credit Card,Maria,9.64,26.23,Without Notes,82
+1393-225,2024-07-15,15:32:23,Candies,Candies,2,4.04,8.08,Cash,Charles,0.32,1.45,Regular Client,92
+2189-924,2024-07-06,06:17:23,Magazine,Others,1,10.88,10.88,Credit Card,John,0.11,1.96,Promotion Applied,74
+4995-762,2024-07-11,02:20:23,Beer,Drinks,10,16.14,161.4,Credit Card,John,2.62,29.05,Without Notes,52
+1297-262,2024-06-29,12:53:23,Marlboro,Cigarettes,10,11.09,110.9,Debit,John,2.08,5.2,Regular Client,70
+3965-243,2024-07-19,15:45:23,Chocolate,Candies,6,10.07,60.42,Cash,Anna,2.28,10.88,Regular Client,71
+7469-796,2024-07-05,09:30:23,Marlboro,Cigarettes,10,11.09,110.9,Cash,Anna,4.33,19.49,Without Notes,73
+1539-642,2024-07-20,23:09:23,Water,Drinks,10,18.93,189.3,Credit Card,Anna,7.86,34.07,Without Notes,12
+3577-822,2024-07-09,19:27:23,Toilet Paper,Others,3,14.46,43.38,Cash,Maria,1.05,7.81,Promotion Applied,54
+6463-379,2024-07-19,09:11:23,Magazine,Others,2,14.29,28.58,Debit,Charles,1.48,5.14,Without Notes,85
+1534-644,2024-07-06,02:07:23,Cookies,Candies,9,19.26,173.34,Cash,John,13.64,31.2,Without Notes,62
+2434-247,2024-07-01,06:01:23,Water,Drinks,2,14.63,29.26,Cash,Maria,1.3,5.27,Without Notes,15
+5494-263,2024-06-29,16:32:23,Marlboro,Cigarettes,10,11.09,110.9,Credit Card,Maria,3.55,9.79,Without Notes,16
+7597-787,2024-07-08,04:26:23,Toilet Paper,Others,8,2.06,16.48,Debit,Anna,1.25,2.97,Promotion Applied,1
+9820-961,2024-06-26,01:54:23,Beer,Drinks,1,17.22,17.22,Cash,Charles,1.47,3.1,Without Notes,77
+9552-503,2024-07-06,11:41:23,Cookies,Candies,6,11.89,71.34,Debit,John,3.73,12.84,Without Notes,10
+5431-658,2024-07-09,02:36:23,Cookies,Candies,6,18.91,113.46,Cash,Anna,9.15,20.42,Without Notes,56
+1493-731,2024-07-06,11:13:23,Chocolate,Candies,1,8.2,8.2,Cash,Maria,0,1.48,Regular Client,68
+5972-958,2024-07-02,13:47:23,Magazine,Others,3,16.62,49.86,Credit Card,Charles,0.27,8.97,Without Notes,74
+3408-160,2024-07-14,12:57:23,Cigarette Lighter,Others,1,10.64,10.64,Debit,Charles,0.23,1.48,Regular Client,70
+6248-319,2024-07-16,19:23:23,Cookies,Candies,3,8.7,26.1,Cash,Anna,0.13,4.7,Without Notes,15
+9040-235,2024-07-17,01:00:23,Magazine,Others,1,3.15,3.15,Credit Card,Maria,0.24,0.57,Regular Client,77
+7625-737,2024-07-03,06:42:23,Magazine,Others,8,4.51,36.08,Credit Card,John,1.33,6.49,Without Notes,78
+1129-932,2024-07-13,04:09:23,Magazine,Others,6,3.75,22.5,Credit Card,John,0.98,4.05,Regular Client,72
+8473-354,2024-06-23,23:57:23,Chewing gums,Candies,5,13.84,69.2,Cash,John,2.7,12.46,Promotion Applied,25
+2152-931,2024-06-28,09:53:23,Magazine,Others,8,15.76,126.08,Credit Card,Anna,4.45,22.69,Promotion Applied,39
+7160-824,2024-07-12,22:21:23,Chocolate,Candies,4,4.8,19.2,Debit,Charles,1.35,3.46,Promotion Applied,34
+3367-817,2024-06-21,06:29:23,Marlboro,Cigarettes,9,11.09,99.81,Cash,John,11.55,29.84,Regular Client,40
+1572-382,2024-06-25,20:36:23,Soda,Drinks,4,19.61,78.44,Credit Card,Maria,7.32,14.12,Regular Client,91
+3316-450,2024-07-02,19:49:23,Cookies,Candies,1,9.66,9.66,Cash,Anna,0.36,1.74,Regular Client,97
+6087-268,2024-07-08,09:14:23,Juice,Drinks,7,10.16,71.12,Cash,Maria,5.15,12.8,Without Notes,89
+1296-189,2024-07-09,13:47:23,Lucky Strike,Cigarettes,6,10.08,60.48,Credit Card,John,0.35,1.7,Without Notes,19
+3562-427,2024-07-10,05:43:23,Lucky Strike,Cigarettes,7,10.08,70.56,Debit,Anna,2.12,6.43,Regular Client,25
+1061-655,2024-07-19,08:45:23,Candies,Candies,1,15.31,15.31,Credit Card,Anna,1.49,2.76,Regular Client,49
+4526-986,2024-06-26,18:08:23,Camel,Cigarettes,6,16.7,100.2,Cash,Anna,0.96,3.13,Without Notes,99
+8727-108,2024-07-17,16:22:23,Water,Drinks,5,12.5,62.5,Credit Card,Anna,2.92,11.25,Regular Client,100
+3869-455,2024-07-13,16:02:23,Lucky Strike,Cigarettes,10,10.08,100.8,Debit,John,5.48,28.91,Regular Client,1
+1207-864,2024-07-20,11:21:23,Cigarette Lighter,Others,4,10.64,42.56,Debit,Charles,4.12,11.08,Without Notes,15
+3739-723,2024-07-11,07:37:23,Beer,Drinks,4,1.97,7.88,Cash,Maria,0.49,1.42,Without Notes,13
+8724-921,2024-06-27,23:50:23,Water,Drinks,7,2.39,16.73,Cash,John,1.45,3.01,Without Notes,5
+1978-379,2024-07-12,14:04:23,Chewing gums,Candies,3,3.94,11.82,Credit Card,Charles,0.97,2.13,Without Notes,32
+9991-801,2024-06-29,23:44:23,Beer,Drinks,1,5.94,5.94,Cash,John,0.42,1.07,Regular Client,39
+3296-813,2024-07-20,00:32:23,Lucky Strike,Cigarettes,8,10.08,80.64,Debit,John,0.96,16.55,Without Notes,92
+4294-137,2024-07-06,18:22:23,Beer,Drinks,7,13.46,94.22,Credit Card,Maria,8.68,16.96,Without Notes,80
+3445-254,2024-07-14,16:39:23,Camel,Cigarettes,6,16.7,100.2,Credit Card,John,3.93,7.44,Without Notes,59
+4642-402,2024-07-01,19:45:23,Chocolate,Candies,1,16.52,16.52,Credit Card,Charles,1.05,2.97,Regular Client,30
+6794-884,2024-06-25,00:15:23,Camel,Cigarettes,6,16.7,100.2,Debit,John,0.33,13.13,Without Notes,82
+5046-770,2024-07-05,21:15:23,Soda,Drinks,10,12.09,120.9,Debit,Anna,8.82,21.76,Regular Client,76
+7635-106,2024-06-21,11:12:23,Soda,Drinks,10,2.98,29.8,Cash,John,2.79,5.36,Regular Client,6
+1067-485,2024-06-27,23:04:23,Camel,Cigarettes,1,16.7,16.7,Credit Card,Anna,0.57,1.84,Without Notes,13
+9343-333,2024-06-26,17:13:23,Marlboro,Cigarettes,7,11.09,77.63,Debit,Maria,4.51,11.93,Without Notes,38
+2182-714,2024-07-16,13:39:23,Juice,Drinks,6,11.89,71.34,Debit,Maria,4.92,12.84,Without Notes,17
+1676-891,2024-07-07,00:54:23,Candies,Candies,3,15.9,47.7,Credit Card,John,2.82,8.59,Without Notes,24
+8219-130,2024-06-29,20:29:23,Camel,Cigarettes,10,16.7,167,Credit Card,Maria,9.45,18.29,Promotion Applied,50
+5717-939,2024-06-24,02:58:23,Cigarette Lighter,Others,10,10.64,106.4,Debit,Charles,1.58,22.1,Without Notes,55
+7024-635,2024-07-13,11:22:23,Camel,Cigarettes,1,16.7,16.7,Cash,Charles,1.27,2.48,Without Notes,99
+7778-123,2024-07-15,00:02:23,Camel,Cigarettes,1,16.7,16.7,Credit Card,Charles,0.34,3.47,Without Notes,48
+1543-650,2024-07-11,03:53:23,Soda,Drinks,9,13.38,120.42,Debit,Maria,6.32,21.68,Without Notes,50
+6769-600,2024-06-26,10:13:23,Cigarette Lighter,Others,8,10.64,85.12,Cash,Maria,3.66,18.68,Without Notes,24
+1404-188,2024-06-28,21:07:23,Marlboro,Cigarettes,6,11.09,66.54,Cash,Maria,8.81,20.25,Promotion Applied,5
+4333-830,2024-07-09,09:02:23,Chewing gums,Candies,4,9.01,36.04,Debit,Charles,2.86,6.49,Promotion Applied,1
+1566-512,2024-07-20,00:52:23,Juice,Drinks,7,19.65,137.55,Cash,Anna,3.01,24.76,Regular Client,39
+3641-177,2024-07-13,03:51:23,Cookies,Candies,2,6.58,13.16,Debit,John,0.62,2.37,Without Notes,74
+8777-891,2024-07-03,01:54:23,Chewing gums,Candies,9,2.84,25.56,Debit,Charles,0.58,4.6,Regular Client,79
+8917-482,2024-06-21,07:28:23,Chocolate,Candies,1,14.9,14.9,Cash,Charles,0.33,2.68,Regular Client,98
+6659-256,2024-07-14,10:23:23,Camel,Cigarettes,3,16.7,50.1,Debit,Maria,1.73,5.44,Without Notes,56
+7937-575,2024-06-23,17:43:23,Marlboro,Cigarettes,3,11.09,33.27,Cash,John,2.07,4.6,Without Notes,88
+9730-966,2024-06-21,05:35:23,Candies,Candies,9,9.61,86.49,Credit Card,Charles,0.97,15.57,Promotion Applied,13
+9144-195,2024-07-14,19:57:23,Camel,Cigarettes,8,16.7,133.6,Cash,John,7.29,13.67,Without Notes,75
+5841-930,2024-07-01,02:36:23,Lucky Strike,Cigarettes,3,10.08,30.24,Credit Card,John,3.28,10.31,Without Notes,65
+7105-477,2024-07-18,01:50:23,Camel,Cigarettes,6,16.7,100.2,Cash,Anna,4.15,9.62,Promotion Applied,93
+1916-607,2024-07-19,09:39:23,Cigarette Lighter,Others,5,10.64,53.2,Credit Card,John,0.01,12.46,Without Notes,59
+1100-375,2024-07-15,11:40:23,Beer,Drinks,3,11.31,33.93,Cash,Anna,1.53,6.11,Without Notes,63
+2850-949,2024-06-25,05:38:23,Toilet Paper,Others,9,13.42,120.78,Cash,John,11.85,21.74,Without Notes,29
+4367-113,2024-07-10,04:51:23,Juice,Drinks,8,19.35,154.8,Credit Card,Maria,2.5,27.86,Without Notes,33
+8656-777,2024-07-02,01:00:23,Soda,Drinks,9,2.53,22.77,Credit Card,John,0.03,4.1,Promotion Applied,11
+8947-149,2024-07-12,22:47:23,Water,Drinks,1,5.42,5.42,Debit,John,0.18,0.98,Regular Client,21
+9399-702,2024-07-12,00:35:23,Water,Drinks,10,12.79,127.9,Debit,Anna,5.69,23.02,Without Notes,73
+7146-439,2024-07-08,00:00:23,Water,Drinks,10,12.66,126.6,Cash,John,8.33,22.79,Without Notes,84
+5206-494,2024-07-02,15:02:23,Magazine,Others,4,9.86,39.44,Debit,Charles,2.34,7.1,Without Notes,67
+5083-582,2024-06-24,18:44:23,Beer,Drinks,1,9.84,9.84,Credit Card,Maria,0.25,1.77,Promotion Applied,96
+1237-151,2024-07-17,12:58:23,Cookies,Candies,6,19.16,114.96,Cash,Maria,5.81,20.69,Without Notes,81
+2907-726,2024-07-10,14:50:23,Toilet Paper,Others,6,5.84,35.04,Cash,Charles,0.42,6.31,Regular Client,44
+5007-117,2024-07-01,21:39:23,Juice,Drinks,2,14.79,29.58,Credit Card,John,1,5.32,Without Notes,98
+8521-954,2024-07-03,13:06:23,Water,Drinks,1,11.02,11.02,Credit Card,Anna,1.06,1.98,Promotion Applied,18
+4270-636,2024-07-16,14:11:23,Water,Drinks,3,12.48,37.44,Credit Card,Anna,1.22,6.74,Without Notes,73
+7043-898,2024-06-27,03:15:23,Chocolate,Candies,5,15.57,77.85,Cash,John,6.8,14.01,Without Notes,12
+8957-221,2024-07-20,12:25:23,Candies,Candies,4,12.49,49.96,Credit Card,Maria,1.8,8.99,Without Notes,32
+2146-594,2024-06-25,14:40:23,Lucky Strike,Cigarettes,7,10.08,70.56,Cash,Anna,0.92,2.53,Promotion Applied,4
+2304-501,2024-07-02,06:33:23,Lucky Strike,Cigarettes,2,10.08,20.16,Credit Card,Maria,2.01,4.43,Without Notes,40
+2044-313,2024-07-13,12:00:23,Cookies,Candies,4,14.03,56.12,Credit Card,Charles,2.25,10.1,Without Notes,86
+5439-136,2024-06-26,05:01:23,Lucky Strike,Cigarettes,2,10.08,20.16,Credit Card,Anna,0.02,5.08,Without Notes,91
+1547-160,2024-06-23,11:10:23,Marlboro,Cigarettes,9,11.09,99.81,Cash,Maria,7.72,17.09,Without Notes,43
+1259-836,2024-07-16,23:19:23,Camel,Cigarettes,6,16.7,100.2,Credit Card,John,0.4,5.11,Without Notes,75
+5982-629,2024-06-21,02:40:23,Beer,Drinks,8,3.21,25.68,Credit Card,Charles,0.99,4.62,Promotion Applied,80
+5354-525,2024-07-02,12:59:23,Toilet Paper,Others,3,3.45,10.35,Cash,John,0.05,1.86,Promotion Applied,20
+8542-615,2024-06-20,19:27:23,Cookies,Candies,5,2.67,13.35,Debit,Maria,1.01,2.4,Without Notes,1
+7644-364,2024-07-14,06:35:23,Lucky Strike,Cigarettes,6,10.08,60.48,Credit Card,John,2.01,12.67,Without Notes,44
+6091-556,2024-07-12,04:01:23,Chocolate,Candies,4,14.27,57.08,Cash,Maria,3.62,10.27,Without Notes,89
+5017-247,2024-07-14,02:55:23,Cookies,Candies,5,8.43,42.15,Credit Card,Anna,1.63,7.59,Promotion Applied,13
+6819-870,2024-06-29,12:34:23,Camel,Cigarettes,3,16.7,50.1,Credit Card,Charles,3.68,7.31,Without Notes,7
+8277-370,2024-07-21,01:37:23,Camel,Cigarettes,4,16.7,66.8,Cash,John,6.78,12.25,Regular Client,5
+9816-574,2024-07-03,23:30:23,Chocolate,Candies,2,12.93,25.86,Credit Card,Anna,2.02,4.65,Regular Client,90
+6328-581,2024-07-18,06:31:23,Candies,Candies,2,11.78,23.56,Debit,Anna,2.31,4.24,Promotion Applied,16
+1840-117,2024-07-15,21:14:23,Candies,Candies,2,10.96,21.92,Debit,Maria,2.19,3.95,Without Notes,73
+5142-374,2024-07-16,20:40:23,Juice,Drinks,10,18.67,186.7,Credit Card,Maria,3.62,33.61,Regular Client,23
+3382-192,2024-06-24,21:30:23,Magazine,Others,1,19.69,19.69,Credit Card,John,0.5,3.54,Without Notes,78
+5042-692,2024-07-09,05:43:23,Camel,Cigarettes,4,16.7,66.8,Credit Card,Anna,3.26,9.98,Without Notes,33
+2792-602,2024-07-16,04:19:23,Marlboro,Cigarettes,3,11.09,33.27,Cash,John,0.03,8.18,Without Notes,88
+2044-975,2024-06-30,14:46:23,Marlboro,Cigarettes,4,11.09,44.36,Cash,Charles,5.26,13.91,Promotion Applied,50
+6538-803,2024-07-08,04:06:23,Lucky Strike,Cigarettes,4,10.08,40.32,Cash,Charles,1.44,4.31,Promotion Applied,82
+2929-304,2024-07-02,15:24:23,Candies,Candies,3,3.71,11.13,Credit Card,Anna,0.31,2,Regular Client,11
+9174-844,2024-07-14,21:54:23,Camel,Cigarettes,9,16.7,150.3,Credit Card,John,0.74,3.34,Regular Client,6
+3681-841,2024-07-13,12:03:23,Cigarette Lighter,Others,9,10.64,95.76,Cash,John,5.76,16.72,Promotion Applied,91
+9623-221,2024-06-21,00:34:23,Lucky Strike,Cigarettes,9,10.08,90.72,Cash,Maria,7.99,22.52,Promotion Applied,43
+8884-128,2024-07-07,12:45:23,Marlboro,Cigarettes,3,11.09,33.27,Credit Card,Maria,0.81,2.17,Regular Client,61
+9899-839,2024-07-20,21:52:23,Camel,Cigarettes,3,16.7,50.1,Credit Card,John,0.5,2.5,Without Notes,8
+9101-755,2024-07-15,22:35:23,Chocolate,Candies,8,10.81,86.48,Credit Card,John,4.1,15.57,Without Notes,27
+9794-943,2024-07-20,22:06:23,Cookies,Candies,4,16.6,66.4,Credit Card,Maria,2.47,11.95,Without Notes,95
+2186-791,2024-07-06,04:08:23,Camel,Cigarettes,5,16.7,83.5,Credit Card,Anna,2.98,6.58,Promotion Applied,92
+7921-629,2024-07-08,04:35:23,Cookies,Candies,6,14.39,86.34,Cash,Maria,1.13,15.54,Without Notes,70
+5502-891,2024-07-07,03:59:23,Water,Drinks,3,14.95,44.85,Credit Card,Anna,2.9,8.07,Promotion Applied,13
+2026-254,2024-06-20,23:58:23,Camel,Cigarettes,4,16.7,66.8,Debit,Anna,1.18,13.41,Regular Client,84
+3686-389,2024-07-14,10:11:23,Magazine,Others,6,5.42,32.52,Cash,John,1.19,5.85,Without Notes,33
+2572-277,2024-07-13,01:27:23,Chewing gums,Candies,4,10.39,41.56,Cash,Anna,1.54,7.48,Without Notes,55
+1327-611,2024-06-21,03:41:23,Beer,Drinks,6,17.63,105.78,Debit,Anna,1.03,19.04,Without Notes,13
+3917-845,2024-07-08,02:53:23,Soda,Drinks,8,5.61,44.88,Debit,Charles,4.22,8.08,Regular Client,81
+1897-422,2024-06-29,23:24:23,Toilet Paper,Others,1,5.07,5.07,Debit,Maria,0.38,0.91,Regular Client,99
+4636-682,2024-07-08,02:25:23,Soda,Drinks,3,2.84,8.52,Debit,Maria,0.36,1.53,Without Notes,0
+6086-203,2024-07-21,13:38:23,Magazine,Others,7,13.36,93.52,Debit,Charles,8.67,16.83,Promotion Applied,68
+4423-859,2024-07-15,18:33:23,Cookies,Candies,4,5.49,21.96,Cash,Anna,0.43,3.95,Regular Client,70
+3350-758,2024-06-23,12:55:23,Magazine,Others,6,15.48,92.88,Debit,Charles,6.83,16.72,Without Notes,58
+5787-501,2024-07-01,07:48:23,Cookies,Candies,10,18.38,183.8,Credit Card,John,17.69,33.08,Regular Client,50
+5587-873,2024-06-28,01:02:23,Soda,Drinks,10,13.43,134.3,Debit,Charles,5.71,24.17,Without Notes,88
+8414-229,2024-07-01,14:15:23,Cigarette Lighter,Others,4,10.64,42.56,Cash,Anna,0.08,3.42,Promotion Applied,87
+1373-783,2024-07-19,14:59:23,Lucky Strike,Cigarettes,8,10.08,80.64,Credit Card,Maria,7.45,24.26,Without Notes,14
+4436-423,2024-07-06,18:25:23,Magazine,Others,3,10.23,30.69,Cash,John,0.45,5.52,Without Notes,42
+1319-908,2024-06-29,08:30:23,Beer,Drinks,3,5.23,15.69,Debit,Maria,1.1,2.82,Promotion Applied,98
+1906-195,2024-07-05,18:01:23,Beer,Drinks,3,17.32,51.96,Debit,Anna,4.08,9.35,Regular Client,0
+1360-165,2024-06-30,13:06:23,Magazine,Others,3,4.51,13.53,Credit Card,Charles,0.65,2.44,Without Notes,52
+7188-241,2024-07-06,01:04:23,Marlboro,Cigarettes,2,11.09,22.18,Credit Card,Anna,0.09,5.07,Without Notes,40
+4843-932,2024-07-18,15:26:23,Chocolate,Candies,8,12.94,103.52,Debit,Maria,0.09,18.63,Promotion Applied,68
+2497-276,2024-07-09,09:39:23,Water,Drinks,8,17.33,138.64,Credit Card,Charles,11.15,24.96,Regular Client,89
+5439-943,2024-07-16,04:19:23,Water,Drinks,5,7.95,39.75,Debit,John,1.33,7.15,Without Notes,17
+7847-917,2024-06-20,17:44:23,Camel,Cigarettes,7,16.7,116.9,Cash,Charles,7.31,17.87,Without Notes,63
+4448-883,2024-07-02,19:55:23,Lucky Strike,Cigarettes,9,10.08,90.72,Debit,Anna,6.7,13.3,Without Notes,37
+5743-977,2024-06-27,14:17:23,Chocolate,Candies,1,10.19,10.19,Debit,John,0.28,1.83,Without Notes,33
+3955-746,2024-06-22,20:21:23,Chocolate,Candies,4,3.55,14.2,Cash,Charles,0.74,2.56,Without Notes,32
+8100-246,2024-07-11,20:10:23,Soda,Drinks,7,16.72,117.04,Cash,Charles,8.29,21.07,Promotion Applied,80
+7117-608,2024-07-12,18:33:23,Cigarette Lighter,Others,8,10.64,85.12,Cash,Maria,3.77,25.17,Without Notes,74
+3460-634,2024-06-22,19:56:23,Water,Drinks,2,8.52,17.04,Cash,Maria,0.27,3.07,Without Notes,79
+7388-755,2024-07-17,16:16:23,Beer,Drinks,6,10.87,65.22,Debit,John,3.51,11.74,Regular Client,66
+1024-645,2024-07-01,07:11:23,Juice,Drinks,9,7.07,63.63,Credit Card,Charles,3.35,11.45,Regular Client,77
+1260-120,2024-07-06,05:33:23,Camel,Cigarettes,1,16.7,16.7,Credit Card,John,0.27,0.65,Promotion Applied,11
+9943-811,2024-07-18,07:17:23,Beer,Drinks,10,4.64,46.4,Credit Card,Charles,0.44,8.35,Regular Client,37
+7975-161,2024-07-15,23:26:23,Cigarette Lighter,Others,5,10.64,53.2,Credit Card,Maria,0.67,3.97,Promotion Applied,93
+5409-573,2024-06-24,04:05:23,Magazine,Others,8,15.5,124,Credit Card,Charles,0.18,22.32,Regular Client,39
+6356-182,2024-07-19,12:50:23,Lucky Strike,Cigarettes,3,10.08,30.24,Credit Card,Maria,0.9,2.42,Without Notes,3
+6400-291,2024-07-02,10:26:23,Chewing gums,Candies,1,1.63,1.63,Debit,Anna,0.14,0.29,Regular Client,25
+3874-335,2024-07-08,07:58:23,Magazine,Others,1,14.66,14.66,Debit,Charles,0.38,2.64,Without Notes,58
+7868-179,2024-07-16,03:40:23,Water,Drinks,1,12.67,12.67,Debit,Charles,0.4,2.28,Without Notes,70
+2114-833,2024-07-16,17:27:23,Toilet Paper,Others,8,11.35,90.8,Credit Card,Anna,6.02,16.34,Promotion Applied,92
+3814-222,2024-07-19,04:26:23,Marlboro,Cigarettes,8,11.09,88.72,Credit Card,Maria,1.14,3.72,Regular Client,75
+4440-401,2024-07-11,02:20:23,Cookies,Candies,2,12.62,25.24,Credit Card,John,2.09,4.54,Without Notes,99
+3125-727,2024-06-26,12:29:23,Juice,Drinks,8,13.79,110.32,Cash,Anna,6.84,19.86,Without Notes,64
+4347-118,2024-06-23,00:36:23,Candies,Candies,2,1.47,2.94,Debit,Charles,0.17,0.53,Promotion Applied,84

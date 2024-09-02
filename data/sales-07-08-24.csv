@@ -1,0 +1,1001 @@
+Invoice Number,Date Sale,Time Sale,Product,Category,Quantity,Unit Price,Total Sale,Payment Method,Seller,Discounts,Taxes,Notes,Remaining Stock
+6497-964,2024-08-25,20:39:04.235685,Chewing gums,Candies,7,18.22,127.54,Cash,Seller A,2.67,20.41,Note 3,11
+3930-318,2024-08-27,20:39:04.235685,Marlboro,Cigarettes,19,13,247,Bank Transfer,Seller B,33.61,46.03,Note 2,14
+2937-511,2024-07-11,20:39:04.251315,Cigarette Lighter,Others,20,12,240,Bank Transfer,Seller A,15.15,44.8,Note 3,74
+1257-910,2024-08-03,20:39:04.251315,Chewing gums,Candies,7,7.57,52.99,Bank Transfer,Seller B,2.66,8.48,Note 1,83
+7596-465,2024-07-16,20:39:04.251315,Lucky Strike,Cigarettes,2,11,22,Credit Card,Seller D,1.37,1.02,Note 2,34
+2478-455,2024-08-04,20:39:04.251315,Toilet Paper,Others,18,8.41,151.38,Cash,Seller A,36.88,24.22,Note 4,36
+5962-650,2024-07-29,20:39:04.251315,Cigarette Lighter,Others,18,12,216,Cash,Seller D,32.95,30.64,Note 3,9
+9049-856,2024-08-28,20:39:04.251315,Toilet Paper,Others,8,4.38,35.04,PayPal,Seller B,3.67,5.61,Note 1,98
+9031-591,2024-08-01,20:39:04.251315,Magazine,Others,14,15.48,216.72,Bank Transfer,Seller D,52.24,34.68,Note 4,70
+2240-247,2024-08-21,20:39:04.251315,Marlboro,Cigarettes,5,13,65,Bank Transfer,Seller C,8.98,9.79,Note 1,8
+8111-474,2024-07-13,20:39:04.251315,Lucky Strike,Cigarettes,17,11,187,PayPal,Seller C,6.78,4.95,Note 4,56
+2083-332,2024-07-16,20:39:04.266943,Chocolate,Candies,6,7.27,43.62,PayPal,Seller C,12.63,6.98,Note 1,20
+4762-289,2024-07-28,20:39:04.266943,Candies,Candies,12,7.31,87.72,Bank Transfer,Seller B,8.05,14.04,Note 4,29
+8625-911,2024-08-18,20:39:04.266943,Chocolate,Candies,2,2.77,5.54,Credit Card,Seller B,1.56,0.89,Note 2,100
+6069-657,2024-07-08,20:39:04.266943,Magazine,Others,14,19.69,275.66,Credit Card,Seller D,38.48,44.11,Note 2,83
+3814-755,2024-07-27,20:39:04.266943,Magazine,Others,12,19.28,231.36,Bank Transfer,Seller D,63.27,37.02,Note 4,44
+4835-543,2024-08-02,20:39:04.266943,Water,Drinks,20,15.32,306.4,Cash,Seller C,86.26,49.02,Note 1,82
+8831-190,2024-08-07,20:39:04.266943,Soda,Drinks,5,1.39,6.95,Bank Transfer,Seller B,0.74,1.11,Note 1,21
+9570-486,2024-07-30,20:39:04.266943,Magazine,Others,20,14.29,285.8,Credit Card,Seller D,67.92,45.73,Note 1,23
+9873-642,2024-07-02,20:39:04.266943,Water,Drinks,8,1.33,10.64,Cash,Seller B,2.79,1.7,Note 4,40
+3052-379,2024-07-23,20:39:04.282568,Magazine,Others,3,17.21,51.63,PayPal,Seller A,5.75,8.26,Note 3,79
+9166-651,2024-08-07,20:39:04.282568,Cigarette Lighter,Others,15,12,180,Credit Card,Seller C,48.46,37.01,Note 3,0
+7490-166,2024-07-09,20:39:04.282568,Lucky Strike,Cigarettes,19,11,209,Cash,Seller B,96.87,54.2,Note 1,35
+5258-121,2024-08-12,20:39:04.282568,Candies,Candies,12,1.07,12.84,Bank Transfer,Seller B,3.16,2.05,Note 2,39
+3809-132,2024-08-02,20:39:04.282568,Soda,Drinks,15,13.38,200.7,Bank Transfer,Seller A,53.75,32.11,Note 2,36
+4444-246,2024-07-18,20:39:04.282568,Lucky Strike,Cigarettes,18,11,198,Cash,Seller D,18.27,51.35,Note 4,1
+8928-783,2024-07-01,20:39:04.282568,Juice,Drinks,9,1.05,9.45,Bank Transfer,Seller D,1.02,1.51,Note 2,23
+9693-125,2024-07-09,20:39:04.282568,Cigarette Lighter,Others,14,12,168,PayPal,Seller C,4.09,11.16,Note 4,76
+4197-719,2024-07-08,20:39:04.282568,Candies,Candies,19,16.59,315.21,Cash,Seller C,40.02,50.43,Note 2,41
+5115-979,2024-07-06,20:39:04.298180,Chocolate,Candies,17,12.93,219.81,Cash,Seller D,41.42,35.17,Note 2,88
+7001-162,2024-08-11,20:39:04.298180,Cigarette Lighter,Others,10,12,120,Bank Transfer,Seller A,24.19,19.87,Note 1,37
+9105-546,2024-07-21,20:39:04.298180,Toilet Paper,Others,13,6.86,89.18,Cash,Seller A,9.37,14.27,Note 2,19
+6373-453,2024-08-08,20:39:04.298180,Soda,Drinks,20,10.83,216.6,Bank Transfer,Seller A,4.13,34.66,Note 1,52
+7883-963,2024-08-04,20:39:04.298180,Candies,Candies,8,15.58,124.64,Cash,Seller B,21.87,19.94,Note 2,96
+3429-289,2024-07-09,20:39:04.298180,Cookies,Candies,12,12.62,151.44,Credit Card,Seller A,22.52,24.23,Note 4,0
+9838-486,2024-07-31,20:39:04.298180,Toilet Paper,Others,3,16.08,48.24,Bank Transfer,Seller D,13.57,7.72,Note 1,22
+2193-749,2024-07-17,20:39:04.298180,Cookies,Candies,17,3,51,Credit Card,Seller C,12.92,8.16,Note 2,91
+8480-100,2024-08-18,20:39:04.298180,Juice,Drinks,2,1.05,2.1,PayPal,Seller A,0.55,0.34,Note 1,34
+6751-279,2024-08-14,20:39:04.313815,Soda,Drinks,14,16.14,225.96,Credit Card,Seller B,15.83,36.15,Note 2,53
+5793-593,2024-08-18,20:39:04.313815,Cigarette Lighter,Others,15,12,180,Credit Card,Seller D,61.24,42.43,Note 1,20
+7328-376,2024-08-10,20:39:04.313815,Chocolate,Candies,15,16.79,251.85,Cash,Seller C,67.39,40.3,Note 2,54
+4087-144,2024-08-17,20:39:04.313815,Candies,Candies,6,9.7,58.2,PayPal,Seller A,10.65,9.31,Note 2,64
+2695-614,2024-08-26,20:39:04.313815,Chocolate,Candies,5,9.57,47.85,PayPal,Seller A,12.82,7.66,Note 4,64
+2698-282,2024-07-02,20:39:04.313815,Beer,Drinks,5,1.57,7.85,Bank Transfer,Seller B,1.66,1.26,Note 1,80
+5087-698,2024-07-09,20:39:04.313815,Marlboro,Cigarettes,12,13,156,Cash,Seller D,33.84,20.79,Note 2,13
+1797-591,2024-07-14,20:39:04.313815,Water,Drinks,17,12.23,207.91,Cash,Seller D,11.12,33.27,Note 1,25
+8674-890,2024-07-12,20:39:04.313815,Camel,Cigarettes,17,17,289,PayPal,Seller D,31.43,27.39,Note 4,30
+1982-523,2024-07-07,20:39:04.329443,Camel,Cigarettes,6,17,102,Bank Transfer,Seller C,0.09,10.46,Note 4,23
+7297-119,2024-08-21,20:39:04.329443,Cookies,Candies,4,6.19,24.76,PayPal,Seller B,0.29,3.96,Note 4,74
+7975-556,2024-08-08,20:39:04.329443,Chewing gums,Candies,3,2.36,7.08,Bank Transfer,Seller B,1.56,1.13,Note 1,99
+8499-416,2024-08-17,20:39:04.329443,Marlboro,Cigarettes,12,13,156,PayPal,Seller A,45.64,31.1,Note 3,30
+7767-576,2024-07-21,20:39:04.329443,Camel,Cigarettes,19,17,323,PayPal,Seller A,33.65,60.07,Note 1,72
+6222-210,2024-07-05,20:39:04.329443,Chewing gums,Candies,5,4.25,21.25,Bank Transfer,Seller D,4.26,3.4,Note 4,13
+7705-584,2024-08-22,20:39:04.329443,Water,Drinks,7,6.92,48.44,PayPal,Seller B,1.22,7.75,Note 1,95
+1846-952,2024-07-18,20:39:04.329443,Cookies,Candies,18,5.53,99.54,Cash,Seller D,7.98,15.93,Note 1,7
+7597-826,2024-08-18,20:39:04.329443,Camel,Cigarettes,2,17,34,Cash,Seller A,6.61,4.8,Note 2,40
+7662-315,2024-07-31,20:39:04.329443,Cigarette Lighter,Others,8,12,96,PayPal,Seller B,1.09,1.8,Note 1,2
+7488-494,2024-07-30,20:39:04.345068,Toilet Paper,Others,12,18.69,224.28,Credit Card,Seller B,0.97,35.88,Note 3,100
+9594-889,2024-08-13,20:39:04.345068,Toilet Paper,Others,8,6.63,53.04,Credit Card,Seller A,5.25,8.49,Note 2,13
+4531-702,2024-08-07,20:39:04.345068,Toilet Paper,Others,11,13.31,146.41,Credit Card,Seller C,42.8,23.43,Note 3,62
+4681-842,2024-07-28,20:39:04.345068,Beer,Drinks,14,6.14,85.96,Credit Card,Seller A,2.55,13.75,Note 3,11
+5087-338,2024-08-05,20:39:04.345068,Chewing gums,Candies,18,19.02,342.36,Cash,Seller B,56.55,54.78,Note 3,69
+3337-485,2024-07-18,20:39:04.345068,Marlboro,Cigarettes,1,13,13,PayPal,Seller D,0.07,0.25,Note 2,13
+9751-341,2024-07-30,20:39:04.345068,Marlboro,Cigarettes,13,13,169,PayPal,Seller B,35.33,20.95,Note 2,71
+5180-292,2024-08-28,20:39:04.345068,Water,Drinks,9,17.23,155.07,PayPal,Seller C,8.77,24.81,Note 1,20
+9605-212,2024-08-03,20:39:04.360691,Chocolate,Candies,7,3.69,25.83,Bank Transfer,Seller B,1.94,4.13,Note 1,100
+1252-478,2024-07-30,20:39:04.360691,Marlboro,Cigarettes,11,13,143,Bank Transfer,Seller C,23.56,16.74,Note 2,53
+9422-698,2024-07-27,20:39:04.360691,Soda,Drinks,8,18.38,147.04,PayPal,Seller B,33.96,23.53,Note 3,19
+6902-218,2024-07-26,20:39:04.360691,Water,Drinks,7,2.83,19.81,PayPal,Seller B,4.59,3.17,Note 1,79
+2354-990,2024-07-03,20:39:04.360691,Cookies,Candies,13,5.53,71.89,Cash,Seller C,13.94,11.5,Note 2,41
+1691-249,2024-08-23,20:39:04.360691,Lucky Strike,Cigarettes,10,11,110,Bank Transfer,Seller A,23.78,14.35,Note 4,16
+9308-882,2024-08-24,20:39:04.360691,Chewing gums,Candies,13,15.46,200.98,Credit Card,Seller B,40.78,32.16,Note 3,26
+5558-603,2024-08-09,20:39:04.360691,Juice,Drinks,6,18.14,108.84,Credit Card,Seller D,1.54,17.41,Note 1,87
+6323-407,2024-08-18,20:39:04.360691,Cigarette Lighter,Others,7,12,84,PayPal,Seller D,24.93,16.83,Note 1,80
+1669-501,2024-07-07,20:39:04.360691,Marlboro,Cigarettes,9,13,117,Credit Card,Seller D,23.7,28.21,Note 4,84
+9159-188,2024-07-14,20:39:04.376317,Beer,Drinks,12,11.62,139.44,Cash,Seller B,5.76,22.31,Note 1,1
+8077-621,2024-08-23,20:39:04.376317,Candies,Candies,20,5.56,111.2,Bank Transfer,Seller D,29.67,17.79,Note 3,29
+9763-435,2024-07-24,20:39:04.376317,Toilet Paper,Others,15,19.6,294,Bank Transfer,Seller B,66.99,47.04,Note 4,39
+4796-123,2024-08-21,20:39:04.376317,Lucky Strike,Cigarettes,3,11,33,PayPal,Seller B,0.96,1.74,Note 2,54
+5430-913,2024-08-26,20:39:04.376317,Lucky Strike,Cigarettes,9,11,99,Credit Card,Seller C,35.68,23.13,Note 3,3
+6352-265,2024-08-27,20:39:04.376317,Camel,Cigarettes,19,17,323,Credit Card,Seller A,8.56,8.69,Note 2,91
+1229-224,2024-07-13,20:39:04.376317,Cigarette Lighter,Others,11,12,132,Bank Transfer,Seller A,42.99,26.45,Note 1,45
+6591-498,2024-07-16,20:39:04.376317,Toilet Paper,Others,19,3.45,65.55,Credit Card,Seller C,16.37,10.49,Note 1,86
+6323-371,2024-08-27,20:39:04.391946,Cigarette Lighter,Others,3,12,36,Cash,Seller A,8.95,6.72,Note 3,51
+1541-350,2024-07-27,20:39:04.391946,Toilet Paper,Others,2,10.79,21.58,Cash,Seller D,5.28,3.45,Note 2,50
+2047-727,2024-08-04,20:39:04.391946,Chewing gums,Candies,1,2.84,2.84,Cash,Seller C,0.46,0.45,Note 3,33
+3183-543,2024-07-13,20:39:04.391946,Toilet Paper,Others,10,6.17,61.7,Cash,Seller D,2.11,9.87,Note 4,22
+3155-431,2024-08-11,20:39:04.391946,Cookies,Candies,8,8.43,67.44,Credit Card,Seller A,13.45,10.79,Note 3,94
+6649-197,2024-07-16,20:39:04.391946,Magazine,Others,17,14.29,242.93,Bank Transfer,Seller B,55.91,38.87,Note 3,79
+6968-950,2024-08-22,20:39:04.391946,Marlboro,Cigarettes,7,13,91,PayPal,Seller A,30.2,16.96,Note 1,72
+3426-387,2024-08-12,20:39:04.391946,Water,Drinks,17,3.46,58.82,Credit Card,Seller A,11.15,9.41,Note 4,91
+7798-339,2024-07-28,20:39:04.391946,Lucky Strike,Cigarettes,4,11,44,Cash,Seller B,1.08,3.83,Note 3,96
+4452-671,2024-07-25,20:39:04.391946,Toilet Paper,Others,12,17.59,211.08,Credit Card,Seller A,46.94,33.77,Note 3,19
+2133-201,2024-07-25,20:39:04.407568,Toilet Paper,Others,1,3.05,3.05,Cash,Seller C,0.79,0.49,Note 3,79
+4953-481,2024-08-16,20:39:04.407568,Juice,Drinks,7,14.39,100.73,Bank Transfer,Seller C,7.75,16.12,Note 4,39
+8639-403,2024-07-19,20:39:04.407568,Toilet Paper,Others,16,6.4,102.4,Bank Transfer,Seller C,0.23,16.38,Note 1,42
+7229-422,2024-08-08,20:39:04.407568,Camel,Cigarettes,14,17,238,Credit Card,Seller A,1.42,5.15,Note 1,68
+4188-967,2024-08-18,20:39:04.407568,Candies,Candies,18,9.7,174.6,Credit Card,Seller C,23.27,27.94,Note 3,43
+9086-960,2024-07-17,20:39:04.407568,Magazine,Others,3,14.33,42.99,PayPal,Seller B,5.88,6.88,Note 3,11
+9496-620,2024-08-15,20:39:04.407568,Cigarette Lighter,Others,5,12,60,Cash,Seller B,6.22,5.46,Note 4,17
+5120-478,2024-07-02,20:39:04.407568,Juice,Drinks,8,16.06,128.48,Bank Transfer,Seller A,15.36,20.56,Note 1,63
+3064-146,2024-07-01,20:39:04.423192,Marlboro,Cigarettes,20,13,260,Bank Transfer,Seller C,63.81,47.1,Note 2,61
+7648-554,2024-08-27,20:39:04.423192,Magazine,Others,9,15.48,139.32,PayPal,Seller B,20.96,22.29,Note 3,56
+5664-150,2024-07-31,20:39:04.423192,Lucky Strike,Cigarettes,15,11,165,PayPal,Seller A,0.53,8.69,Note 3,26
+9467-822,2024-08-06,20:39:04.423192,Cigarette Lighter,Others,6,12,72,Bank Transfer,Seller C,15.97,14.8,Note 4,67
+1068-195,2024-07-09,20:39:04.423192,Chocolate,Candies,6,15.64,93.84,PayPal,Seller C,6.65,15.01,Note 4,74
+8936-201,2024-07-25,20:39:04.423192,Water,Drinks,7,16.51,115.57,Cash,Seller C,28.82,18.49,Note 4,77
+9658-857,2024-08-27,20:39:04.423192,Lucky Strike,Cigarettes,5,11,55,PayPal,Seller C,6.13,8.18,Note 1,92
+7160-950,2024-07-21,20:39:04.423192,Juice,Drinks,1,10.16,10.16,Bank Transfer,Seller D,2.54,1.63,Note 3,94
+3657-948,2024-07-25,20:39:04.423192,Candies,Candies,20,9.07,181.4,Cash,Seller C,0.61,29.02,Note 2,62
+9534-666,2024-08-05,20:39:04.438819,Lucky Strike,Cigarettes,4,11,44,Credit Card,Seller D,2.76,8.23,Note 2,67
+3839-684,2024-07-15,20:39:04.438819,Soda,Drinks,19,2.9,55.1,Bank Transfer,Seller A,15.36,8.82,Note 1,96
+3892-115,2024-08-24,20:39:04.438819,Water,Drinks,20,1.22,24.4,Cash,Seller C,5.53,3.9,Note 1,49
+5752-322,2024-08-11,20:39:04.438819,Marlboro,Cigarettes,11,13,143,Cash,Seller C,24.69,30.25,Note 3,100
+6553-759,2024-08-25,20:39:04.438819,Water,Drinks,6,15.54,93.24,Bank Transfer,Seller C,15.61,14.92,Note 1,1
+3145-417,2024-07-04,20:39:04.438819,Water,Drinks,2,2.53,5.06,Credit Card,Seller C,0.39,0.81,Note 1,34
+1589-422,2024-08-10,20:39:04.438819,Toilet Paper,Others,6,1.62,9.72,Credit Card,Seller D,0.02,1.56,Note 1,82
+8437-243,2024-08-12,20:39:04.438819,Candies,Candies,8,1.26,10.08,PayPal,Seller D,0.59,1.61,Note 2,97
+9527-768,2024-08-02,20:39:04.438819,Camel,Cigarettes,17,17,289,Cash,Seller A,71.33,42.81,Note 2,10
+4384-514,2024-07-26,20:39:04.454437,Water,Drinks,13,6.17,80.21,Bank Transfer,Seller B,7.51,12.83,Note 4,60
+3276-708,2024-08-10,20:39:04.454437,Water,Drinks,10,12.06,120.6,PayPal,Seller D,26.43,19.3,Note 2,33
+8812-648,2024-07-14,20:39:04.454437,Cookies,Candies,14,17.67,247.38,Credit Card,Seller A,54.94,39.58,Note 1,81
+5154-866,2024-08-17,20:39:04.454437,Camel,Cigarettes,5,17,85,Credit Card,Seller D,18.98,14.09,Note 1,16
+8421-509,2024-08-19,20:39:04.454437,Water,Drinks,4,6.17,24.68,PayPal,Seller B,3.81,3.95,Note 1,54
+3349-903,2024-08-27,20:39:04.454437,Cookies,Candies,9,15.66,140.94,PayPal,Seller A,26.58,22.55,Note 2,53
+5768-159,2024-08-24,20:39:04.454437,Cigarette Lighter,Others,20,12,240,Bank Transfer,Seller A,40.38,30.88,Note 3,32
+7034-701,2024-07-27,20:39:04.454437,Soda,Drinks,8,16.72,133.76,Cash,Seller C,4.58,21.4,Note 3,60
+4535-791,2024-07-11,20:39:04.454437,Magazine,Others,3,4.51,13.53,Credit Card,Seller B,3.02,2.16,Note 2,60
+1600-768,2024-08-29,20:39:04.470068,Candies,Candies,2,18.1,36.2,Cash,Seller D,0.88,5.79,Note 3,37
+4642-389,2024-07-07,20:39:04.470068,Candies,Candies,17,19.4,329.8,Bank Transfer,Seller D,74.08,52.77,Note 2,24
+6931-313,2024-08-07,20:39:04.470068,Beer,Drinks,20,17.22,344.4,Bank Transfer,Seller B,10.94,55.1,Note 4,93
+7299-346,2024-07-10,20:39:04.470068,Soda,Drinks,8,19.31,154.48,Cash,Seller A,25.28,24.72,Note 3,31
+9084-749,2024-08-05,20:39:04.470068,Cigarette Lighter,Others,5,12,60,Bank Transfer,Seller B,3.7,3.8,Note 4,44
+6086-656,2024-08-10,20:39:04.470068,Chewing gums,Candies,3,13.8,41.4,Credit Card,Seller B,7.81,6.62,Note 3,74
+5733-819,2024-07-21,20:39:04.470068,Toilet Paper,Others,18,2.02,36.36,Cash,Seller C,4.41,5.82,Note 3,0
+5992-177,2024-07-31,20:39:04.470068,Soda,Drinks,7,5.61,39.27,Bank Transfer,Seller A,11.05,6.28,Note 2,79
+9714-652,2024-08-17,20:39:04.470068,Camel,Cigarettes,15,17,255,Cash,Seller B,1.53,9.46,Note 1,78
+5891-684,2024-08-01,20:39:04.485694,Chocolate,Candies,18,19.45,350.1,PayPal,Seller C,68.49,56.02,Note 2,96
+1443-252,2024-08-30,20:39:04.485694,Lucky Strike,Cigarettes,6,11,66,Bank Transfer,Seller B,25.2,17.65,Note 4,23
+9918-783,2024-07-19,20:39:04.485694,Chewing gums,Candies,11,1.03,11.33,Credit Card,Seller A,2.93,1.81,Note 1,8
+1883-797,2024-07-18,20:39:04.485694,Chewing gums,Candies,3,19.29,57.87,PayPal,Seller A,15.45,9.26,Note 2,7
+4221-662,2024-08-23,20:39:04.485694,Camel,Cigarettes,17,17,289,Credit Card,Seller A,59.03,33.08,Note 1,7
+8495-765,2024-08-15,20:39:04.485694,Lucky Strike,Cigarettes,15,11,165,Bank Transfer,Seller D,28.96,23.86,Note 2,74
+2710-807,2024-07-08,20:39:04.485694,Cigarette Lighter,Others,11,12,132,Bank Transfer,Seller C,5.47,13.82,Note 3,7
+9738-541,2024-07-08,20:39:04.485694,Lucky Strike,Cigarettes,2,11,22,Credit Card,Seller A,3.34,2.33,Note 3,36
+5001-789,2024-08-23,20:39:04.485694,Water,Drinks,14,14.95,209.3,Bank Transfer,Seller B,33.17,33.49,Note 3,10
+5317-302,2024-07-14,20:39:04.485694,Marlboro,Cigarettes,7,13,91,Credit Card,Seller B,2.31,1.41,Note 2,36
+7575-433,2024-08-23,20:39:04.501311,Soda,Drinks,14,3.27,45.78,Cash,Seller D,6.93,7.32,Note 4,48
+2513-902,2024-07-16,20:39:04.501311,Toilet Paper,Others,1,1.62,1.62,Bank Transfer,Seller C,0.17,0.26,Note 3,10
+4167-668,2024-08-25,20:39:04.501311,Marlboro,Cigarettes,16,13,208,Credit Card,Seller D,3.81,14.05,Note 4,71
+8861-944,2024-08-06,20:39:04.501311,Water,Drinks,8,12.5,100,Cash,Seller C,29.97,16,Note 4,60
+9440-669,2024-07-15,20:39:04.501311,Marlboro,Cigarettes,20,13,260,Bank Transfer,Seller A,2.47,8.26,Note 3,17
+6981-138,2024-07-07,20:39:04.501311,Water,Drinks,6,7.29,43.74,Credit Card,Seller B,10.73,7,Note 2,92
+3494-951,2024-08-15,20:39:04.501311,Chocolate,Candies,9,11.81,106.29,Cash,Seller D,0.13,17.01,Note 3,1
+3498-468,2024-08-22,20:39:04.501311,Chewing gums,Candies,18,9.98,179.64,Credit Card,Seller A,36.01,28.74,Note 1,31
+8820-882,2024-07-28,20:39:04.501311,Soda,Drinks,12,17.1,205.2,Credit Card,Seller A,55.74,32.83,Note 3,52
+2858-431,2024-08-09,20:39:04.516941,Toilet Paper,Others,14,7.46,104.44,PayPal,Seller D,22.35,16.71,Note 4,47
+1560-579,2024-08-21,20:39:04.516941,Chewing gums,Candies,8,13.01,104.08,Credit Card,Seller B,0.94,16.65,Note 3,57
+3305-395,2024-07-14,20:39:04.516941,Cookies,Candies,11,15.66,172.26,Bank Transfer,Seller D,22.8,27.56,Note 4,97
+6680-439,2024-07-17,20:39:04.516941,Camel,Cigarettes,11,17,187,Cash,Seller B,1.84,3.52,Note 1,94
+4032-254,2024-08-19,20:39:04.516941,Soda,Drinks,5,11.6,58,PayPal,Seller A,1.03,9.28,Note 1,22
+9936-157,2024-07-30,20:39:04.516941,Toilet Paper,Others,18,18.66,335.88,PayPal,Seller A,64.27,53.74,Note 1,0
+8177-632,2024-07-14,20:39:04.516941,Lucky Strike,Cigarettes,17,11,187,Credit Card,Seller C,5.16,3.4,Note 3,0
+9034-541,2024-07-23,20:39:04.516941,Marlboro,Cigarettes,1,13,13,Credit Card,Seller A,0.41,1.69,Note 1,48
+7946-462,2024-07-23,20:39:04.516941,Water,Drinks,9,19.92,179.28,Cash,Seller B,22.56,28.68,Note 1,15
+3760-192,2024-07-16,20:39:04.532569,Water,Drinks,20,3.46,69.2,Cash,Seller A,5.61,11.07,Note 2,77
+6923-367,2024-07-15,20:39:04.532569,Chocolate,Candies,5,10.99,54.95,Credit Card,Seller D,16.2,8.79,Note 1,38
+8094-158,2024-07-10,20:39:04.532569,Toilet Paper,Others,17,9.78,166.26,Bank Transfer,Seller C,46.6,26.6,Note 4,10
+5283-427,2024-08-30,20:39:04.532569,Juice,Drinks,3,19.86,59.58,Credit Card,Seller A,5.32,9.53,Note 3,28
+4469-364,2024-07-18,20:39:04.532569,Toilet Paper,Others,5,3.86,19.3,Cash,Seller A,5.02,3.09,Note 1,72
+1889-714,2024-08-08,20:39:04.532569,Cigarette Lighter,Others,11,12,132,Credit Card,Seller C,9.8,12.02,Note 3,6
+9227-240,2024-07-03,20:39:04.532569,Chewing gums,Candies,8,10.75,86,Bank Transfer,Seller A,25.21,13.76,Note 3,28
+8327-968,2024-08-22,20:39:04.532569,Chewing gums,Candies,17,1.03,17.51,Bank Transfer,Seller C,3.79,2.8,Note 2,88
+3219-829,2024-08-12,20:39:04.532569,Beer,Drinks,3,10.81,32.43,PayPal,Seller D,7.09,5.19,Note 3,6
+4093-275,2024-08-15,20:39:04.532569,Soda,Drinks,18,1.19,21.42,Cash,Seller B,3.19,3.43,Note 2,28
+9224-917,2024-08-18,20:39:04.548193,Candies,Candies,12,2.36,28.32,Cash,Seller C,0.15,4.53,Note 1,43
+6846-613,2024-07-17,20:39:04.548193,Chocolate,Candies,12,13.34,160.08,Bank Transfer,Seller B,2.71,25.61,Note 2,70
+9146-309,2024-08-02,20:39:04.548193,Water,Drinks,20,3.08,61.6,PayPal,Seller C,14.29,9.86,Note 3,91
+3746-374,2024-07-17,20:39:04.548193,Lucky Strike,Cigarettes,4,11,44,Credit Card,Seller B,0.64,0.8,Note 4,94
+1477-791,2024-07-08,20:39:04.548193,Chocolate,Candies,11,6.53,71.83,Credit Card,Seller D,19.98,11.49,Note 3,70
+5935-320,2024-08-27,20:39:04.548193,Beer,Drinks,4,15.57,62.28,PayPal,Seller A,16.34,9.96,Note 2,87
+2017-502,2024-08-28,20:39:04.548193,Soda,Drinks,19,14.56,276.64,Bank Transfer,Seller B,38.12,44.26,Note 1,69
+7725-499,2024-07-03,20:39:04.548193,Toilet Paper,Others,20,3.86,77.2,PayPal,Seller C,21.2,12.35,Note 4,3
+4981-443,2024-07-30,20:39:04.563817,Lucky Strike,Cigarettes,13,11,143,Bank Transfer,Seller A,59.02,35.67,Note 1,77
+2416-561,2024-08-03,20:39:04.563817,Cookies,Candies,7,9.66,67.62,PayPal,Seller D,12.04,10.82,Note 3,70
+5347-698,2024-08-20,20:39:04.563817,Soda,Drinks,7,13.18,92.26,Cash,Seller C,25.77,14.76,Note 2,76
+2468-502,2024-07-01,20:39:04.563817,Toilet Paper,Others,10,14.63,146.3,Bank Transfer,Seller B,20.04,23.41,Note 3,2
+7911-697,2024-08-01,20:39:04.563817,Cookies,Candies,17,12.26,208.42,Bank Transfer,Seller B,61.4,33.35,Note 1,16
+5065-330,2024-08-19,20:39:04.563817,Chocolate,Candies,6,2.2,13.2,Cash,Seller A,1.33,2.11,Note 3,41
+7893-696,2024-08-17,20:39:04.563817,Chocolate,Candies,16,17.62,281.92,Cash,Seller C,18.7,45.11,Note 1,10
+3261-241,2024-07-13,20:39:04.563817,Chewing gums,Candies,9,17.56,158.04,Credit Card,Seller B,1.92,25.29,Note 3,71
+8893-525,2024-08-30,20:39:04.563817,Beer,Drinks,4,16.69,66.76,Credit Card,Seller B,9.78,10.68,Note 4,100
+2593-406,2024-07-17,20:39:04.563817,Marlboro,Cigarettes,4,13,52,Cash,Seller B,11.73,7.24,Note 3,11
+8307-558,2024-08-01,20:39:04.579442,Water,Drinks,8,2.15,17.2,Bank Transfer,Seller C,4.99,2.75,Note 4,32
+9397-392,2024-08-24,20:39:04.579442,Cigarette Lighter,Others,9,12,108,Credit Card,Seller B,3.8,5.63,Note 4,8
+5758-914,2024-08-21,20:39:04.579442,Juice,Drinks,15,16.37,245.55,Credit Card,Seller C,69.37,39.29,Note 2,87
+1255-267,2024-07-19,20:39:04.579442,Water,Drinks,1,18.66,18.66,Cash,Seller C,3.09,2.99,Note 3,93
+8670-262,2024-07-02,20:39:04.579442,Chocolate,Candies,6,15.6,93.6,Credit Card,Seller B,1.35,14.98,Note 2,52
+1488-988,2024-07-05,20:39:04.579442,Chocolate,Candies,11,10.19,112.09,Cash,Seller D,32.12,17.93,Note 3,56
+2990-198,2024-07-22,20:39:04.579442,Magazine,Others,18,14.66,263.88,Cash,Seller D,15.89,42.22,Note 4,31
+8353-164,2024-07-07,20:39:04.579442,Juice,Drinks,1,12.1,12.1,PayPal,Seller D,2.26,1.94,Note 2,6
+1672-555,2024-08-01,20:39:04.579442,Chocolate,Candies,4,16.22,64.88,PayPal,Seller D,13.6,10.38,Note 2,79
+5257-808,2024-08-11,20:39:04.595070,Chocolate,Candies,1,8.5,8.5,Cash,Seller D,1.53,1.36,Note 4,78
+5211-762,2024-07-18,20:39:04.595070,Water,Drinks,15,9.69,145.35,Credit Card,Seller C,32.2,23.26,Note 3,7
+6505-338,2024-08-28,20:39:04.595070,Water,Drinks,3,2.39,7.17,Cash,Seller A,0.32,1.15,Note 1,65
+5332-477,2024-07-17,20:39:04.595070,Cigarette Lighter,Others,5,12,60,PayPal,Seller B,13.13,8.51,Note 2,68
+1782-781,2024-08-17,20:39:04.595070,Cigarette Lighter,Others,6,12,72,Credit Card,Seller B,4.79,12.92,Note 2,84
+3494-499,2024-08-09,20:39:04.595070,Candies,Candies,15,19.6,294,Credit Card,Seller D,45.29,47.04,Note 3,75
+8983-820,2024-08-24,20:39:04.595070,Cigarette Lighter,Others,11,12,132,Cash,Seller A,13.22,21.86,Note 1,63
+3731-504,2024-07-09,20:39:04.595070,Juice,Drinks,12,8.57,102.84,Bank Transfer,Seller B,28.02,16.45,Note 1,91
+7143-477,2024-08-28,20:39:04.595070,Lucky Strike,Cigarettes,19,11,209,Cash,Seller A,18.79,10.76,Note 3,64
+4593-164,2024-08-04,20:39:04.610693,Juice,Drinks,3,18.79,56.37,Credit Card,Seller D,8.67,9.02,Note 2,1
+7706-341,2024-08-01,20:39:04.610693,Camel,Cigarettes,19,17,323,Bank Transfer,Seller A,4.62,3.4,Note 3,65
+6104-629,2024-08-06,20:39:04.610693,Magazine,Others,18,8.45,152.1,Cash,Seller B,0.02,24.34,Note 3,38
+6994-443,2024-08-10,20:39:04.610693,Camel,Cigarettes,6,17,102,Cash,Seller D,0.26,9.78,Note 1,3
+9912-684,2024-08-07,20:39:04.610693,Cookies,Candies,9,17.13,154.17,Credit Card,Seller A,33.51,24.67,Note 3,92
+4613-165,2024-08-07,20:39:04.610693,Juice,Drinks,8,8.02,64.16,Cash,Seller A,3.95,10.27,Note 1,47
+8354-962,2024-07-03,20:39:04.610693,Camel,Cigarettes,3,17,51,Bank Transfer,Seller D,1.96,8,Note 2,64
+9534-754,2024-07-20,20:39:04.610693,Chocolate,Candies,8,9.57,76.56,Bank Transfer,Seller B,0.63,12.25,Note 4,21
+6321-452,2024-08-03,20:39:04.610693,Magazine,Others,5,16.67,83.35,Cash,Seller A,14.15,13.34,Note 1,88
+5181-498,2024-07-26,20:39:04.626313,Soda,Drinks,9,11.46,103.14,Bank Transfer,Seller A,20.86,16.5,Note 4,89
+2568-639,2024-08-17,20:39:04.626313,Marlboro,Cigarettes,19,13,247,Cash,Seller D,31.29,22.92,Note 4,66
+4799-605,2024-07-23,20:39:04.626313,Beer,Drinks,8,10.81,86.48,Bank Transfer,Seller A,6.46,13.84,Note 2,98
+6903-545,2024-08-16,20:39:04.626313,Cookies,Candies,9,8.85,79.65,Bank Transfer,Seller B,7.89,12.74,Note 2,56
+4760-471,2024-08-26,20:39:04.626313,Toilet Paper,Others,20,14.82,296.4,Credit Card,Seller C,56.52,47.42,Note 1,22
+8016-230,2024-08-08,20:39:04.626313,Marlboro,Cigarettes,14,13,182,Credit Card,Seller B,4.69,31.99,Note 3,57
+2252-997,2024-07-31,20:39:04.626313,Soda,Drinks,1,4.22,4.22,Bank Transfer,Seller D,0.89,0.68,Note 4,74
+1705-572,2024-08-28,20:39:04.626313,Cookies,Candies,1,19.08,19.08,Credit Card,Seller A,0.91,3.05,Note 4,61
+2041-623,2024-07-05,20:39:04.626313,Chocolate,Candies,7,10.24,71.68,PayPal,Seller C,10.01,11.47,Note 2,80
+6430-669,2024-08-15,20:39:04.641937,Magazine,Others,5,7.82,39.1,Credit Card,Seller D,5.76,6.26,Note 4,29
+4645-280,2024-08-29,20:39:04.641937,Lucky Strike,Cigarettes,16,11,176,PayPal,Seller B,4.45,9.11,Note 2,87
+2940-803,2024-07-10,20:39:04.641937,Candies,Candies,6,6.05,36.3,Cash,Seller B,4.91,5.81,Note 1,37
+8516-539,2024-07-30,20:39:04.641937,Water,Drinks,2,19.3,38.6,Bank Transfer,Seller B,7.33,6.18,Note 1,9
+9549-594,2024-07-27,20:39:04.641937,Lucky Strike,Cigarettes,7,11,77,PayPal,Seller A,10.93,7.04,Note 2,3
+6005-989,2024-07-22,20:39:04.641937,Lucky Strike,Cigarettes,19,11,209,Cash,Seller A,8.12,14.74,Note 2,18
+9768-833,2024-08-13,20:39:04.641937,Candies,Candies,15,1.47,22.05,Bank Transfer,Seller B,1.77,3.53,Note 3,56
+1042-220,2024-07-15,20:39:04.641937,Marlboro,Cigarettes,13,13,169,Credit Card,Seller D,4.88,22.73,Note 3,8
+2971-189,2024-07-09,20:39:04.641937,Chocolate,Candies,2,8.08,16.16,PayPal,Seller B,4.72,2.59,Note 2,13
+1294-925,2024-07-20,20:39:04.657567,Marlboro,Cigarettes,20,13,260,Credit Card,Seller A,5.74,36.8,Note 3,80
+2803-690,2024-08-30,20:39:04.657567,Lucky Strike,Cigarettes,3,11,33,Bank Transfer,Seller C,0.24,0.75,Note 2,40
+1553-133,2024-07-12,20:39:04.657567,Magazine,Others,8,8.29,66.32,Cash,Seller C,0.16,10.61,Note 4,19
+7105-933,2024-07-25,20:39:04.657567,Chocolate,Candies,16,15.57,249.12,PayPal,Seller D,18.41,39.86,Note 1,15
+2475-602,2024-07-17,20:39:04.657567,Candies,Candies,13,18.1,235.3,Bank Transfer,Seller A,34.98,37.65,Note 4,98
+9269-289,2024-07-23,20:39:04.657567,Chewing gums,Candies,11,10.47,115.17,Credit Card,Seller A,18.16,18.43,Note 4,92
+3736-131,2024-07-21,20:39:04.657567,Lucky Strike,Cigarettes,10,11,110,Credit Card,Seller B,11.84,30.98,Note 1,72
+4765-352,2024-08-29,20:39:04.657567,Candies,Candies,19,6.1,115.9,Cash,Seller B,25.98,18.54,Note 2,88
+1701-818,2024-08-07,20:39:04.657567,Lucky Strike,Cigarettes,19,11,209,Bank Transfer,Seller C,1.81,10.76,Note 4,60
+7557-182,2024-08-27,20:39:04.673192,Chocolate,Candies,4,15.43,61.72,Credit Card,Seller D,15.86,9.88,Note 1,60
+6813-316,2024-08-10,20:39:04.673192,Cookies,Candies,13,11.66,151.58,Cash,Seller A,13.51,24.25,Note 2,86
+4622-712,2024-08-08,20:39:04.673192,Marlboro,Cigarettes,18,13,234,Bank Transfer,Seller B,30.46,35.28,Note 2,98
+4835-448,2024-08-02,20:39:04.673192,Lucky Strike,Cigarettes,14,11,154,Bank Transfer,Seller C,6.46,3.58,Note 2,20
+1192-183,2024-07-23,20:39:04.673192,Magazine,Others,9,7.82,70.38,Bank Transfer,Seller A,11.93,11.26,Note 3,39
+4254-819,2024-08-16,20:39:04.673192,Chocolate,Candies,7,9.48,66.36,Bank Transfer,Seller C,8,10.62,Note 3,86
+8616-290,2024-08-14,20:39:04.673192,Soda,Drinks,8,2.84,22.72,PayPal,Seller B,1,3.64,Note 3,85
+5529-235,2024-07-20,20:39:04.673192,Chocolate,Candies,5,15.57,77.85,Cash,Seller D,11.08,12.46,Note 3,99
+5331-313,2024-07-08,20:39:04.673192,Marlboro,Cigarettes,11,13,143,Cash,Seller B,38.95,33.7,Note 4,16
+6391-454,2024-07-16,20:39:04.688817,Chewing gums,Candies,19,19.57,371.83,Bank Transfer,Seller C,46.4,59.49,Note 1,50
+1796-775,2024-07-26,20:39:04.688817,Chocolate,Candies,2,8.29,16.58,PayPal,Seller A,1.29,2.65,Note 1,34
+6671-972,2024-07-01,20:39:04.688817,Chewing gums,Candies,16,2.98,47.68,Cash,Seller C,1.49,7.63,Note 2,79
+8607-462,2024-07-25,20:39:04.688817,Cookies,Candies,6,14.39,86.34,Credit Card,Seller A,13.77,13.81,Note 4,58
+7266-518,2024-07-08,20:39:04.688817,Magazine,Others,7,19.69,137.83,Credit Card,Seller A,6.56,22.05,Note 3,20
+9715-978,2024-08-20,20:39:04.688817,Magazine,Others,19,3.26,61.94,Credit Card,Seller D,5.74,9.91,Note 2,100
+6629-384,2024-08-16,20:39:04.688817,Beer,Drinks,13,9.84,127.92,Bank Transfer,Seller C,25.19,20.47,Note 1,35
+5960-589,2024-08-02,20:39:04.688817,Cookies,Candies,14,5.49,76.86,Bank Transfer,Seller C,5.44,12.3,Note 3,16
+2373-689,2024-07-17,20:39:04.688817,Toilet Paper,Others,17,4.04,68.68,Credit Card,Seller D,2.22,10.99,Note 2,49
+1830-406,2024-08-12,20:39:04.704446,Camel,Cigarettes,20,17,340,PayPal,Seller D,3.21,9.28,Note 4,14
+2399-359,2024-08-13,20:39:04.704446,Cigarette Lighter,Others,12,12,144,Cash,Seller A,14.96,12.9,Note 2,45
+9557-444,2024-08-26,20:39:04.704446,Magazine,Others,3,1.27,3.81,Cash,Seller D,1.14,0.61,Note 3,5
+5791-990,2024-07-05,20:39:04.704446,Lucky Strike,Cigarettes,11,11,121,Bank Transfer,Seller B,10.31,7.04,Note 4,1
+5103-789,2024-08-18,20:39:04.704446,Water,Drinks,10,11.02,110.2,PayPal,Seller C,1.24,17.63,Note 1,60
+7634-895,2024-07-16,20:39:04.704446,Cigarette Lighter,Others,13,12,156,Bank Transfer,Seller C,20.15,22.03,Note 2,58
+1360-698,2024-07-28,20:39:04.704446,Candies,Candies,1,12.56,12.56,Bank Transfer,Seller D,0.8,2.01,Note 3,79
+6049-756,2024-07-31,20:39:04.704446,Water,Drinks,1,11.11,11.11,Credit Card,Seller D,2.3,1.78,Note 1,67
+7233-890,2024-07-13,20:39:04.704446,Lucky Strike,Cigarettes,7,11,77,Cash,Seller B,5.6,9.95,Note 4,83
+5021-825,2024-07-07,20:39:04.720067,Juice,Drinks,19,8.02,152.38,Credit Card,Seller B,1.32,24.38,Note 1,78
+4098-478,2024-08-26,20:39:04.720067,Marlboro,Cigarettes,7,13,91,Cash,Seller D,5.14,8.95,Note 1,84
+6411-955,2024-07-12,20:39:04.720067,Chocolate,Candies,2,11.24,22.48,Cash,Seller B,3.66,3.6,Note 3,20
+1001-393,2024-08-22,20:39:04.720067,Lucky Strike,Cigarettes,6,11,66,Bank Transfer,Seller A,1.18,12.14,Note 1,60
+2211-665,2024-07-02,20:39:04.720067,Toilet Paper,Others,5,17.72,88.6,Bank Transfer,Seller A,1.41,14.18,Note 4,18
+5759-752,2024-07-21,20:39:04.720067,Juice,Drinks,14,18.78,262.92,Bank Transfer,Seller C,26.3,42.07,Note 2,19
+6003-691,2024-07-09,20:39:04.720067,Magazine,Others,8,17.72,141.76,Credit Card,Seller D,32.3,22.68,Note 3,12
+4963-141,2024-08-21,20:39:04.720067,Candies,Candies,6,5.33,31.98,Cash,Seller A,4.11,5.12,Note 4,88
+7681-113,2024-07-02,20:39:04.735692,Toilet Paper,Others,9,2.73,24.57,PayPal,Seller D,2.22,3.93,Note 1,26
+5091-393,2024-07-27,20:39:04.735692,Chocolate,Candies,5,9.2,46,Bank Transfer,Seller D,10.99,7.36,Note 2,86
+5732-611,2024-07-09,20:39:04.735692,Lucky Strike,Cigarettes,13,11,143,Bank Transfer,Seller A,1.69,2.95,Note 1,76
+2505-185,2024-07-18,20:39:04.735692,Camel,Cigarettes,13,17,221,PayPal,Seller D,0.95,4.28,Note 4,52
+6252-926,2024-07-09,20:39:04.735692,Chocolate,Candies,16,3.32,53.12,Credit Card,Seller A,11.8,8.5,Note 4,12
+2189-265,2024-07-17,20:39:04.735692,Lucky Strike,Cigarettes,12,11,132,Credit Card,Seller D,40.11,24.29,Note 3,91
+7011-270,2024-08-26,20:39:04.735692,Cookies,Candies,20,19.13,382.6,Cash,Seller D,88.99,61.22,Note 3,56
+5578-924,2024-08-30,20:39:04.735692,Water,Drinks,19,9.52,180.88,Bank Transfer,Seller D,15.98,28.94,Note 3,45
+8701-283,2024-07-08,20:39:04.735692,Cookies,Candies,12,4.75,57,Credit Card,Seller B,13.54,9.12,Note 4,74
+5044-658,2024-07-22,20:39:04.751313,Toilet Paper,Others,11,14.63,160.93,Bank Transfer,Seller A,42.34,25.75,Note 3,100
+7722-928,2024-08-27,20:39:04.751313,Candies,Candies,6,10.29,61.74,PayPal,Seller B,12.36,9.88,Note 1,25
+2221-765,2024-07-02,20:39:04.751313,Toilet Paper,Others,13,15.09,196.17,Bank Transfer,Seller C,0.27,31.39,Note 4,16
+6848-888,2024-08-29,20:39:04.751313,Water,Drinks,20,15.03,300.6,PayPal,Seller A,70.93,48.1,Note 4,44
+8616-784,2024-08-12,20:39:04.751313,Chocolate,Candies,12,9.16,109.92,Bank Transfer,Seller A,21.85,17.59,Note 4,94
+5697-302,2024-07-12,20:39:04.751313,Marlboro,Cigarettes,6,13,78,Cash,Seller B,3.02,16.5,Note 4,16
+6570-363,2024-07-26,20:39:04.751313,Marlboro,Cigarettes,13,13,169,Cash,Seller C,1.83,13.79,Note 3,29
+1006-699,2024-08-09,20:39:04.751313,Marlboro,Cigarettes,1,13,13,PayPal,Seller A,1.61,1.75,Note 4,60
+7736-925,2024-07-21,20:39:04.751313,Marlboro,Cigarettes,19,13,247,Cash,Seller D,25.97,29.18,Note 1,21
+6442-443,2024-08-16,20:39:04.766929,Beer,Drinks,14,19.41,271.74,Bank Transfer,Seller A,45.01,43.48,Note 2,28
+4132-937,2024-08-04,20:39:04.766929,Beer,Drinks,12,13.46,161.52,PayPal,Seller A,20.93,25.84,Note 2,13
+1274-493,2024-07-03,20:39:04.766929,Magazine,Others,6,9.86,59.16,Credit Card,Seller A,8.77,9.47,Note 2,15
+9441-253,2024-07-04,20:39:04.766929,Toilet Paper,Others,16,7.35,117.6,Credit Card,Seller A,25.47,18.82,Note 3,73
+3435-205,2024-07-14,20:39:04.766929,Camel,Cigarettes,19,17,323,Bank Transfer,Seller A,19.5,47.85,Note 4,58
+3524-110,2024-08-18,20:39:04.766929,Cigarette Lighter,Others,20,12,240,PayPal,Seller A,1,3.9,Note 1,44
+7266-873,2024-08-08,20:39:04.766929,Candies,Candies,1,14.57,14.57,Cash,Seller A,2.63,2.33,Note 3,51
+7889-591,2024-07-09,20:39:04.766929,Beer,Drinks,4,13.63,54.52,Cash,Seller A,6.97,8.72,Note 3,91
+9033-111,2024-07-31,20:39:04.766929,Lucky Strike,Cigarettes,19,11,209,Credit Card,Seller D,15.15,14.9,Note 1,26
+5278-508,2024-07-05,20:39:04.782563,Cookies,Candies,11,6.19,68.09,Credit Card,Seller D,9.87,10.89,Note 3,1
+1685-257,2024-08-13,20:39:04.782563,Water,Drinks,7,11.02,77.14,Cash,Seller D,19.54,12.34,Note 3,45
+6757-233,2024-08-03,20:39:04.782563,Cookies,Candies,20,10.89,217.8,Cash,Seller D,28.97,34.85,Note 3,7
+9970-578,2024-07-23,20:39:04.782563,Beer,Drinks,12,6.14,73.68,PayPal,Seller A,0.73,11.79,Note 3,91
+8010-683,2024-07-05,20:39:04.782563,Chocolate,Candies,2,2.82,5.64,Cash,Seller A,1.45,0.9,Note 4,8
+4930-896,2024-07-11,20:39:04.782563,Toilet Paper,Others,12,8.2,98.4,Bank Transfer,Seller B,16.67,15.74,Note 3,92
+9245-583,2024-07-02,20:39:04.798194,Lucky Strike,Cigarettes,19,11,209,Bank Transfer,Seller B,64.39,54.57,Note 2,64
+9555-917,2024-08-26,20:39:04.798194,Water,Drinks,11,11.98,131.78,Cash,Seller A,29.06,21.08,Note 4,88
+1859-846,2024-08-23,20:39:04.798194,Toilet Paper,Others,5,2.06,10.3,Credit Card,Seller A,1.68,1.65,Note 2,31
+2552-272,2024-07-04,20:39:04.798194,Cookies,Candies,4,10.56,42.24,PayPal,Seller B,3.66,6.76,Note 3,87
+9840-442,2024-07-19,20:39:04.798194,Chocolate,Candies,7,10.19,71.33,PayPal,Seller D,1.15,11.41,Note 4,4
+1189-888,2024-08-30,20:39:04.798194,Marlboro,Cigarettes,10,13,130,Credit Card,Seller D,19.29,22.53,Note 2,45
+2977-832,2024-08-13,20:39:04.798194,Cigarette Lighter,Others,18,12,216,Cash,Seller B,37,38.97,Note 2,20
+1912-361,2024-07-30,20:39:04.798194,Camel,Cigarettes,2,17,34,Bank Transfer,Seller B,2.91,3.1,Note 2,7
+6514-354,2024-07-09,20:39:04.798194,Cigarette Lighter,Others,6,12,72,Cash,Seller A,2.56,2.03,Note 2,92
+8378-342,2024-08-16,20:39:04.813818,Juice,Drinks,8,2.17,17.36,PayPal,Seller D,2.63,2.78,Note 2,92
+6950-689,2024-08-27,20:39:04.813818,Cookies,Candies,2,10.89,21.78,Credit Card,Seller C,2.44,3.48,Note 2,55
+1236-884,2024-08-26,20:39:04.813818,Water,Drinks,4,12.66,50.64,PayPal,Seller B,13.44,8.1,Note 2,12
+8768-803,2024-08-30,20:39:04.813818,Beer,Drinks,14,15.57,217.98,Credit Card,Seller C,25.07,34.88,Note 1,85
+4898-185,2024-08-15,20:39:04.813818,Soda,Drinks,20,2.9,58,PayPal,Seller C,9.15,9.28,Note 3,21
+5573-996,2024-07-15,20:39:04.813818,Beer,Drinks,20,14.72,294.4,Cash,Seller D,80.62,47.1,Note 4,45
+2277-135,2024-08-23,20:39:04.813818,Soda,Drinks,14,16.72,234.08,Credit Card,Seller C,34.3,37.45,Note 4,27
+6760-705,2024-08-14,20:39:04.813818,Magazine,Others,16,1.27,20.32,PayPal,Seller A,1.07,3.25,Note 2,74
+2793-114,2024-08-30,20:39:04.813818,Magazine,Others,17,14.48,246.16,Cash,Seller B,61.69,39.39,Note 4,63
+1657-496,2024-08-21,20:39:04.829440,Magazine,Others,5,18.13,90.65,PayPal,Seller D,26.76,14.5,Note 1,18
+9649-659,2024-08-25,20:39:04.829440,Cigarette Lighter,Others,11,12,132,Bank Transfer,Seller A,7.35,26.36,Note 3,76
+7681-276,2024-07-02,20:39:04.829440,Lucky Strike,Cigarettes,12,11,132,PayPal,Seller D,43.8,29.7,Note 3,21
+2453-443,2024-08-26,20:39:04.829440,Camel,Cigarettes,16,17,272,Bank Transfer,Seller B,58.16,39.68,Note 1,64
+6621-326,2024-07-24,20:39:04.829440,Camel,Cigarettes,13,17,221,Cash,Seller C,4.64,6.03,Note 4,31
+6917-352,2024-08-18,20:39:04.829440,Beer,Drinks,7,1.57,10.99,Cash,Seller B,2.07,1.76,Note 4,23
+7621-590,2024-07-20,20:39:04.829440,Water,Drinks,2,15.05,30.1,Cash,Seller C,3.1,4.82,Note 2,42
+3799-533,2024-08-28,20:39:04.829440,Cigarette Lighter,Others,9,12,108,Credit Card,Seller D,16.78,11.87,Note 4,47
+8442-103,2024-08-01,20:39:04.845067,Beer,Drinks,19,1.45,27.55,Bank Transfer,Seller D,6.24,4.41,Note 1,27
+6657-550,2024-07-14,20:39:04.845067,Cookies,Candies,1,11.66,11.66,Credit Card,Seller C,1.15,1.87,Note 2,86
+9225-807,2024-07-30,20:39:04.845067,Magazine,Others,2,7.4,14.8,Cash,Seller A,3.68,2.37,Note 2,27
+5477-660,2024-07-20,20:39:04.845067,Soda,Drinks,20,13.83,276.6,Credit Card,Seller A,45.65,44.26,Note 3,20
+4025-734,2024-08-23,20:39:04.845067,Lucky Strike,Cigarettes,17,11,187,Bank Transfer,Seller B,9.02,54.18,Note 3,21
+5942-497,2024-07-25,20:39:04.845067,Chocolate,Candies,10,10.19,101.9,PayPal,Seller C,20.01,16.3,Note 3,15
+9556-176,2024-07-21,20:39:04.845067,Magazine,Others,17,15.4,261.8,PayPal,Seller A,70.23,41.89,Note 3,59
+1317-419,2024-08-27,20:39:04.845067,Magazine,Others,15,8.67,130.05,PayPal,Seller C,14.31,20.81,Note 3,65
+8026-576,2024-07-04,20:39:04.845067,Camel,Cigarettes,4,17,68,Bank Transfer,Seller D,0.74,1.28,Note 4,42
+5145-798,2024-07-27,20:39:04.845067,Candies,Candies,16,15.62,249.92,Bank Transfer,Seller C,68.09,39.99,Note 2,7
+1934-484,2024-07-28,20:39:04.860693,Marlboro,Cigarettes,12,13,156,PayPal,Seller B,49.4,28.26,Note 2,37
+6496-799,2024-07-15,20:39:04.860693,Water,Drinks,4,8.52,34.08,Credit Card,Seller A,5.7,5.45,Note 1,60
+2673-359,2024-08-07,20:39:04.860693,Lucky Strike,Cigarettes,7,11,77,PayPal,Seller D,4.57,4.05,Note 2,23
+3320-566,2024-07-15,20:39:04.860693,Cookies,Candies,3,5.79,17.37,PayPal,Seller D,2.74,2.78,Note 4,28
+8354-989,2024-07-14,20:39:04.860693,Cookies,Candies,5,19.88,99.4,PayPal,Seller C,14.41,15.9,Note 4,26
+1358-574,2024-08-30,20:39:04.860693,Lucky Strike,Cigarettes,18,11,198,Credit Card,Seller A,13.98,11.95,Note 4,40
+2898-187,2024-07-23,20:39:04.860693,Candies,Candies,6,14.75,88.5,PayPal,Seller B,6.66,14.16,Note 3,12
+1067-861,2024-08-30,20:39:04.860693,Marlboro,Cigarettes,16,13,208,PayPal,Seller C,0.72,13.93,Note 4,90
+6933-799,2024-07-19,20:39:04.860693,Cookies,Candies,13,1.72,22.36,Cash,Seller C,4.97,3.58,Note 3,36
+6989-370,2024-08-30,20:39:04.876316,Lucky Strike,Cigarettes,8,11,88,Bank Transfer,Seller B,13.12,12.53,Note 4,70
+2889-209,2024-07-29,20:39:04.876316,Juice,Drinks,5,17.1,85.5,Bank Transfer,Seller A,10.61,13.68,Note 2,46
+4785-158,2024-07-27,20:39:04.876316,Toilet Paper,Others,15,6.17,92.55,Cash,Seller D,25.55,14.81,Note 4,38
+4693-868,2024-08-18,20:39:04.876316,Cookies,Candies,15,10.81,162.15,Cash,Seller D,18.2,25.94,Note 3,19
+2425-885,2024-07-26,20:39:04.876316,Lucky Strike,Cigarettes,17,11,187,Credit Card,Seller B,42.65,41.89,Note 3,44
+5332-615,2024-07-07,20:39:04.876316,Marlboro,Cigarettes,20,13,260,PayPal,Seller D,6.56,36.67,Note 3,57
+4689-171,2024-08-28,20:39:04.876316,Marlboro,Cigarettes,20,13,260,Credit Card,Seller C,34.47,24.13,Note 4,82
+3280-838,2024-07-16,20:39:04.876316,Chewing gums,Candies,2,11.78,23.56,Cash,Seller A,6.86,3.77,Note 4,54
+9307-556,2024-07-16,20:39:04.876316,Chewing gums,Candies,17,12.29,208.93,Bank Transfer,Seller C,28.44,33.43,Note 3,66
+6756-109,2024-08-09,20:39:04.891941,Marlboro,Cigarettes,1,13,13,PayPal,Seller C,0.61,1.05,Note 4,69
+7993-986,2024-08-19,20:39:04.891941,Cookies,Candies,17,10.56,179.52,Cash,Seller B,47.59,28.72,Note 3,99
+3950-906,2024-07-30,20:39:04.891941,Chocolate,Candies,1,16.52,16.52,Credit Card,Seller A,2.6,2.64,Note 3,9
+1515-328,2024-07-23,20:39:04.891941,Soda,Drinks,11,13.31,146.41,Credit Card,Seller D,32.66,23.43,Note 3,21
+3305-965,2024-07-14,20:39:04.891941,Marlboro,Cigarettes,7,13,91,Credit Card,Seller B,13.93,13.46,Note 2,6
+3907-275,2024-07-28,20:39:04.891941,Juice,Drinks,5,14.57,72.85,Bank Transfer,Seller A,6.45,11.66,Note 3,32
+5189-699,2024-07-08,20:39:04.891941,Toilet Paper,Others,8,4.04,32.32,Bank Transfer,Seller A,4.39,5.17,Note 1,44
+1122-643,2024-07-16,20:39:04.891941,Chocolate,Candies,3,16.22,48.66,Bank Transfer,Seller B,3.4,7.79,Note 3,77
+1118-715,2024-08-20,20:39:04.891941,Camel,Cigarettes,17,17,289,Bank Transfer,Seller D,8.99,35.99,Note 2,31
+4914-585,2024-08-16,20:39:04.891941,Water,Drinks,3,9.69,29.07,PayPal,Seller D,0.71,4.65,Note 2,6
+3504-251,2024-08-21,20:39:04.907563,Chocolate,Candies,18,13.29,239.22,PayPal,Seller A,20.05,38.28,Note 4,76
+5597-733,2024-08-22,20:39:04.907563,Camel,Cigarettes,2,17,34,Credit Card,Seller A,7.17,4.84,Note 1,58
+1749-233,2024-07-26,20:39:04.907563,Magazine,Others,10,15.76,157.6,Cash,Seller A,12.69,25.22,Note 2,48
+1283-412,2024-07-15,20:39:04.907563,Magazine,Others,19,15.19,288.61,PayPal,Seller A,63.27,46.18,Note 2,5
+1307-978,2024-07-02,20:39:04.907563,Juice,Drinks,20,19.35,387,Credit Card,Seller D,53.66,61.92,Note 2,68
+3563-970,2024-07-14,20:39:04.907563,Magazine,Others,13,14.51,188.63,Cash,Seller B,25.7,30.18,Note 3,82
+7221-958,2024-07-18,20:39:04.907563,Chocolate,Candies,2,6.53,13.06,Credit Card,Seller D,0.88,2.09,Note 3,2
+5744-388,2024-08-01,20:39:04.907563,Camel,Cigarettes,16,17,272,Bank Transfer,Seller B,21.4,35.28,Note 4,12
+9812-929,2024-07-20,20:39:04.923187,Camel,Cigarettes,8,17,136,PayPal,Seller A,1.01,6.68,Note 1,0
+1121-351,2024-07-24,20:39:04.923187,Beer,Drinks,3,10.74,32.22,PayPal,Seller B,6.28,5.16,Note 2,27
+8570-447,2024-08-02,20:39:04.923187,Cigarette Lighter,Others,4,12,48,Cash,Seller D,5.05,3.19,Note 1,44
+9509-535,2024-07-31,20:39:04.923187,Water,Drinks,4,11.11,44.44,Cash,Seller C,4.17,7.11,Note 2,49
+5839-761,2024-07-09,20:39:04.923187,Water,Drinks,13,12.67,164.71,Cash,Seller C,27.16,26.35,Note 2,68
+2783-752,2024-08-25,20:39:04.923187,Magazine,Others,15,16.67,250.05,Bank Transfer,Seller B,10.91,40.01,Note 2,38
+5683-660,2024-08-04,20:39:04.923187,Chewing gums,Candies,3,12.29,36.87,Bank Transfer,Seller D,0.78,5.9,Note 4,58
+2669-673,2024-07-11,20:39:04.923187,Candies,Candies,11,16.59,182.49,Bank Transfer,Seller C,24.9,29.2,Note 1,80
+9252-892,2024-07-30,20:39:04.923187,Cigarette Lighter,Others,6,12,72,PayPal,Seller C,1.55,7.54,Note 1,81
+8421-678,2024-08-12,20:39:04.938818,Toilet Paper,Others,16,6.88,110.08,Cash,Seller A,16.98,17.61,Note 2,51
+5012-108,2024-08-21,20:39:04.938818,Cigarette Lighter,Others,2,12,24,Bank Transfer,Seller B,2.66,3.4,Note 4,86
+7780-614,2024-08-26,20:39:04.938818,Lucky Strike,Cigarettes,16,11,176,Bank Transfer,Seller A,29.59,37.02,Note 3,27
+9048-740,2024-07-17,20:39:04.938818,Camel,Cigarettes,6,17,102,Bank Transfer,Seller B,3.55,7.51,Note 2,32
+9257-582,2024-08-01,20:39:04.938818,Toilet Paper,Others,16,1.22,19.52,PayPal,Seller C,5.18,3.12,Note 1,91
+1883-428,2024-08-11,20:39:04.938818,Juice,Drinks,1,8.57,8.57,Cash,Seller C,0.8,1.37,Note 4,96
+1761-700,2024-07-14,20:39:04.938818,Beer,Drinks,20,4.64,92.8,Cash,Seller B,23.67,14.85,Note 4,73
+7029-656,2024-07-04,20:39:04.938818,Juice,Drinks,10,11.89,118.9,PayPal,Seller B,10.91,19.02,Note 3,8
+5955-721,2024-08-25,20:39:04.938818,Toilet Paper,Others,15,19.28,289.2,Credit Card,Seller D,78.41,46.27,Note 4,59
+2100-579,2024-07-18,20:39:04.938818,Toilet Paper,Others,12,10.78,129.36,Credit Card,Seller D,29.03,20.7,Note 2,97
+1756-656,2024-07-29,20:39:04.954443,Cigarette Lighter,Others,3,12,36,Credit Card,Seller A,0.81,0.68,Note 2,34
+2842-247,2024-07-24,20:39:04.954443,Candies,Candies,9,7.31,65.79,Credit Card,Seller C,2.09,10.53,Note 4,95
+2060-215,2024-08-20,20:39:04.954443,Candies,Candies,15,1.07,16.05,Bank Transfer,Seller A,3.02,2.57,Note 2,5
+3679-644,2024-08-30,20:39:04.954443,Lucky Strike,Cigarettes,15,11,165,Cash,Seller D,26.02,45.89,Note 2,39
+5567-108,2024-08-20,20:39:04.954443,Chocolate,Candies,15,7.08,106.2,Credit Card,Seller C,13.25,16.99,Note 2,91
+6423-752,2024-08-02,20:39:04.954443,Cookies,Candies,13,6.17,80.21,Bank Transfer,Seller C,11.2,12.83,Note 1,76
+6183-863,2024-07-12,20:39:04.954443,Toilet Paper,Others,3,7.68,23.04,Credit Card,Seller C,4.98,3.69,Note 4,69
+1811-451,2024-08-08,20:39:04.954443,Marlboro,Cigarettes,17,13,221,Bank Transfer,Seller A,13.63,33.32,Note 3,9
+5932-959,2024-08-28,20:39:04.970068,Toilet Paper,Others,8,19.6,156.8,Credit Card,Seller C,36.54,25.09,Note 3,96
+1116-561,2024-08-18,20:39:04.970068,Lucky Strike,Cigarettes,3,11,33,PayPal,Seller C,4.4,2.35,Note 3,52
+4334-671,2024-07-23,20:39:04.970068,Beer,Drinks,16,4.52,72.32,Cash,Seller B,0.89,11.57,Note 2,87
+3904-398,2024-07-13,20:39:04.970068,Toilet Paper,Others,4,9.78,39.12,Cash,Seller C,7.29,6.26,Note 3,3
+2277-465,2024-07-16,20:39:04.970068,Marlboro,Cigarettes,7,13,91,Credit Card,Seller B,25.35,13.71,Note 3,14
+9335-610,2024-07-23,20:39:04.970068,Toilet Paper,Others,1,7.35,7.35,Cash,Seller D,1.21,1.18,Note 3,52
+1330-824,2024-07-30,20:39:04.970068,Candies,Candies,20,3.19,63.8,PayPal,Seller D,2.4,10.21,Note 3,92
+3172-831,2024-07-10,20:39:04.970068,Toilet Paper,Others,10,12.16,121.6,Bank Transfer,Seller C,0.88,19.46,Note 4,48
+1785-668,2024-08-18,20:39:04.970068,Soda,Drinks,1,13.31,13.31,Credit Card,Seller A,0.63,2.13,Note 4,57
+8672-851,2024-07-21,20:39:04.970068,Candies,Candies,19,3.71,70.49,Bank Transfer,Seller D,9.97,11.28,Note 4,64
+7053-486,2024-07-05,20:39:04.985692,Marlboro,Cigarettes,4,13,52,PayPal,Seller C,3.83,12.54,Note 4,29
+8029-486,2024-08-13,20:39:04.985692,Chocolate,Candies,19,14.27,271.13,PayPal,Seller B,28.31,43.38,Note 2,31
+9528-661,2024-07-13,20:39:04.985692,Candies,Candies,3,18.54,55.62,Bank Transfer,Seller D,2.42,8.9,Note 4,92
+7115-130,2024-07-09,20:39:04.985692,Chewing gums,Candies,7,19.29,135.03,Cash,Seller D,34.37,21.6,Note 3,43
+2186-820,2024-07-09,20:39:04.985692,Magazine,Others,13,5.42,70.46,Bank Transfer,Seller D,8.84,11.27,Note 3,75
+2383-336,2024-07-27,20:39:04.985692,Chocolate,Candies,10,3.69,36.9,Bank Transfer,Seller C,9.67,5.9,Note 1,50
+3260-946,2024-07-10,20:39:04.985692,Cigarette Lighter,Others,20,12,240,PayPal,Seller B,44.5,32.8,Note 2,9
+8170-768,2024-07-12,20:39:04.985692,Water,Drinks,8,5.34,42.72,Cash,Seller B,5.6,6.84,Note 1,18
+3292-442,2024-07-17,20:39:04.985692,Lucky Strike,Cigarettes,2,11,22,Cash,Seller B,3.18,2.5,Note 1,21
+7152-963,2024-08-28,20:39:05.001319,Juice,Drinks,15,14.39,215.85,Bank Transfer,Seller D,4.21,34.54,Note 3,57
+7582-634,2024-08-13,20:39:05.001319,Toilet Paper,Others,19,1.22,23.18,Credit Card,Seller B,4.19,3.71,Note 2,45
+3259-344,2024-07-21,20:39:05.001319,Marlboro,Cigarettes,3,13,39,Cash,Seller B,0.61,5.2,Note 1,36
+4359-643,2024-08-27,20:39:05.001319,Chewing gums,Candies,13,3.94,51.22,Credit Card,Seller D,15.04,8.2,Note 1,6
+3438-982,2024-07-28,20:39:05.001319,Soda,Drinks,16,2.07,33.12,PayPal,Seller D,2,5.3,Note 4,45
+2247-354,2024-08-25,20:39:05.001319,Chewing gums,Candies,14,3.66,51.24,Credit Card,Seller B,4.83,8.2,Note 4,42
+2806-207,2024-08-21,20:39:05.001319,Chewing gums,Candies,3,1.24,3.72,Credit Card,Seller D,0.91,0.6,Note 3,55
+6243-359,2024-08-25,20:39:05.001319,Camel,Cigarettes,9,17,153,Cash,Seller D,3.48,6.16,Note 2,18
+2034-757,2024-08-12,20:39:05.001319,Toilet Paper,Others,20,1.62,32.4,Credit Card,Seller C,7.78,5.18,Note 2,100
+3126-885,2024-08-04,20:39:05.016942,Magazine,Others,19,13.25,251.75,Bank Transfer,Seller A,67.63,40.28,Note 4,79
+3317-936,2024-07-17,20:39:05.016942,Beer,Drinks,11,16.89,185.79,PayPal,Seller B,14.46,29.73,Note 3,51
+6376-363,2024-08-20,20:39:05.016942,Toilet Paper,Others,15,15.12,226.8,Bank Transfer,Seller B,9.45,36.29,Note 2,37
+7894-244,2024-08-17,20:39:05.016942,Juice,Drinks,20,8.48,169.6,PayPal,Seller D,28.61,27.14,Note 4,55
+1556-675,2024-07-06,20:39:05.016942,Chocolate,Candies,19,19.37,368.03,PayPal,Seller D,68.32,58.88,Note 3,38
+8041-208,2024-07-06,20:39:05.016942,Lucky Strike,Cigarettes,15,11,165,Bank Transfer,Seller A,11.46,11.76,Note 3,12
+4502-270,2024-07-24,20:39:05.016942,Lucky Strike,Cigarettes,12,11,132,Cash,Seller C,21.74,19.35,Note 1,46
+6503-502,2024-07-29,20:39:05.032569,Water,Drinks,13,2.39,31.07,Credit Card,Seller B,8.34,4.97,Note 3,14
+7661-139,2024-07-30,20:39:05.032569,Candies,Candies,16,16.7,267.2,Cash,Seller C,20.48,42.75,Note 3,74
+1868-617,2024-07-08,20:39:05.032569,Lucky Strike,Cigarettes,10,11,110,Bank Transfer,Seller B,10.46,24.51,Note 2,26
+6510-588,2024-07-02,20:39:05.032569,Water,Drinks,9,15.92,143.28,Cash,Seller B,17.49,22.92,Note 4,74
+8012-672,2024-07-06,20:39:05.032569,Water,Drinks,16,18.93,302.88,Cash,Seller D,38.71,48.46,Note 1,70
+3029-296,2024-08-02,20:39:05.032569,Lucky Strike,Cigarettes,10,11,110,Bank Transfer,Seller B,31.3,18.11,Note 1,86
+4444-816,2024-07-28,20:39:05.032569,Toilet Paper,Others,17,1.01,17.17,PayPal,Seller C,1.4,2.75,Note 1,15
+7597-398,2024-07-09,20:39:05.032569,Juice,Drinks,8,16.33,130.64,Credit Card,Seller D,1.92,20.9,Note 3,31
+8950-812,2024-07-27,20:39:05.032569,Juice,Drinks,20,18.14,362.8,Cash,Seller D,97.91,58.05,Note 3,11
+3115-362,2024-08-17,20:39:05.048192,Lucky Strike,Cigarettes,12,11,132,Cash,Seller D,19.06,16.32,Note 1,52
+8689-462,2024-08-15,20:39:05.048192,Beer,Drinks,15,5.05,75.75,Credit Card,Seller D,12.17,12.12,Note 3,57
+2195-193,2024-08-27,20:39:05.048192,Juice,Drinks,11,4.81,52.91,Credit Card,Seller B,11.39,8.47,Note 3,83
+5775-206,2024-08-30,20:39:05.048192,Camel,Cigarettes,13,17,221,Bank Transfer,Seller A,33.47,20.43,Note 1,4
+9254-515,2024-07-10,20:39:05.048192,Water,Drinks,2,3.87,7.74,PayPal,Seller A,0.19,1.24,Note 4,56
+4838-680,2024-08-28,20:39:05.048192,Lucky Strike,Cigarettes,7,11,77,Credit Card,Seller D,0.38,3.58,Note 4,87
+9042-158,2024-08-22,20:39:05.048192,Cookies,Candies,16,12.26,196.16,Bank Transfer,Seller B,6.87,31.39,Note 2,70
+1571-735,2024-07-30,20:39:05.048192,Chewing gums,Candies,16,12.29,196.64,PayPal,Seller C,29.82,31.46,Note 3,35
+6923-871,2024-08-21,20:39:05.048192,Camel,Cigarettes,17,17,289,Cash,Seller A,83.71,45.42,Note 1,31
+9804-419,2024-08-02,20:39:05.063818,Candies,Candies,10,8.59,85.9,PayPal,Seller A,21.04,13.74,Note 2,30
+9750-113,2024-07-13,20:39:05.063818,Chewing gums,Candies,1,10.47,10.47,Cash,Seller D,2.29,1.68,Note 2,49
+7529-302,2024-08-19,20:39:05.063818,Cigarette Lighter,Others,11,12,132,Bank Transfer,Seller C,6.69,3.71,Note 4,55
+1017-322,2024-08-03,20:39:05.063818,Water,Drinks,10,12.48,124.8,Credit Card,Seller C,11.13,19.97,Note 3,28
+8531-621,2024-07-07,20:39:05.063818,Soda,Drinks,6,2.44,14.64,PayPal,Seller B,2.25,2.34,Note 1,36
+2499-291,2024-07-26,20:39:05.063818,Toilet Paper,Others,15,4.38,65.7,PayPal,Seller A,2.7,10.51,Note 4,79
+6135-428,2024-07-11,20:39:05.063818,Chocolate,Candies,17,9.2,156.4,Cash,Seller B,1.37,25.02,Note 4,29
+6174-282,2024-08-12,20:39:05.063818,Candies,Candies,16,7.34,117.44,PayPal,Seller B,25.82,18.79,Note 3,7
+9134-855,2024-08-11,20:39:05.063818,Magazine,Others,12,2.96,35.52,Cash,Seller B,3.08,5.68,Note 3,52
+1981-716,2024-08-18,20:39:05.079440,Magazine,Others,1,4.34,4.34,Credit Card,Seller D,0.67,0.69,Note 3,73
+5894-100,2024-07-29,20:39:05.079440,Chocolate,Candies,7,14.34,100.38,Credit Card,Seller D,29.66,16.06,Note 1,43
+1887-504,2024-08-06,20:39:05.079440,Lucky Strike,Cigarettes,11,11,121,PayPal,Seller D,1.08,8.54,Note 4,19
+1199-711,2024-08-10,20:39:05.079440,Chewing gums,Candies,8,12.01,96.08,Cash,Seller D,12.59,15.37,Note 1,56
+7550-566,2024-08-22,20:39:05.079440,Soda,Drinks,16,13.38,214.08,Cash,Seller C,38.47,34.25,Note 1,23
+8571-156,2024-08-30,20:39:05.079440,Soda,Drinks,12,9.08,108.96,Bank Transfer,Seller B,1.66,17.43,Note 1,47
+7317-260,2024-08-27,20:39:05.079440,Lucky Strike,Cigarettes,3,11,33,PayPal,Seller B,1.32,0.87,Note 2,75
+8552-614,2024-07-16,20:39:05.079440,Chocolate,Candies,19,15.57,295.83,PayPal,Seller C,74.95,47.33,Note 3,56
+3706-658,2024-08-06,20:39:05.095064,Candies,Candies,12,18.1,217.2,Cash,Seller D,38.36,34.75,Note 2,66
+8425-821,2024-07-16,20:39:05.095064,Candies,Candies,8,9.86,78.88,Bank Transfer,Seller D,7.22,12.62,Note 1,51
+1762-896,2024-07-06,20:39:05.095064,Candies,Candies,20,15.58,311.6,Cash,Seller A,42.57,49.86,Note 2,60
+2359-180,2024-08-12,20:39:05.095064,Juice,Drinks,18,4.94,88.92,Cash,Seller D,24.24,14.23,Note 1,22
+2002-808,2024-08-23,20:39:05.095064,Toilet Paper,Others,15,5.07,76.05,Cash,Seller D,16.92,12.17,Note 1,26
+9918-111,2024-08-24,20:39:05.095064,Magazine,Others,19,6.3,119.7,Credit Card,Seller A,19.71,19.15,Note 1,92
+9953-669,2024-08-13,20:39:05.095064,Candies,Candies,14,4.04,56.56,Bank Transfer,Seller B,10.34,9.05,Note 2,68
+4464-788,2024-07-01,20:39:05.095064,Cookies,Candies,14,16.45,230.3,PayPal,Seller B,25.83,36.85,Note 3,78
+6048-996,2024-08-29,20:39:05.095064,Toilet Paper,Others,20,6.4,128,PayPal,Seller D,6.42,20.48,Note 3,70
+9742-111,2024-07-04,20:39:05.110693,Lucky Strike,Cigarettes,10,11,110,Credit Card,Seller B,2.68,15.34,Note 2,89
+1393-397,2024-07-23,20:39:05.110693,Candies,Candies,14,8.59,120.26,Cash,Seller B,30.15,19.24,Note 4,42
+6818-111,2024-08-08,20:39:05.110693,Camel,Cigarettes,19,17,323,Credit Card,Seller D,12.28,23.77,Note 1,51
+8811-178,2024-08-11,20:39:05.110693,Cigarette Lighter,Others,2,12,24,PayPal,Seller D,0.58,5.98,Note 1,0
+2541-194,2024-07-20,20:39:05.110693,Beer,Drinks,9,18.69,168.21,Cash,Seller D,40.71,26.91,Note 3,12
+3868-928,2024-08-12,20:39:05.110693,Toilet Paper,Others,19,15.61,296.59,Cash,Seller A,66.17,47.45,Note 1,1
+5620-997,2024-07-02,20:39:05.110693,Magazine,Others,17,9.86,167.62,PayPal,Seller B,4.71,26.82,Note 3,60
+2785-388,2024-08-23,20:39:05.110693,Chocolate,Candies,18,14.97,269.46,PayPal,Seller A,12.51,43.11,Note 3,36
+2146-722,2024-08-12,20:39:05.110693,Juice,Drinks,12,7.06,84.72,Credit Card,Seller B,19.65,13.56,Note 1,50
+3128-165,2024-07-19,20:39:05.126317,Water,Drinks,1,14.67,14.67,Cash,Seller C,3.31,2.35,Note 2,61
+4711-717,2024-08-04,20:39:05.126317,Camel,Cigarettes,17,17,289,Credit Card,Seller D,37.62,21.08,Note 1,97
+7825-643,2024-08-16,20:39:05.126317,Cookies,Candies,8,18.91,151.28,Bank Transfer,Seller A,17.79,24.2,Note 2,71
+9543-531,2024-07-23,20:39:05.126317,Camel,Cigarettes,7,17,119,Bank Transfer,Seller C,5.59,18.66,Note 3,55
+1911-759,2024-07-16,20:39:05.126317,Cookies,Candies,18,14.39,259.02,PayPal,Seller D,67.19,41.44,Note 4,89
+7650-251,2024-08-07,20:39:05.126317,Beer,Drinks,18,12.54,225.72,PayPal,Seller C,16.11,36.12,Note 3,87
+7235-407,2024-07-21,20:39:05.126317,Candies,Candies,13,14.51,188.63,Bank Transfer,Seller D,52.06,30.18,Note 1,27
+5774-968,2024-08-11,20:39:05.126317,Water,Drinks,1,16.29,16.29,Credit Card,Seller A,0.95,2.61,Note 2,54
+4373-669,2024-07-07,20:39:05.141940,Lucky Strike,Cigarettes,13,11,143,Cash,Seller C,9.9,8.63,Note 1,52
+2291-128,2024-07-15,20:39:05.141940,Chewing gums,Candies,15,14.9,223.5,PayPal,Seller D,44.65,35.76,Note 4,19
+9050-367,2024-07-22,20:39:05.141940,Cigarette Lighter,Others,14,12,168,PayPal,Seller B,4.97,13.62,Note 3,28
+3722-510,2024-08-25,20:39:05.141940,Candies,Candies,3,1.26,3.78,Cash,Seller B,0.91,0.6,Note 1,85
+2620-567,2024-07-04,20:39:05.141940,Juice,Drinks,1,13.79,13.79,Bank Transfer,Seller A,1.81,2.21,Note 2,59
+4891-851,2024-08-18,20:39:05.141940,Cookies,Candies,13,13.72,178.36,Credit Card,Seller B,15.04,28.54,Note 4,62
+1844-796,2024-07-09,20:39:05.141940,Lucky Strike,Cigarettes,14,11,154,Bank Transfer,Seller B,13.35,16.31,Note 1,54
+7145-541,2024-08-30,20:39:05.141940,Juice,Drinks,14,19.35,270.9,PayPal,Seller D,66.08,43.34,Note 4,32
+8552-921,2024-08-20,20:39:05.141940,Marlboro,Cigarettes,2,13,26,PayPal,Seller B,0.8,0.83,Note 3,38
+4651-118,2024-08-20,20:39:05.157568,Beer,Drinks,13,14.72,191.36,PayPal,Seller A,27.14,30.62,Note 2,43
+1383-935,2024-08-01,20:39:05.157568,Marlboro,Cigarettes,1,13,13,Credit Card,Seller B,1.29,2.61,Note 1,43
+8931-118,2024-07-29,20:39:05.157568,Chewing gums,Candies,15,11.78,176.7,Credit Card,Seller A,3.93,28.27,Note 3,67
+6169-706,2024-08-30,20:39:05.157568,Cookies,Candies,15,11.38,170.7,Credit Card,Seller C,13.99,27.31,Note 3,15
+2532-365,2024-08-23,20:39:05.157568,Water,Drinks,20,19.3,386,PayPal,Seller D,66.95,61.76,Note 4,49
+9565-975,2024-07-19,20:39:05.157568,Toilet Paper,Others,2,16.08,32.16,Bank Transfer,Seller D,3.2,5.15,Note 2,79
+3572-795,2024-07-02,20:39:05.157568,Lucky Strike,Cigarettes,6,11,66,Credit Card,Seller A,5.66,6.99,Note 3,93
+7328-825,2024-07-22,20:39:05.157568,Chocolate,Candies,12,17.98,215.76,Bank Transfer,Seller C,2.99,34.52,Note 1,2
+7885-183,2024-08-01,20:39:05.157568,Camel,Cigarettes,18,17,306,Bank Transfer,Seller C,17.69,13.33,Note 2,19
+3449-911,2024-07-03,20:39:05.173194,Water,Drinks,12,14.31,171.72,PayPal,Seller A,5.13,27.48,Note 1,76
+3721-376,2024-07-03,20:39:05.173194,Magazine,Others,1,14.48,14.48,Cash,Seller B,0.17,2.32,Note 2,16
+5611-188,2024-07-29,20:39:05.173194,Chewing gums,Candies,11,5.44,59.84,PayPal,Seller B,2.67,9.57,Note 3,90
+4231-945,2024-07-29,20:39:05.173194,Chocolate,Candies,13,10.81,140.53,Credit Card,Seller B,41.94,22.48,Note 1,28
+8813-537,2024-08-05,20:39:05.173194,Cookies,Candies,12,5.04,60.48,Credit Card,Seller B,9.26,9.68,Note 4,72
+3602-225,2024-07-26,20:39:05.173194,Juice,Drinks,10,16.06,160.6,Credit Card,Seller A,26.19,25.7,Note 4,86
+9353-632,2024-08-15,20:39:05.173194,Juice,Drinks,7,17.1,119.7,PayPal,Seller D,24.91,19.15,Note 4,36
+2259-406,2024-07-19,20:39:05.173194,Soda,Drinks,14,19.31,270.34,PayPal,Seller C,70.55,43.25,Note 4,48
+1855-316,2024-07-18,20:39:05.173194,Camel,Cigarettes,13,17,221,PayPal,Seller B,34.38,38.75,Note 4,26
+2302-602,2024-07-27,20:39:05.188815,Chewing gums,Candies,12,11.26,135.12,Cash,Seller C,3.4,21.62,Note 1,49
+7821-550,2024-07-16,20:39:05.188815,Chewing gums,Candies,17,8.64,146.88,Cash,Seller C,30.51,23.5,Note 2,31
+3493-466,2024-08-15,20:39:05.188815,Chocolate,Candies,8,10.07,80.56,Credit Card,Seller D,24.05,12.89,Note 4,92
+8886-272,2024-08-15,20:39:05.188815,Cookies,Candies,16,10.81,172.96,PayPal,Seller C,12.48,27.67,Note 3,85
+4307-413,2024-07-20,20:39:05.188815,Marlboro,Cigarettes,8,13,104,Bank Transfer,Seller A,11.02,19.14,Note 2,62
+3390-237,2024-08-15,20:39:05.188815,Marlboro,Cigarettes,7,13,91,Credit Card,Seller A,0.03,7.43,Note 3,64
+4838-522,2024-07-17,20:39:05.188815,Camel,Cigarettes,20,17,340,Bank Transfer,Seller C,48.29,30.72,Note 1,65
+6311-861,2024-07-18,20:39:05.188815,Cigarette Lighter,Others,10,12,120,Bank Transfer,Seller B,31.48,16.82,Note 4,65
+4732-799,2024-08-27,20:39:05.188815,Camel,Cigarettes,1,17,17,Cash,Seller D,3.63,2.84,Note 4,45
+7201-759,2024-07-15,20:39:05.204443,Camel,Cigarettes,17,17,289,PayPal,Seller A,46.27,41.13,Note 3,30
+3554-404,2024-08-17,20:39:05.204443,Marlboro,Cigarettes,14,13,182,PayPal,Seller C,10.19,12.19,Note 1,29
+1750-329,2024-07-27,20:39:05.204443,Water,Drinks,1,3.08,3.08,PayPal,Seller C,0.2,0.49,Note 3,63
+4043-134,2024-07-09,20:39:05.204443,Camel,Cigarettes,14,17,238,Bank Transfer,Seller B,0.27,5.26,Note 3,19
+5924-580,2024-07-10,20:39:05.204443,Water,Drinks,2,11.12,22.24,PayPal,Seller A,1.21,3.56,Note 2,95
+2647-808,2024-08-16,20:39:05.204443,Cookies,Candies,11,5.51,60.61,Bank Transfer,Seller A,3.74,9.7,Note 4,52
+5114-490,2024-08-05,20:39:05.204443,Chocolate,Candies,7,17.31,121.17,Cash,Seller B,17.2,19.39,Note 4,20
+9271-979,2024-07-26,20:39:05.204443,Camel,Cigarettes,7,17,119,Cash,Seller D,8.52,10.75,Note 1,52
+9646-998,2024-07-29,20:39:05.204443,Chocolate,Candies,12,10.07,120.84,PayPal,Seller B,27.9,19.33,Note 1,45
+9025-133,2024-08-29,20:39:05.220067,Water,Drinks,13,2.53,32.89,Cash,Seller B,5.28,5.26,Note 2,19
+9438-307,2024-07-10,20:39:05.220067,Juice,Drinks,5,4.8,24,Credit Card,Seller D,1.44,3.84,Note 3,71
+6464-916,2024-08-24,20:39:05.220067,Beer,Drinks,7,5.94,41.58,Credit Card,Seller C,9.87,6.65,Note 3,61
+3692-486,2024-07-02,20:39:05.220067,Camel,Cigarettes,20,17,340,Bank Transfer,Seller A,29.93,56.7,Note 3,24
+7160-557,2024-07-04,20:39:05.220067,Cigarette Lighter,Others,2,12,24,Cash,Seller A,5.65,3.09,Note 1,66
+6262-772,2024-07-12,20:39:05.220067,Camel,Cigarettes,14,17,238,Credit Card,Seller A,36.22,30.87,Note 4,86
+6831-974,2024-07-23,20:39:05.235694,Camel,Cigarettes,11,17,187,Credit Card,Seller C,30.96,19.5,Note 4,54
+7216-205,2024-07-24,20:39:05.235694,Magazine,Others,19,15.4,292.6,PayPal,Seller A,33.21,46.82,Note 3,61
+9695-924,2024-08-11,20:39:05.235694,Magazine,Others,20,9.86,197.2,Bank Transfer,Seller C,46.92,31.55,Note 3,62
+2740-321,2024-07-14,20:39:05.235694,Toilet Paper,Others,19,18.69,355.11,Bank Transfer,Seller C,55.74,56.82,Note 1,20
+5544-657,2024-07-04,20:39:05.235694,Magazine,Others,11,18.11,199.21,Bank Transfer,Seller C,59.57,31.87,Note 4,23
+6481-403,2024-07-18,20:39:05.235694,Magazine,Others,6,12.32,73.92,PayPal,Seller B,13.81,11.83,Note 3,21
+5243-447,2024-08-16,20:39:05.235694,Magazine,Others,20,3.75,75,Cash,Seller D,21.86,12,Note 2,45
+1865-718,2024-08-06,20:39:05.235694,Cigarette Lighter,Others,6,12,72,PayPal,Seller A,11.48,6.43,Note 4,21
+7762-759,2024-08-01,20:39:05.235694,Lucky Strike,Cigarettes,6,11,66,Credit Card,Seller C,4.98,5.33,Note 4,20
+3505-756,2024-08-03,20:39:05.251316,Cigarette Lighter,Others,7,12,84,PayPal,Seller B,5.91,9.83,Note 3,87
+6940-229,2024-08-16,20:39:05.251316,Toilet Paper,Others,13,17.26,224.38,PayPal,Seller B,43.8,35.9,Note 4,97
+6300-715,2024-08-08,20:39:05.251316,Camel,Cigarettes,9,17,153,PayPal,Seller C,9.69,12.96,Note 2,75
+4814-771,2024-08-01,20:39:05.251316,Toilet Paper,Others,1,7.35,7.35,Bank Transfer,Seller A,2.19,1.18,Note 3,55
+8017-586,2024-08-05,20:39:05.251316,Soda,Drinks,7,16.39,114.73,Bank Transfer,Seller C,23.58,18.36,Note 2,21
+8350-503,2024-07-03,20:39:05.251316,Chocolate,Candies,19,14.97,284.43,Cash,Seller A,26.43,45.51,Note 2,87
+3462-495,2024-07-23,20:39:05.251316,Water,Drinks,17,5.42,92.14,Credit Card,Seller A,22.88,14.74,Note 3,62
+1837-768,2024-07-20,20:39:05.251316,Soda,Drinks,19,6.6,125.4,Bank Transfer,Seller B,29.41,20.06,Note 3,20
+5584-717,2024-07-03,20:39:05.251316,Lucky Strike,Cigarettes,2,11,22,Credit Card,Seller B,0.59,0.98,Note 2,86
+5014-951,2024-08-08,20:39:05.266939,Soda,Drinks,1,16.39,16.39,Cash,Seller D,2.37,2.62,Note 2,45
+2839-596,2024-08-24,20:39:05.266939,Beer,Drinks,14,2.82,39.48,Cash,Seller A,11.07,6.32,Note 4,22
+3441-249,2024-07-18,20:39:05.266939,Juice,Drinks,1,18.79,18.79,Credit Card,Seller C,3.47,3.01,Note 4,81
+2428-351,2024-07-24,20:39:05.266939,Magazine,Others,19,9.86,187.34,Credit Card,Seller A,25.85,29.97,Note 1,34
+1725-100,2024-07-28,20:39:05.266939,Marlboro,Cigarettes,15,13,195,PayPal,Seller C,9.18,6.19,Note 3,49
+8698-706,2024-07-15,20:39:05.266939,Lucky Strike,Cigarettes,1,11,11,Bank Transfer,Seller C,0.78,2.24,Note 4,73
+8419-527,2024-07-17,20:39:05.266939,Magazine,Others,2,14.29,28.58,Credit Card,Seller A,7.28,4.57,Note 4,57
+4296-217,2024-07-23,20:39:05.266939,Cigarette Lighter,Others,12,12,144,PayPal,Seller B,6.69,5.13,Note 1,6
+9542-223,2024-08-15,20:39:05.266939,Cigarette Lighter,Others,15,12,180,Bank Transfer,Seller B,11.74,29.78,Note 1,18
+7430-943,2024-08-18,20:39:05.282564,Candies,Candies,5,7.34,36.7,PayPal,Seller B,3.92,5.87,Note 4,32
+4249-170,2024-08-21,20:39:05.282564,Chewing gums,Candies,4,17.56,70.24,Credit Card,Seller C,1.52,11.24,Note 1,9
+4642-572,2024-08-09,20:39:05.282564,Candies,Candies,20,3.84,76.8,Credit Card,Seller D,0.21,12.29,Note 1,74
+4078-186,2024-07-25,20:39:05.282564,Juice,Drinks,10,4.94,49.4,PayPal,Seller D,6,7.9,Note 1,13
+3540-410,2024-07-29,20:39:05.282564,Chocolate,Candies,8,7.08,56.64,Credit Card,Seller C,3.9,9.06,Note 3,92
+8335-609,2024-07-14,20:39:05.282564,Water,Drinks,10,2.53,25.3,PayPal,Seller C,4.91,4.05,Note 1,100
+9758-861,2024-07-26,20:39:05.282564,Water,Drinks,14,11.12,155.68,Cash,Seller A,43.73,24.91,Note 4,40
+3910-489,2024-08-24,20:39:05.282564,Marlboro,Cigarettes,7,13,91,Bank Transfer,Seller B,19.66,18.26,Note 1,6
+9597-464,2024-08-22,20:39:05.282564,Magazine,Others,11,4.34,47.74,Bank Transfer,Seller B,6.95,7.64,Note 1,35
+9105-657,2024-07-16,20:39:05.298188,Chewing gums,Candies,13,10.47,136.11,Credit Card,Seller D,29.29,21.78,Note 4,73
+4257-565,2024-08-12,20:39:05.298188,Beer,Drinks,15,6.29,94.35,PayPal,Seller D,21.64,15.1,Note 2,84
+8824-462,2024-08-20,20:39:05.298188,Chewing gums,Candies,5,13.94,69.7,PayPal,Seller A,18.04,11.15,Note 2,45
+4615-906,2024-08-16,20:39:05.298188,Candies,Candies,10,4.04,40.4,Credit Card,Seller D,2.25,6.46,Note 2,67
+9065-501,2024-08-23,20:39:05.298188,Juice,Drinks,7,16.55,115.85,Cash,Seller D,27.66,18.54,Note 4,41
+3731-870,2024-07-18,20:39:05.298188,Lucky Strike,Cigarettes,18,11,198,Credit Card,Seller B,21.11,14.11,Note 1,49
+2252-735,2024-08-21,20:39:05.298188,Magazine,Others,8,7.2,57.6,Cash,Seller A,11.33,9.22,Note 2,6
+7894-176,2024-07-12,20:39:05.298188,Lucky Strike,Cigarettes,12,11,132,Credit Card,Seller C,9.05,9.29,Note 2,81
+6167-467,2024-08-16,20:39:05.298188,Toilet Paper,Others,17,15.13,257.21,Bank Transfer,Seller C,10.08,41.15,Note 1,8
+8035-490,2024-08-24,20:39:05.313814,Marlboro,Cigarettes,10,13,130,Bank Transfer,Seller A,41.2,27.5,Note 4,61
+1603-831,2024-07-12,20:39:05.313814,Soda,Drinks,15,13.18,197.7,Credit Card,Seller C,12.31,31.63,Note 3,14
+5245-933,2024-07-23,20:39:05.313814,Cookies,Candies,6,11.81,70.86,Bank Transfer,Seller A,12.48,11.34,Note 3,50
+9876-804,2024-07-26,20:39:05.313814,Magazine,Others,17,9.86,167.62,Credit Card,Seller D,33.54,26.82,Note 4,61
+9006-609,2024-08-20,20:39:05.313814,Cigarette Lighter,Others,4,12,48,PayPal,Seller C,2.33,2.24,Note 3,48
+2339-986,2024-07-14,20:39:05.313814,Lucky Strike,Cigarettes,12,11,132,Cash,Seller A,12,8.91,Note 3,90
+8416-304,2024-07-12,20:39:05.313814,Toilet Paper,Others,7,14.63,102.41,Cash,Seller A,11.67,16.39,Note 4,17
+7673-764,2024-08-19,20:39:05.313814,Magazine,Others,5,3.75,18.75,Cash,Seller D,4.48,3,Note 1,84
+2315-916,2024-08-25,20:39:05.313814,Marlboro,Cigarettes,20,13,260,Bank Transfer,Seller C,46.3,47.84,Note 1,39
+1473-700,2024-07-31,20:39:05.329438,Toilet Paper,Others,4,18.08,72.32,PayPal,Seller C,11.8,11.57,Note 1,38
+6837-934,2024-07-20,20:39:05.329438,Cigarette Lighter,Others,10,12,120,Cash,Seller A,13.6,20.74,Note 1,23
+8208-270,2024-07-07,20:39:05.329438,Lucky Strike,Cigarettes,5,11,55,Cash,Seller A,1.17,3.81,Note 2,30
+6731-224,2024-07-03,20:39:05.329438,Candies,Candies,18,3.11,55.98,PayPal,Seller C,10.37,8.96,Note 3,84
+7138-948,2024-08-25,20:39:05.329438,Marlboro,Cigarettes,2,13,26,Bank Transfer,Seller B,0.05,0.4,Note 1,98
+4739-312,2024-07-18,20:39:05.329438,Lucky Strike,Cigarettes,13,11,143,Credit Card,Seller C,4.13,17.16,Note 3,12
+3138-559,2024-07-20,20:39:05.329438,Toilet Paper,Others,3,3.45,10.35,Bank Transfer,Seller A,0.43,1.66,Note 2,67
+2503-530,2024-07-07,20:39:05.329438,Candies,Candies,7,4.79,33.53,Credit Card,Seller D,6.71,5.36,Note 2,90
+3483-752,2024-07-30,20:39:05.345064,Camel,Cigarettes,19,17,323,Cash,Seller D,45.95,41.89,Note 3,41
+2980-853,2024-08-13,20:39:05.345064,Candies,Candies,7,2.37,16.59,PayPal,Seller C,2.82,2.65,Note 1,97
+3324-848,2024-07-19,20:39:05.345064,Chewing gums,Candies,17,11.26,191.42,Credit Card,Seller D,31.63,30.63,Note 1,95
+2671-384,2024-08-03,20:39:05.345064,Chocolate,Candies,9,4.8,43.2,Bank Transfer,Seller C,9.63,6.91,Note 4,53
+1014-647,2024-08-30,20:39:05.345064,Soda,Drinks,12,2.98,35.76,PayPal,Seller A,7.14,5.72,Note 2,63
+9038-671,2024-08-21,20:39:05.345064,Water,Drinks,8,7,56,Bank Transfer,Seller D,7.62,8.96,Note 1,38
+3943-602,2024-07-19,20:39:05.345064,Water,Drinks,1,12.79,12.79,Credit Card,Seller B,3.72,2.05,Note 2,71
+7149-781,2024-07-14,20:39:05.345064,Juice,Drinks,10,19.35,193.5,Bank Transfer,Seller C,39.87,30.96,Note 4,54
+5154-635,2024-08-03,20:39:05.345064,Cookies,Candies,5,5.49,27.45,Cash,Seller B,5.94,4.39,Note 3,8
+2754-862,2024-07-18,20:39:05.360689,Candies,Candies,15,2.36,35.4,Bank Transfer,Seller C,7.15,5.66,Note 2,1
+5188-496,2024-07-06,20:39:05.360689,Juice,Drinks,2,18.34,36.68,Cash,Seller D,2.16,5.87,Note 1,19
+8668-461,2024-08-10,20:39:05.360689,Lucky Strike,Cigarettes,1,11,11,PayPal,Seller A,0.21,0.54,Note 3,75
+9750-349,2024-08-05,20:39:05.360689,Chocolate,Candies,3,15.64,46.92,Bank Transfer,Seller C,8.03,7.51,Note 3,42
+8250-991,2024-07-19,20:39:05.360689,Beer,Drinks,10,10.51,105.1,Bank Transfer,Seller C,28.58,16.82,Note 3,3
+1367-376,2024-08-14,20:39:05.360689,Magazine,Others,14,12.99,181.86,Credit Card,Seller A,6.92,29.1,Note 3,11
+6437-535,2024-07-10,20:39:05.360689,Juice,Drinks,10,16.06,160.6,PayPal,Seller D,46,25.7,Note 4,8
+3275-792,2024-08-27,20:39:05.360689,Water,Drinks,4,5.57,22.28,Cash,Seller C,6.63,3.56,Note 1,51
+9291-991,2024-08-04,20:39:05.360689,Soda,Drinks,18,8.64,155.52,Bank Transfer,Seller C,15.55,24.88,Note 1,22
+1101-959,2024-07-01,20:39:05.360689,Chocolate,Candies,16,2.26,36.16,Bank Transfer,Seller D,2.81,5.79,Note 3,79
+1510-400,2024-07-25,20:39:05.376318,Water,Drinks,11,9.69,106.59,PayPal,Seller D,6.07,17.05,Note 1,5
+6387-672,2024-07-17,20:39:05.376318,Lucky Strike,Cigarettes,7,11,77,Bank Transfer,Seller B,5.36,5.2,Note 4,36
+9780-734,2024-08-27,20:39:05.376318,Chewing gums,Candies,11,1.24,13.64,PayPal,Seller C,0.9,2.18,Note 4,86
+5866-953,2024-07-31,20:39:05.376318,Marlboro,Cigarettes,16,13,208,PayPal,Seller B,22.4,25.78,Note 3,41
+6290-218,2024-08-24,20:39:05.376318,Beer,Drinks,8,4.52,36.16,Bank Transfer,Seller B,4.48,5.79,Note 3,62
+5263-451,2024-08-25,20:39:05.376318,Marlboro,Cigarettes,19,13,247,Bank Transfer,Seller D,27.87,40.46,Note 3,20
+5346-645,2024-08-26,20:39:05.376318,Water,Drinks,15,14.15,212.25,Bank Transfer,Seller C,53.08,33.96,Note 1,86
+4983-823,2024-07-21,20:39:05.376318,Toilet Paper,Others,8,19.28,154.24,Credit Card,Seller C,32.83,24.68,Note 4,70
+6942-218,2024-08-02,20:39:05.376318,Soda,Drinks,9,9.25,83.25,PayPal,Seller D,17.19,13.32,Note 3,16
+4264-637,2024-08-06,20:39:05.391944,Magazine,Others,12,9.86,118.32,Credit Card,Seller B,5.75,18.93,Note 1,65
+6486-303,2024-07-07,20:39:05.391944,Juice,Drinks,6,10.66,63.96,Credit Card,Seller D,13.19,10.23,Note 1,12
+8658-334,2024-07-31,20:39:05.391944,Toilet Paper,Others,20,14.63,292.6,Cash,Seller D,4.59,46.82,Note 2,20
+2043-527,2024-07-05,20:39:05.391944,Chocolate,Candies,14,14.27,199.78,Cash,Seller C,23.94,31.96,Note 2,46
+7662-874,2024-07-21,20:39:05.391944,Magazine,Others,2,14.48,28.96,Credit Card,Seller D,6.55,4.63,Note 1,17
+2517-190,2024-07-09,20:39:05.391944,Beer,Drinks,18,16.89,304.02,PayPal,Seller C,62.82,48.64,Note 1,52
+4493-255,2024-07-05,20:39:05.391944,Lucky Strike,Cigarettes,3,11,33,Bank Transfer,Seller B,0.27,1.62,Note 1,85
+3397-146,2024-07-24,20:39:05.391944,Water,Drinks,17,14.67,249.39,PayPal,Seller A,30.69,39.9,Note 2,10
+4579-128,2024-08-22,20:39:05.391944,Chewing gums,Candies,6,9.79,58.74,Credit Card,Seller D,1.04,9.4,Note 4,4
+2006-484,2024-07-13,20:39:05.407569,Marlboro,Cigarettes,1,13,13,Bank Transfer,Seller A,0,0.2,Note 3,36
+8228-505,2024-08-09,20:39:05.407569,Magazine,Others,19,6.04,114.76,Bank Transfer,Seller D,26.47,18.36,Note 1,6
+6041-453,2024-08-13,20:39:05.407569,Water,Drinks,17,9.33,158.61,Credit Card,Seller B,44.2,25.38,Note 3,38
+5451-639,2024-07-29,20:39:05.407569,Marlboro,Cigarettes,4,13,52,Credit Card,Seller B,6.86,6.76,Note 2,70
+5659-208,2024-07-31,20:39:05.407569,Lucky Strike,Cigarettes,17,11,187,Bank Transfer,Seller B,56.62,51.95,Note 1,33
+2151-672,2024-08-27,20:39:05.407569,Water,Drinks,12,6.19,74.28,PayPal,Seller B,14.37,11.88,Note 1,66
+5917-723,2024-07-26,20:39:05.407569,Chocolate,Candies,3,19.45,58.35,Cash,Seller B,10.39,9.34,Note 4,42
+3449-865,2024-08-27,20:39:05.407569,Marlboro,Cigarettes,12,13,156,Credit Card,Seller D,52.61,28.7,Note 3,80
+7003-293,2024-08-03,20:39:05.407569,Marlboro,Cigarettes,13,13,169,PayPal,Seller B,40.38,28.06,Note 1,28
+8667-233,2024-07-14,20:39:05.423195,Chewing gums,Candies,16,13.01,208.16,Bank Transfer,Seller D,21.23,33.31,Note 4,8
+8062-132,2024-08-01,20:39:05.423195,Toilet Paper,Others,13,15.13,196.69,Bank Transfer,Seller C,18.44,31.47,Note 1,80
+9761-911,2024-08-30,20:39:05.423195,Lucky Strike,Cigarettes,2,11,22,Credit Card,Seller C,0.33,0.5,Note 2,64
+8926-225,2024-08-29,20:39:05.423195,Cookies,Candies,18,8.7,156.6,Bank Transfer,Seller C,10.47,25.06,Note 4,36
+6280-517,2024-07-09,20:39:05.423195,Water,Drinks,7,3.83,26.81,Cash,Seller B,2.36,4.29,Note 1,88
+8451-833,2024-08-21,20:39:05.423195,Camel,Cigarettes,17,17,289,Cash,Seller D,18.09,11.64,Note 3,71
+4989-890,2024-07-07,20:39:05.423195,Chewing gums,Candies,14,9.79,137.06,Cash,Seller D,25.14,21.93,Note 2,12
+1672-464,2024-07-05,20:39:05.423195,Magazine,Others,18,12.32,221.76,PayPal,Seller B,17.03,35.48,Note 2,17
+7049-172,2024-08-10,20:39:05.423195,Soda,Drinks,18,2.98,53.64,Credit Card,Seller B,10.67,8.58,Note 3,54
+9894-942,2024-07-19,20:39:05.438818,Toilet Paper,Others,15,8.2,123,Bank Transfer,Seller D,20.37,19.68,Note 4,95
+9225-507,2024-08-10,20:39:05.438818,Toilet Paper,Others,8,19.6,156.8,Bank Transfer,Seller C,22.16,25.09,Note 4,77
+7620-623,2024-08-02,20:39:05.438818,Chewing gums,Candies,3,9.98,29.94,PayPal,Seller B,4.64,4.79,Note 1,12
+1464-818,2024-08-09,20:39:05.438818,Lucky Strike,Cigarettes,12,11,132,PayPal,Seller C,10.72,22.52,Note 3,46
+5436-690,2024-07-30,20:39:05.438818,Water,Drinks,1,7.35,7.35,Credit Card,Seller B,1.76,1.18,Note 2,32
+3826-517,2024-07-24,20:39:05.454444,Beer,Drinks,17,5.48,93.16,Cash,Seller C,4.67,14.91,Note 4,97
+8397-876,2024-07-21,20:39:05.454444,Chewing gums,Candies,10,7.74,77.4,PayPal,Seller C,22.52,12.38,Note 2,77
+3260-206,2024-08-10,20:39:05.454444,Marlboro,Cigarettes,20,13,260,Cash,Seller C,1.14,24.13,Note 2,1
+2901-744,2024-07-18,20:39:05.454444,Cookies,Candies,4,2.75,11,Cash,Seller D,2.34,1.76,Note 3,93
+8892-752,2024-08-04,20:39:05.454444,Cookies,Candies,15,6.8,102,Cash,Seller C,29.61,16.32,Note 4,64
+3238-941,2024-07-07,20:39:05.454444,Lucky Strike,Cigarettes,8,11,88,Cash,Seller C,0.33,15.22,Note 3,80
+9254-978,2024-07-13,20:39:05.454444,Candies,Candies,7,12.56,87.92,Credit Card,Seller C,2.54,14.07,Note 1,98
+5390-105,2024-07-05,20:39:05.454444,Lucky Strike,Cigarettes,9,11,99,PayPal,Seller D,28.15,26.5,Note 4,3
+5309-479,2024-08-09,20:39:05.454444,Water,Drinks,7,9.81,68.67,PayPal,Seller A,12.65,10.99,Note 4,38
+9570-588,2024-07-12,20:39:05.470067,Chocolate,Candies,6,10.24,61.44,Bank Transfer,Seller C,10.44,9.83,Note 1,53
+1796-898,2024-08-09,20:39:05.470067,Beer,Drinks,2,11.31,22.62,Credit Card,Seller A,3.3,3.62,Note 1,57
+2289-873,2024-08-22,20:39:05.470067,Beer,Drinks,7,10.51,73.57,PayPal,Seller D,1.72,11.77,Note 2,44
+9386-869,2024-07-03,20:39:05.470067,Candies,Candies,20,15.9,318,PayPal,Seller D,76.63,50.88,Note 1,23
+8026-238,2024-07-08,20:39:05.470067,Marlboro,Cigarettes,17,13,221,Credit Card,Seller D,4.95,4.6,Note 3,80
+4404-679,2024-07-19,20:39:05.470067,Beer,Drinks,10,14.06,140.6,Cash,Seller B,3.81,22.5,Note 2,30
+6985-111,2024-07-12,20:39:05.470067,Camel,Cigarettes,8,17,136,Credit Card,Seller C,21.44,12.15,Note 2,75
+9663-730,2024-07-21,20:39:05.485693,Lucky Strike,Cigarettes,1,11,11,Cash,Seller A,0.31,0.22,Note 2,14
+6600-750,2024-08-30,20:39:05.485693,Candies,Candies,20,16.7,334,Cash,Seller A,64.05,53.44,Note 4,28
+2692-601,2024-08-03,20:39:05.485693,Chocolate,Candies,1,16.5,16.5,Credit Card,Seller C,3.83,2.64,Note 1,75
+5584-593,2024-07-27,20:39:05.485693,Toilet Paper,Others,12,4.04,48.48,Bank Transfer,Seller C,12.76,7.76,Note 1,69
+3616-646,2024-08-04,20:39:05.485693,Chewing gums,Candies,5,14.65,73.25,Credit Card,Seller B,14.42,11.72,Note 2,67
+2446-197,2024-08-19,20:39:05.485693,Marlboro,Cigarettes,7,13,91,Bank Transfer,Seller B,9.77,10.45,Note 2,23
+1447-395,2024-07-24,20:39:05.485693,Soda,Drinks,11,18.81,206.91,Bank Transfer,Seller A,35.44,33.11,Note 1,70
+3210-619,2024-08-24,20:39:05.485693,Soda,Drinks,4,13.43,53.72,Bank Transfer,Seller C,8.13,8.6,Note 4,6
+4561-658,2024-07-15,20:39:05.485693,Water,Drinks,13,3.57,46.41,Bank Transfer,Seller D,8.36,7.43,Note 2,72
+5824-752,2024-07-27,20:39:05.501310,Soda,Drinks,12,2.44,29.28,Cash,Seller C,7.94,4.68,Note 4,2
+4353-599,2024-08-28,20:39:05.501310,Toilet Paper,Others,17,18.08,307.36,Cash,Seller C,71.72,49.18,Note 4,79
+5196-683,2024-08-07,20:39:05.501310,Candies,Candies,13,15.58,202.54,PayPal,Seller C,57.56,32.41,Note 2,65
+5457-474,2024-08-02,20:39:05.501310,Toilet Paper,Others,8,9.29,74.32,Credit Card,Seller C,6.52,11.89,Note 4,46
+2914-749,2024-07-06,20:39:05.501310,Water,Drinks,5,13.19,65.95,PayPal,Seller C,17.4,10.55,Note 1,21
+4885-377,2024-08-22,20:39:05.501310,Marlboro,Cigarettes,20,13,260,PayPal,Seller D,0.16,27.26,Note 1,84
+1381-803,2024-08-28,20:39:05.501310,Cookies,Candies,14,19.26,269.64,Bank Transfer,Seller A,42.85,43.14,Note 4,65
+8384-716,2024-08-29,20:39:05.516939,Cookies,Candies,17,5.49,93.33,Credit Card,Seller A,21.46,14.93,Note 2,40
+9563-973,2024-07-11,20:39:05.516939,Camel,Cigarettes,7,17,119,Cash,Seller D,16.45,19.72,Note 1,44
+6108-621,2024-07-17,20:39:05.516939,Magazine,Others,19,19.69,374.11,Bank Transfer,Seller D,44.73,59.86,Note 1,84
+1123-741,2024-07-13,20:39:05.516939,Lucky Strike,Cigarettes,3,11,33,Credit Card,Seller C,0.23,1.74,Note 4,63
+9418-397,2024-07-06,20:39:05.516939,Cookies,Candies,11,10.89,119.79,Credit Card,Seller D,25.21,19.17,Note 3,60
+5413-452,2024-07-06,20:39:05.516939,Marlboro,Cigarettes,16,13,208,Credit Card,Seller D,48.69,41.47,Note 2,34
+1596-320,2024-08-22,20:39:05.516939,Water,Drinks,16,7.72,123.52,Cash,Seller D,26.33,19.76,Note 3,17
+8454-438,2024-08-01,20:39:05.516939,Lucky Strike,Cigarettes,18,11,198,Bank Transfer,Seller C,0.06,13.97,Note 4,27
+9835-315,2024-08-30,20:39:05.516939,Marlboro,Cigarettes,17,13,221,Cash,Seller D,55.19,31.36,Note 4,22
+5090-356,2024-08-04,20:39:05.532567,Magazine,Others,13,12.36,160.68,Credit Card,Seller D,35.59,25.71,Note 1,64
+9114-133,2024-07-01,20:39:05.532567,Lucky Strike,Cigarettes,9,11,99,Bank Transfer,Seller B,13.86,24.21,Note 2,55
+6419-420,2024-07-02,20:39:05.532567,Cookies,Candies,2,6.58,13.16,Credit Card,Seller A,2.89,2.11,Note 1,51
+7798-481,2024-07-19,20:39:05.532567,Lucky Strike,Cigarettes,12,11,132,Bank Transfer,Seller B,1.56,6.8,Note 2,93
+7323-189,2024-08-14,20:39:05.532567,Juice,Drinks,3,16.55,49.65,PayPal,Seller B,9.23,7.94,Note 4,78
+1155-591,2024-08-27,20:39:05.532567,Beer,Drinks,3,18.19,54.57,Cash,Seller D,6.86,8.73,Note 4,44
+8231-654,2024-07-08,20:39:05.532567,Juice,Drinks,7,1.55,10.85,Bank Transfer,Seller D,1.16,1.74,Note 1,94
+4595-143,2024-07-25,20:39:05.532567,Chocolate,Candies,1,11.81,11.81,PayPal,Seller A,0.11,1.89,Note 2,11
+9438-734,2024-08-24,20:39:05.532567,Lucky Strike,Cigarettes,1,11,11,Cash,Seller D,0.65,0.74,Note 1,76
+5185-138,2024-07-08,20:39:05.548194,Juice,Drinks,8,1.05,8.4,Bank Transfer,Seller B,0.02,1.34,Note 1,74
+4725-460,2024-07-25,20:39:05.548194,Cookies,Candies,6,8.4,50.4,PayPal,Seller A,14.39,8.06,Note 1,46
+1726-841,2024-08-21,20:39:05.548194,Beer,Drinks,13,18.51,240.63,Cash,Seller D,7.94,38.5,Note 4,67
+2697-260,2024-07-02,20:39:05.548194,Water,Drinks,1,9.81,9.81,Bank Transfer,Seller B,2.28,1.57,Note 3,61
+7336-820,2024-08-06,20:39:05.548194,Beer,Drinks,3,11.93,35.79,PayPal,Seller D,5.02,5.73,Note 4,58
+4126-923,2024-08-29,20:39:05.548194,Chocolate,Candies,16,8.08,129.28,PayPal,Seller A,9.98,20.68,Note 1,44
+2646-713,2024-07-10,20:39:05.548194,Lucky Strike,Cigarettes,11,11,121,PayPal,Seller D,19.27,10.31,Note 1,80
+8773-204,2024-07-04,20:39:05.548194,Juice,Drinks,10,19.35,193.5,Bank Transfer,Seller A,46.19,30.96,Note 2,43
+9663-919,2024-08-15,20:39:05.548194,Lucky Strike,Cigarettes,15,11,165,Cash,Seller C,14.81,43.97,Note 4,84
+4651-109,2024-07-25,20:39:05.563818,Cookies,Candies,11,18.42,202.62,Cash,Seller D,53.21,32.42,Note 1,25
+9486-169,2024-07-22,20:39:05.563818,Water,Drinks,6,15.05,90.3,Cash,Seller C,9.91,14.45,Note 4,66
+6707-129,2024-08-17,20:39:05.563818,Lucky Strike,Cigarettes,11,11,121,Cash,Seller D,23.05,21.89,Note 3,95
+8902-313,2024-08-21,20:39:05.563818,Beer,Drinks,8,1.66,13.28,PayPal,Seller D,2.11,2.12,Note 3,86
+1782-686,2024-07-07,20:39:05.563818,Magazine,Others,4,6.3,25.2,Cash,Seller B,0.02,4.03,Note 4,9
+3346-514,2024-07-22,20:39:05.563818,Magazine,Others,18,9.94,178.92,Cash,Seller C,30.84,28.63,Note 3,24
+8046-695,2024-08-17,20:39:05.563818,Magazine,Others,14,18.13,253.82,Cash,Seller B,63.16,40.61,Note 4,68
+8305-769,2024-08-29,20:39:05.563818,Magazine,Others,3,5.64,16.92,Credit Card,Seller A,3.94,2.71,Note 4,61
+8257-131,2024-08-30,20:39:05.563818,Candies,Candies,7,6.1,42.7,Credit Card,Seller C,7.82,6.83,Note 4,87
+7012-311,2024-07-24,20:39:05.579438,Chocolate,Candies,17,8.2,139.4,PayPal,Seller B,27.43,22.3,Note 4,56
+5320-810,2024-07-03,20:39:05.579438,Magazine,Others,13,11.95,155.35,Credit Card,Seller D,32.83,24.86,Note 3,20
+8821-222,2024-07-11,20:39:05.579438,Marlboro,Cigarettes,9,13,117,Cash,Seller B,1.68,17.63,Note 1,43
+9921-335,2024-07-06,20:39:05.579438,Toilet Paper,Others,11,7.68,84.48,Credit Card,Seller C,20.26,13.52,Note 4,45
+1054-923,2024-08-27,20:39:05.579438,Cigarette Lighter,Others,13,12,156,Credit Card,Seller B,1.55,9.15,Note 3,97
+5462-177,2024-07-18,20:39:05.579438,Toilet Paper,Others,1,4.38,4.38,Cash,Seller A,1.19,0.7,Note 1,66
+5284-652,2024-07-26,20:39:05.579438,Marlboro,Cigarettes,13,13,169,Cash,Seller B,3.32,2.56,Note 1,68
+1132-165,2024-07-25,20:39:05.579438,Camel,Cigarettes,16,17,272,Bank Transfer,Seller D,35.97,22.81,Note 1,36
+9317-217,2024-07-20,20:39:05.579438,Marlboro,Cigarettes,1,13,13,Credit Card,Seller D,3.23,2.59,Note 3,65
+2550-945,2024-07-07,20:39:05.579438,Juice,Drinks,11,8.02,88.22,Cash,Seller C,2.12,14.12,Note 3,48
+7873-936,2024-07-10,20:39:05.595065,Marlboro,Cigarettes,14,13,182,Credit Card,Seller D,51.97,43.03,Note 4,68
+4619-631,2024-07-31,20:39:05.595065,Marlboro,Cigarettes,19,13,247,Cash,Seller B,67.98,52.26,Note 3,56
+3924-362,2024-07-03,20:39:05.595065,Water,Drinks,14,9.33,130.62,Bank Transfer,Seller D,29.13,20.9,Note 3,32
+2545-256,2024-08-05,20:39:05.595065,Beer,Drinks,6,10.51,63.06,Cash,Seller C,4.41,10.09,Note 4,47
+1151-993,2024-08-20,20:39:05.595065,Lucky Strike,Cigarettes,13,11,143,Cash,Seller D,22.56,13.52,Note 4,74
+8165-209,2024-08-02,20:39:05.595065,Soda,Drinks,9,2.53,22.77,Credit Card,Seller A,0.29,3.64,Note 2,48
+9900-766,2024-08-22,20:39:05.595065,Water,Drinks,3,11.11,33.33,Cash,Seller B,2.05,5.33,Note 4,95
+8142-361,2024-08-05,20:39:05.595065,Candies,Candies,5,15.31,76.55,PayPal,Seller C,6.73,12.25,Note 1,1
+4849-727,2024-07-14,20:39:05.595065,Marlboro,Cigarettes,13,13,169,Bank Transfer,Seller C,33.13,38.31,Note 3,83
+9130-290,2024-07-15,20:39:05.610693,Lucky Strike,Cigarettes,7,11,77,Credit Card,Seller A,9.79,16.2,Note 1,26
+5020-941,2024-07-17,20:39:05.610693,Toilet Paper,Others,7,3.73,26.11,Credit Card,Seller C,1.13,4.18,Note 2,63
+9380-658,2024-08-04,20:39:05.610693,Candies,Candies,14,13.41,187.74,Cash,Seller B,21.04,30.04,Note 2,62
+9717-437,2024-07-21,20:39:05.610693,Candies,Candies,9,9.07,81.63,Credit Card,Seller B,22.1,13.06,Note 4,63
+3241-159,2024-08-12,20:39:05.610693,Lucky Strike,Cigarettes,7,11,77,Cash,Seller C,1.43,6.47,Note 4,69
+3737-835,2024-08-15,20:39:05.610693,Marlboro,Cigarettes,13,13,169,Cash,Seller A,5.99,17.58,Note 3,4
+2791-903,2024-07-27,20:39:05.610693,Beer,Drinks,19,13.74,261.06,PayPal,Seller D,63.89,41.77,Note 4,88
+8904-476,2024-08-21,20:39:05.610693,Chocolate,Candies,10,13.49,134.9,PayPal,Seller C,39.99,21.58,Note 2,91
+2631-703,2024-07-05,20:39:05.610693,Camel,Cigarettes,5,17,85,PayPal,Seller B,21,13.33,Note 4,0
+9758-713,2024-08-27,20:39:05.626318,Candies,Candies,11,6.1,67.1,PayPal,Seller A,17.14,10.74,Note 3,49
+9633-498,2024-08-24,20:39:05.626318,Toilet Paper,Others,10,15.12,151.2,Bank Transfer,Seller A,42.5,24.19,Note 1,5
+2775-812,2024-07-08,20:39:05.626318,Juice,Drinks,11,12.84,141.24,Credit Card,Seller C,12.64,22.6,Note 1,7
+5903-988,2024-08-30,20:39:05.626318,Chewing gums,Candies,19,13.94,264.86,Credit Card,Seller A,46.67,42.38,Note 3,96
+2779-778,2024-08-28,20:39:05.626318,Chocolate,Candies,11,14.27,156.97,PayPal,Seller A,41.25,25.12,Note 1,35
+7921-726,2024-07-01,20:39:05.626318,Magazine,Others,13,17.72,230.36,Credit Card,Seller A,55.55,36.86,Note 3,84
+4521-562,2024-08-24,20:39:05.626318,Cigarette Lighter,Others,5,12,60,PayPal,Seller C,4.56,3.13,Note 3,26
+2214-915,2024-08-11,20:39:05.626318,Camel,Cigarettes,2,17,34,PayPal,Seller D,0.13,1.13,Note 3,93
+2854-329,2024-07-06,20:39:05.626318,Camel,Cigarettes,10,17,170,Cash,Seller D,9.32,7.57,Note 3,15
+2213-191,2024-08-24,20:39:05.641943,Soda,Drinks,4,7.67,30.68,Cash,Seller C,0.9,4.91,Note 1,57
+5448-285,2024-08-19,20:39:05.641943,Camel,Cigarettes,5,17,85,PayPal,Seller B,0.34,3.78,Note 3,28
+7370-208,2024-07-24,20:39:05.641943,Cookies,Candies,18,16.93,304.74,Credit Card,Seller D,47.22,48.76,Note 2,57
+5997-722,2024-07-17,20:39:05.641943,Magazine,Others,19,17.97,341.43,Credit Card,Seller A,4.26,54.63,Note 3,88
+5168-754,2024-07-08,20:39:05.641943,Cigarette Lighter,Others,17,12,204,Credit Card,Seller A,9.06,7.26,Note 3,65
+8600-918,2024-08-02,20:39:05.641943,Camel,Cigarettes,10,17,170,Cash,Seller C,5.94,5.41,Note 1,29
+8908-686,2024-07-23,20:39:05.641943,Magazine,Others,2,19.28,38.56,Bank Transfer,Seller B,8.04,6.17,Note 1,8
+8533-757,2024-07-28,20:39:05.641943,Marlboro,Cigarettes,14,13,182,PayPal,Seller B,2.97,6.47,Note 1,27
+4441-176,2024-07-21,20:39:05.641943,Marlboro,Cigarettes,9,13,117,PayPal,Seller D,36.13,27.82,Note 2,41
+5948-362,2024-07-31,20:39:05.657568,Magazine,Others,7,5.41,37.87,Bank Transfer,Seller A,7.55,6.06,Note 3,81
+4438-383,2024-08-17,20:39:05.657568,Water,Drinks,15,15.5,232.5,Bank Transfer,Seller D,67.75,37.2,Note 3,51
+2339-410,2024-07-18,20:39:05.657568,Lucky Strike,Cigarettes,5,11,55,Bank Transfer,Seller C,1.74,3.2,Note 4,57
+6936-308,2024-08-15,20:39:05.657568,Camel,Cigarettes,16,17,272,Cash,Seller B,16.95,9.32,Note 1,4
+8629-821,2024-07-29,20:39:05.657568,Juice,Drinks,19,16.06,305.14,PayPal,Seller D,24.73,48.82,Note 2,34
+8886-421,2024-07-14,20:39:05.657568,Cookies,Candies,7,15.66,109.62,Cash,Seller B,2.79,17.54,Note 2,2
+6815-657,2024-08-12,20:39:05.657568,Cookies,Candies,9,17.67,159.03,Bank Transfer,Seller D,5.59,25.44,Note 3,11
+8432-211,2024-07-21,20:39:05.657568,Camel,Cigarettes,19,17,323,Credit Card,Seller B,14.88,19.4,Note 3,40
+6364-290,2024-08-07,20:39:05.673186,Juice,Drinks,17,17.71,301.07,PayPal,Seller B,57.91,48.17,Note 1,72
+7441-269,2024-08-19,20:39:05.673186,Water,Drinks,6,16.62,99.72,Bank Transfer,Seller B,22.28,15.96,Note 4,9
+1025-835,2024-08-27,20:39:05.673186,Candies,Candies,15,5.56,83.4,Bank Transfer,Seller C,24.66,13.34,Note 1,5
+7184-707,2024-08-06,20:39:05.673186,Water,Drinks,8,14.63,117.04,Credit Card,Seller A,33.99,18.73,Note 1,93
+3409-726,2024-08-18,20:39:05.673186,Lucky Strike,Cigarettes,17,11,187,Cash,Seller D,2.9,12.51,Note 3,26
+5065-497,2024-07-03,20:39:05.673186,Marlboro,Cigarettes,12,13,156,PayPal,Seller C,15.63,20.52,Note 3,19
+5199-477,2024-08-06,20:39:05.673186,Cookies,Candies,2,5.49,10.98,PayPal,Seller B,2.11,1.76,Note 2,36
+2790-998,2024-08-19,20:39:05.673186,Beer,Drinks,2,18.19,36.38,Bank Transfer,Seller B,4.5,5.82,Note 4,72
+2415-921,2024-08-22,20:39:05.673186,Water,Drinks,17,13.19,224.23,Bank Transfer,Seller B,19.81,35.88,Note 4,76
+3214-435,2024-07-23,20:39:05.673186,Juice,Drinks,6,11.78,70.68,Bank Transfer,Seller D,9.78,11.31,Note 2,39
+9825-438,2024-07-10,20:39:05.688818,Soda,Drinks,5,6.6,33,Bank Transfer,Seller A,1.58,5.28,Note 3,77
+1806-186,2024-08-16,20:39:05.688818,Juice,Drinks,11,12.97,142.67,Cash,Seller B,31.54,22.83,Note 2,71
+9677-165,2024-07-31,20:39:05.688818,Juice,Drinks,4,10.66,42.64,Bank Transfer,Seller D,2.38,6.82,Note 1,68
+7895-536,2024-08-30,20:39:05.688818,Cookies,Candies,1,5.79,5.79,PayPal,Seller C,0.57,0.93,Note 1,49
+5627-268,2024-07-10,20:39:05.688818,Cookies,Candies,14,8.4,117.6,Credit Card,Seller C,26.28,18.82,Note 3,74
+4083-990,2024-08-05,20:39:05.688818,Water,Drinks,9,11.61,104.49,Cash,Seller B,18.1,16.72,Note 2,33
+7904-920,2024-07-14,20:39:05.688818,Water,Drinks,18,7.35,132.3,Bank Transfer,Seller A,12.35,21.17,Note 1,78
+8337-440,2024-08-23,20:39:05.688818,Chocolate,Candies,9,1.69,15.21,Credit Card,Seller B,0.21,2.43,Note 2,99
+8262-737,2024-07-19,20:39:05.688818,Marlboro,Cigarettes,10,13,130,PayPal,Seller C,22.24,21.3,Note 2,54
+8239-984,2024-07-25,20:39:05.704444,Water,Drinks,1,5.57,5.57,Credit Card,Seller A,0.22,0.89,Note 1,11
+6387-572,2024-08-15,20:39:05.704444,Soda,Drinks,18,13.31,239.58,Cash,Seller C,46.96,38.33,Note 2,58
+2615-171,2024-07-26,20:39:05.704444,Beer,Drinks,6,12.34,74.04,Cash,Seller B,7.39,11.85,Note 1,60
+3303-322,2024-08-16,20:39:05.704444,Marlboro,Cigarettes,20,13,260,Cash,Seller B,40.67,36.67,Note 2,86
+9954-263,2024-07-23,20:39:05.704444,Soda,Drinks,10,12.76,127.6,PayPal,Seller C,29.42,20.42,Note 3,92
+5022-772,2024-08-06,20:39:05.704444,Lucky Strike,Cigarettes,2,11,22,Bank Transfer,Seller C,2.04,5.18,Note 3,78
+6488-520,2024-07-21,20:39:05.704444,Lucky Strike,Cigarettes,5,11,55,Cash,Seller A,20.27,11.12,Note 1,50
+5096-123,2024-07-20,20:39:05.704444,Juice,Drinks,17,4.81,81.77,Bank Transfer,Seller C,23.85,13.08,Note 3,41
+9118-894,2024-08-17,20:39:05.704444,Lucky Strike,Cigarettes,9,11,99,Bank Transfer,Seller D,12.84,18.22,Note 3,68
+2351-729,2024-07-09,20:39:05.720067,Chocolate,Candies,4,1.97,7.88,Cash,Seller B,1.05,1.26,Note 4,2
+1753-646,2024-07-04,20:39:05.720067,Marlboro,Cigarettes,14,13,182,Credit Card,Seller C,3.92,12.3,Note 4,96
+1393-225,2024-08-27,20:39:05.720067,Marlboro,Cigarettes,8,13,104,PayPal,Seller B,12.84,12.12,Note 3,12
+2189-924,2024-07-20,20:39:05.720067,Lucky Strike,Cigarettes,20,11,220,Bank Transfer,Seller A,79.69,57.06,Note 3,95
+4995-762,2024-08-07,20:39:05.720067,Chewing gums,Candies,17,19.57,332.69,PayPal,Seller C,59.02,53.23,Note 3,3
+1297-262,2024-08-28,20:39:05.720067,Cigarette Lighter,Others,17,12,204,Bank Transfer,Seller C,12.86,23.53,Note 2,50
+3965-243,2024-07-01,20:39:05.735693,Cookies,Candies,15,17.11,256.65,Cash,Seller C,11.74,41.06,Note 4,81
+7469-796,2024-07-06,20:39:05.735693,Toilet Paper,Others,2,7.68,15.36,Credit Card,Seller B,1.9,2.46,Note 2,40
+1539-642,2024-07-29,20:39:05.735693,Juice,Drinks,11,13.78,151.58,Cash,Seller B,44.96,24.25,Note 1,3
+3577-822,2024-08-05,20:39:05.735693,Water,Drinks,13,5.4,70.2,Bank Transfer,Seller A,16.32,11.23,Note 1,37
+6463-379,2024-08-14,20:39:05.735693,Cookies,Candies,14,6.58,92.12,PayPal,Seller B,10.64,14.74,Note 4,58
+1534-644,2024-07-25,20:39:05.735693,Cookies,Candies,2,18.38,36.76,Cash,Seller A,9.6,5.88,Note 3,7
+2434-247,2024-08-28,20:39:05.735693,Cookies,Candies,10,10.89,108.9,Cash,Seller B,29.3,17.42,Note 1,3
+5494-263,2024-08-14,20:39:05.735693,Lucky Strike,Cigarettes,17,11,187,Bank Transfer,Seller A,50.26,37.81,Note 1,1
+7597-787,2024-08-29,20:39:05.751318,Lucky Strike,Cigarettes,19,11,209,Credit Card,Seller C,56.87,38.46,Note 3,83
+9820-961,2024-08-03,20:39:05.751318,Soda,Drinks,18,7.67,138.06,Bank Transfer,Seller C,2.01,22.09,Note 1,76
+9552-503,2024-08-29,20:39:05.751318,Camel,Cigarettes,1,17,17,Credit Card,Seller A,4.65,2.89,Note 4,13
+5431-658,2024-08-15,20:39:05.751318,Lucky Strike,Cigarettes,6,11,66,Cash,Seller C,4,18.59,Note 1,44
+1493-731,2024-08-01,20:39:05.751318,Cigarette Lighter,Others,20,12,240,Credit Card,Seller A,60.63,37.7,Note 2,46
+5972-958,2024-08-17,20:39:05.751318,Magazine,Others,12,15.48,185.76,Cash,Seller D,29.09,29.72,Note 1,93
+3408-160,2024-07-27,20:39:05.751318,Water,Drinks,14,5.39,75.46,Credit Card,Seller B,5.44,12.07,Note 4,1
+6248-319,2024-08-19,20:39:05.751318,Toilet Paper,Others,3,1.62,4.86,PayPal,Seller C,1.22,0.78,Note 3,81
+9040-235,2024-08-28,20:39:05.751318,Water,Drinks,14,19.3,270.2,Bank Transfer,Seller A,57.16,43.23,Note 2,72
+7625-737,2024-07-29,20:39:05.766942,Water,Drinks,2,11.61,23.22,Cash,Seller A,2.93,3.72,Note 4,8
+1129-932,2024-08-27,20:39:05.766942,Water,Drinks,20,7,140,Cash,Seller B,26.05,22.4,Note 3,1
+8473-354,2024-08-06,20:39:05.766942,Candies,Candies,11,14.51,159.61,Credit Card,Seller D,38.09,25.54,Note 1,85
+2152-931,2024-08-23,20:39:05.766942,Marlboro,Cigarettes,10,13,130,Credit Card,Seller B,3.21,16.11,Note 2,7
+7160-824,2024-08-14,20:39:05.766942,Chewing gums,Candies,19,3.94,74.86,Credit Card,Seller B,9.83,11.98,Note 2,33
+3367-817,2024-07-02,20:39:05.766942,Cookies,Candies,6,18.91,113.46,Bank Transfer,Seller A,25.72,18.15,Note 4,0
+1572-382,2024-07-23,20:39:05.766942,Soda,Drinks,17,5.61,95.37,Cash,Seller D,26.33,15.26,Note 4,99
+3316-450,2024-08-04,20:39:05.766942,Lucky Strike,Cigarettes,18,11,198,Bank Transfer,Seller D,17.81,13.97,Note 3,48
+6087-268,2024-08-09,20:39:05.766942,Marlboro,Cigarettes,13,13,169,PayPal,Seller D,9.43,23.84,Note 1,38
+1296-189,2024-08-20,20:39:05.782568,Toilet Paper,Others,11,3.29,36.19,Cash,Seller B,1.11,5.79,Note 1,14
+3562-427,2024-08-12,20:39:05.782568,Chocolate,Candies,2,8.29,16.58,Cash,Seller C,3.21,2.65,Note 1,90
+1061-655,2024-07-09,20:39:05.782568,Beer,Drinks,8,10.13,81.04,Credit Card,Seller D,0.83,12.97,Note 3,75
+4526-986,2024-07-15,20:39:05.782568,Candies,Candies,7,15.4,107.8,Credit Card,Seller C,17.77,17.25,Note 2,45
+8727-108,2024-07-09,20:39:05.782568,Chewing gums,Candies,9,1.2,10.8,Cash,Seller A,2.2,1.73,Note 1,45
+3869-455,2024-08-03,20:39:05.782568,Water,Drinks,16,14.31,228.96,Bank Transfer,Seller A,32.1,36.63,Note 1,53
+1207-864,2024-07-25,20:39:05.782568,Water,Drinks,6,12.66,75.96,Credit Card,Seller C,18.2,12.15,Note 3,41
+3739-723,2024-08-08,20:39:05.782568,Juice,Drinks,8,12.97,103.76,PayPal,Seller B,4.33,16.6,Note 1,32
+8724-921,2024-07-05,20:39:05.782568,Cigarette Lighter,Others,2,12,24,Bank Transfer,Seller D,0.97,0.99,Note 2,45
+1978-379,2024-08-29,20:39:05.798192,Camel,Cigarettes,1,17,17,Credit Card,Seller B,0.82,3.09,Note 3,13
+9991-801,2024-07-06,20:39:05.798192,Marlboro,Cigarettes,5,13,65,Cash,Seller C,3.92,8.65,Note 1,61
+3296-813,2024-08-22,20:39:05.798192,Lucky Strike,Cigarettes,4,11,44,Bank Transfer,Seller D,5.63,3.75,Note 2,86
+4294-137,2024-07-14,20:39:05.798192,Beer,Drinks,20,1.97,39.4,Credit Card,Seller A,6.79,6.3,Note 1,0
+3445-254,2024-07-19,20:39:05.798192,Camel,Cigarettes,1,17,17,Cash,Seller A,4.11,2.4,Note 1,26
+4642-402,2024-07-22,20:39:05.798192,Cigarette Lighter,Others,8,12,96,Bank Transfer,Seller B,7.09,5,Note 1,67
+6794-884,2024-07-22,20:39:05.798192,Cookies,Candies,20,6.58,131.6,Cash,Seller A,15.39,21.06,Note 4,55
+5046-770,2024-07-26,20:39:05.798192,Marlboro,Cigarettes,4,13,52,PayPal,Seller C,2.01,8.98,Note 4,5
+7635-106,2024-08-25,20:39:05.798192,Marlboro,Cigarettes,18,13,234,Bank Transfer,Seller A,31.78,46.66,Note 1,76
+1067-485,2024-08-28,20:39:05.798192,Beer,Drinks,8,8.44,67.52,Credit Card,Seller C,11.84,10.8,Note 2,85
+9343-333,2024-08-11,20:39:05.813821,Beer,Drinks,7,16.69,116.83,PayPal,Seller B,26.88,18.69,Note 2,75
+2182-714,2024-08-16,20:39:05.813821,Chocolate,Candies,16,19.37,309.92,Credit Card,Seller C,45.76,49.59,Note 2,22
+1676-891,2024-08-04,20:39:05.813821,Water,Drinks,3,14.15,42.45,Bank Transfer,Seller D,2.64,6.79,Note 1,92
+8219-130,2024-07-16,20:39:05.813821,Chewing gums,Candies,3,8.64,25.92,Cash,Seller B,2.17,4.15,Note 2,54
+5717-939,2024-07-14,20:39:05.813821,Water,Drinks,15,5.39,80.85,PayPal,Seller A,19.3,12.94,Note 4,53
+7024-635,2024-08-22,20:39:05.813821,Toilet Paper,Others,4,18.08,72.32,Cash,Seller B,20.03,11.57,Note 1,63
+7778-123,2024-07-02,20:39:05.813821,Magazine,Others,17,8.1,137.7,PayPal,Seller A,26.86,22.03,Note 4,73
+1543-650,2024-07-04,20:39:05.813821,Lucky Strike,Cigarettes,16,11,176,Credit Card,Seller A,22.12,48.95,Note 4,52
+6769-600,2024-08-25,20:39:05.829445,Toilet Paper,Others,12,3.45,41.4,Cash,Seller B,0.27,6.62,Note 4,31
+1404-188,2024-08-27,20:39:05.829445,Cigarette Lighter,Others,7,12,84,Credit Card,Seller A,4.64,14.53,Note 4,7
+4333-830,2024-08-05,20:39:05.829445,Magazine,Others,20,2.57,51.4,Bank Transfer,Seller A,13.55,8.22,Note 3,22
+1566-512,2024-08-02,20:39:05.829445,Chocolate,Candies,16,11.81,188.96,Bank Transfer,Seller D,42.87,30.23,Note 3,90
+3641-177,2024-08-09,20:39:05.829445,Water,Drinks,4,17.33,69.32,Credit Card,Seller B,4.21,11.09,Note 4,13
+8777-891,2024-07-10,20:39:05.829445,Soda,Drinks,14,2.53,35.42,Bank Transfer,Seller D,0.06,5.67,Note 2,55
+8917-482,2024-08-10,20:39:05.829445,Cigarette Lighter,Others,3,12,36,PayPal,Seller C,12.26,7.39,Note 4,2
+6659-256,2024-07-25,20:39:05.829445,Candies,Candies,2,2.37,4.74,Cash,Seller A,0.4,0.76,Note 2,14
+7937-575,2024-07-30,20:39:05.829445,Chocolate,Candies,8,1.69,13.52,Credit Card,Seller A,2.47,2.16,Note 1,30
+9730-966,2024-08-06,20:39:05.845067,Toilet Paper,Others,10,5.12,51.2,Cash,Seller D,6.85,8.19,Note 4,76
+9144-195,2024-07-29,20:39:05.845067,Juice,Drinks,4,6.15,24.6,PayPal,Seller A,7.33,3.94,Note 2,64
+5841-930,2024-08-02,20:39:05.845067,Magazine,Others,18,3.26,58.68,Credit Card,Seller C,16.95,9.39,Note 3,65
+7105-477,2024-08-06,20:39:05.845067,Water,Drinks,5,17.33,86.65,Credit Card,Seller B,2.63,13.86,Note 2,37
+1916-607,2024-08-06,20:39:05.845067,Water,Drinks,14,3.57,49.98,Bank Transfer,Seller B,6.79,8,Note 1,78
+1100-375,2024-07-26,20:39:05.845067,Juice,Drinks,17,13.79,234.43,Bank Transfer,Seller D,70.14,37.51,Note 3,39
+2850-949,2024-07-10,20:39:05.845067,Cigarette Lighter,Others,11,12,132,Bank Transfer,Seller B,16.8,20.66,Note 4,34
+4367-113,2024-08-30,20:39:05.845067,Marlboro,Cigarettes,11,13,143,Credit Card,Seller C,0.31,13.27,Note 4,72
+8656-777,2024-07-01,20:39:05.845067,Cookies,Candies,18,18.38,330.84,Credit Card,Seller D,76.18,52.93,Note 1,50
+8947-149,2024-07-08,20:39:05.860692,Water,Drinks,17,7.29,123.93,PayPal,Seller D,23.95,19.83,Note 1,14
+9399-702,2024-08-12,20:39:05.860692,Toilet Paper,Others,13,18.69,242.97,Credit Card,Seller A,54.25,38.88,Note 1,18
+7146-439,2024-08-27,20:39:05.860692,Water,Drinks,10,14.31,143.1,Bank Transfer,Seller B,11.18,22.9,Note 2,60
+5206-494,2024-08-06,20:39:05.860692,Beer,Drinks,20,5.05,101,Bank Transfer,Seller C,15.36,16.16,Note 2,30
+5083-582,2024-07-11,20:39:05.860692,Juice,Drinks,16,19.86,317.76,Cash,Seller B,49.49,50.84,Note 1,87
+1237-151,2024-07-09,20:39:05.860692,Lucky Strike,Cigarettes,2,11,22,Cash,Seller A,0.77,1.52,Note 2,91
+2907-726,2024-07-07,20:39:05.860692,Magazine,Others,20,10.53,210.6,Bank Transfer,Seller A,13.67,33.7,Note 2,68
+5007-117,2024-08-25,20:39:05.876313,Candies,Candies,13,7.96,103.48,Credit Card,Seller C,1.69,16.56,Note 4,18
+8521-954,2024-08-14,20:39:05.876313,Chewing gums,Candies,2,12.29,24.58,Credit Card,Seller D,0.16,3.93,Note 4,61
+4270-636,2024-07-25,20:39:05.876313,Water,Drinks,14,5.42,75.88,PayPal,Seller C,6.33,12.14,Note 1,77
+7043-898,2024-07-27,20:39:05.876313,Chewing gums,Candies,8,9.01,72.08,Cash,Seller C,2.39,11.53,Note 3,51
+8957-221,2024-08-26,20:39:05.876313,Lucky Strike,Cigarettes,5,11,55,PayPal,Seller C,16.18,10.29,Note 3,85
+2146-594,2024-08-10,20:39:05.876313,Chewing gums,Candies,18,15.44,277.92,Cash,Seller B,42.2,44.47,Note 3,45
+2304-501,2024-07-19,20:39:05.876313,Beer,Drinks,19,1.97,37.43,Cash,Seller C,7.74,5.99,Note 1,17
+2044-313,2024-07-27,20:39:05.876313,Marlboro,Cigarettes,17,13,221,Credit Card,Seller D,9.38,16.27,Note 1,32
+5439-136,2024-07-05,20:39:05.891946,Magazine,Others,11,2.57,28.27,Bank Transfer,Seller D,0.64,4.52,Note 1,13
+1547-160,2024-08-23,20:39:05.891946,Water,Drinks,17,18.93,321.81,PayPal,Seller C,16.46,51.49,Note 4,56
+1259-836,2024-08-05,20:39:05.891946,Water,Drinks,19,7.29,138.51,PayPal,Seller A,7.79,22.16,Note 1,94
+5982-629,2024-08-21,20:39:05.891946,Chocolate,Candies,18,14.34,258.12,PayPal,Seller A,24.08,41.3,Note 2,61
+5354-525,2024-08-23,20:39:05.891946,Marlboro,Cigarettes,11,13,143,PayPal,Seller C,28.11,32.68,Note 1,46
+8542-615,2024-07-01,20:39:05.891946,Magazine,Others,4,4.34,17.36,Bank Transfer,Seller A,3.53,2.78,Note 2,9
+7644-364,2024-07-30,20:39:05.891946,Marlboro,Cigarettes,20,13,260,Credit Card,Seller D,5.8,63.84,Note 2,40
+6091-556,2024-07-12,20:39:05.891946,Beer,Drinks,5,14.06,70.3,Cash,Seller C,15.75,11.25,Note 2,33
+5017-247,2024-08-20,20:39:05.907556,Chewing gums,Candies,15,13.84,207.6,Cash,Seller B,60.33,33.22,Note 2,98
+6819-870,2024-08-17,20:39:05.907556,Marlboro,Cigarettes,15,13,195,Cash,Seller C,22.84,13.18,Note 2,74
+8277-370,2024-08-27,20:39:05.907556,Magazine,Others,12,2.42,29.04,Bank Transfer,Seller D,7.3,4.65,Note 2,44
+9816-574,2024-07-20,20:39:05.907556,Candies,Candies,19,5.21,98.99,Credit Card,Seller B,23.36,15.84,Note 4,16
+6328-581,2024-08-01,20:39:05.907556,Lucky Strike,Cigarettes,14,11,154,PayPal,Seller A,4.65,28.81,Note 3,23
+1840-117,2024-07-24,20:39:05.907556,Camel,Cigarettes,10,17,170,Cash,Seller B,0.92,4.58,Note 1,7
+5142-374,2024-07-10,20:39:05.907556,Water,Drinks,16,10.72,171.52,Credit Card,Seller B,19.77,27.44,Note 1,82
+3382-192,2024-07-21,20:39:05.907556,Marlboro,Cigarettes,7,13,91,Bank Transfer,Seller B,10.48,20.63,Note 3,50
+5042-692,2024-07-01,20:39:05.907556,Chocolate,Candies,10,2.82,28.2,PayPal,Seller D,1.09,4.51,Note 4,27
+2792-602,2024-08-28,20:39:05.923190,Chocolate,Candies,19,10.24,194.56,Cash,Seller C,25.42,31.13,Note 1,17
+2044-975,2024-07-31,20:39:05.923190,Chewing gums,Candies,5,15.46,77.3,Bank Transfer,Seller A,7.19,12.37,Note 4,71
+6538-803,2024-07-22,20:39:05.923190,Marlboro,Cigarettes,13,13,169,PayPal,Seller A,2.56,22.73,Note 2,7
+2929-304,2024-07-08,20:39:05.938817,Chocolate,Candies,2,10.9,21.8,Bank Transfer,Seller B,2.8,3.49,Note 4,55
+9174-844,2024-07-10,20:39:05.938817,Soda,Drinks,16,18.81,300.96,Bank Transfer,Seller A,85.53,48.15,Note 2,61
+3681-841,2024-08-02,20:39:05.938817,Soda,Drinks,18,4.53,81.54,Cash,Seller D,23.3,13.05,Note 3,90
+9623-221,2024-07-28,20:39:05.938817,Chewing gums,Candies,20,17.08,341.6,Cash,Seller D,102.25,54.66,Note 3,95
+8884-128,2024-07-05,20:39:05.938817,Chocolate,Candies,18,11.81,212.58,PayPal,Seller A,36.56,34.01,Note 2,65
+9899-839,2024-08-16,20:39:05.938817,Cookies,Candies,8,17.6,140.8,PayPal,Seller C,37.9,22.53,Note 4,28
+9101-755,2024-07-27,20:39:05.938817,Cigarette Lighter,Others,16,12,192,Bank Transfer,Seller C,56.16,30.16,Note 3,35
+9794-943,2024-07-18,20:39:05.938817,Chewing gums,Candies,2,3.94,7.88,Cash,Seller A,1.71,1.26,Note 3,59
+2186-791,2024-08-27,20:39:05.938817,Water,Drinks,2,15.03,30.06,Bank Transfer,Seller D,3.09,4.81,Note 1,75
+7921-629,2024-08-09,20:39:05.954443,Chewing gums,Candies,16,3.32,53.12,Cash,Seller A,12,8.5,Note 1,97
+5502-891,2024-08-01,20:39:05.954443,Candies,Candies,16,13.94,223.04,PayPal,Seller D,11.56,35.69,Note 3,37
+2026-254,2024-08-06,20:39:05.954443,Lucky Strike,Cigarettes,4,11,44,PayPal,Seller A,4.96,3.55,Note 4,61
+3686-389,2024-07-20,20:39:05.954443,Soda,Drinks,2,1.39,2.78,Cash,Seller A,0.32,0.44,Note 2,78
+2572-277,2024-07-31,20:39:05.954443,Cigarette Lighter,Others,6,12,72,Bank Transfer,Seller D,17.64,12.45,Note 3,3
+1327-611,2024-08-13,20:39:05.954443,Cigarette Lighter,Others,3,12,36,Credit Card,Seller A,6.58,8.8,Note 3,37
+3917-845,2024-08-21,20:39:05.954443,Magazine,Others,14,6.23,87.22,Credit Card,Seller C,9.72,13.96,Note 1,9
+1897-422,2024-07-20,20:39:05.970066,Chewing gums,Candies,13,7.57,98.41,Bank Transfer,Seller D,13.57,15.75,Note 3,25
+4636-682,2024-08-27,20:39:05.970066,Water,Drinks,2,8.52,17.04,PayPal,Seller C,3.69,2.73,Note 4,22
+6086-203,2024-07-19,20:39:05.970066,Chocolate,Candies,2,19.34,38.68,Bank Transfer,Seller C,8.87,6.19,Note 2,93
+4423-859,2024-08-30,20:39:05.970066,Chocolate,Candies,18,19.45,350.1,Credit Card,Seller D,82.48,56.02,Note 4,20
+3350-758,2024-07-04,20:39:05.970066,Toilet Paper,Others,18,13.42,241.56,Credit Card,Seller C,25.69,38.65,Note 2,17
+5787-501,2024-07-27,20:39:05.970066,Cookies,Candies,10,12.62,126.2,PayPal,Seller A,10.25,20.19,Note 4,93
+5587-873,2024-08-05,20:39:05.985695,Magazine,Others,17,3.15,53.55,PayPal,Seller A,7.06,8.57,Note 4,6
+8414-229,2024-08-01,20:39:05.985695,Soda,Drinks,5,16.14,80.7,Cash,Seller B,17.52,12.91,Note 3,73
+1373-783,2024-07-22,20:39:05.985695,Soda,Drinks,2,3.27,6.54,Bank Transfer,Seller D,1.31,1.05,Note 1,33
+4436-423,2024-07-02,20:39:05.985695,Water,Drinks,5,5.4,27,Bank Transfer,Seller A,2.21,4.32,Note 2,83
+1319-908,2024-07-16,20:39:05.985695,Water,Drinks,1,15.05,15.05,Cash,Seller B,2.05,2.41,Note 2,55
+1906-195,2024-08-21,20:39:05.985695,Soda,Drinks,15,2.9,43.5,PayPal,Seller A,5.77,6.96,Note 1,40
+1360-165,2024-08-29,20:39:05.985695,Toilet Paper,Others,1,10.79,10.79,Credit Card,Seller D,0.02,1.73,Note 2,35
+7188-241,2024-08-05,20:39:06.001317,Cookies,Candies,6,13.4,80.4,Cash,Seller D,22.7,12.86,Note 4,69
+4843-932,2024-07-16,20:39:06.001317,Chocolate,Candies,2,9.52,19.04,Bank Transfer,Seller C,1.89,3.05,Note 4,63
+2497-276,2024-07-16,20:39:06.001317,Juice,Drinks,9,18.79,169.11,Cash,Seller A,33.09,27.06,Note 3,100
+5439-943,2024-07-08,20:39:06.001317,Chewing gums,Candies,14,2.45,34.3,Bank Transfer,Seller B,6.61,5.49,Note 4,27
+7847-917,2024-08-20,20:39:06.001317,Camel,Cigarettes,3,17,51,Bank Transfer,Seller A,1.41,0.96,Note 4,42
+4448-883,2024-07-06,20:39:06.001317,Marlboro,Cigarettes,19,13,247,Bank Transfer,Seller B,2.29,41.01,Note 4,6
+5743-977,2024-08-26,20:39:06.001317,Cigarette Lighter,Others,15,12,180,Credit Card,Seller A,74.38,41.95,Note 2,87
+3955-746,2024-07-30,20:39:06.001317,Magazine,Others,8,8.83,70.64,Cash,Seller A,19.89,11.3,Note 3,14
+8100-246,2024-07-20,20:39:06.016943,Candies,Candies,2,4.79,9.58,Credit Card,Seller D,0.31,1.53,Note 4,2
+7117-608,2024-07-13,20:39:06.016943,Magazine,Others,9,10.5,94.5,Bank Transfer,Seller B,16.92,15.12,Note 3,41
+3460-634,2024-08-04,20:39:06.016943,Lucky Strike,Cigarettes,12,11,132,PayPal,Seller D,22.72,34.23,Note 4,1
+7388-755,2024-07-04,20:39:06.016943,Toilet Paper,Others,20,18.66,373.2,Credit Card,Seller A,52.38,59.71,Note 2,9
+1024-645,2024-07-23,20:39:06.016943,Magazine,Others,14,15.76,220.64,PayPal,Seller C,60.66,35.3,Note 1,17
+1260-120,2024-08-03,20:39:06.032567,Marlboro,Cigarettes,5,13,65,Credit Card,Seller C,10.73,6.82,Note 4,2
+9943-811,2024-08-23,20:39:06.032567,Water,Drinks,10,18.66,186.6,Bank Transfer,Seller D,0.99,29.86,Note 2,32
+7975-161,2024-08-10,20:39:06.032567,Camel,Cigarettes,13,17,221,Bank Transfer,Seller C,42.47,36.52,Note 3,51
+5409-573,2024-08-17,20:39:06.032567,Camel,Cigarettes,19,17,323,PayPal,Seller D,86.45,53.38,Note 4,36
+6356-182,2024-07-23,20:39:06.032567,Water,Drinks,19,3.08,58.52,Bank Transfer,Seller A,10.14,9.36,Note 3,7
+6400-291,2024-08-03,20:39:06.032567,Toilet Paper,Others,5,14.51,72.55,Bank Transfer,Seller B,2.89,11.61,Note 4,5
+3874-335,2024-08-19,20:39:06.048192,Cookies,Candies,14,18.42,257.88,Cash,Seller C,61.38,41.26,Note 2,22
+7868-179,2024-07-03,20:39:06.048192,Cookies,Candies,1,16.45,16.45,Bank Transfer,Seller D,0.84,2.63,Note 3,81
+2114-833,2024-08-30,20:39:06.048192,Toilet Paper,Others,11,2.06,22.66,PayPal,Seller C,3.07,3.63,Note 2,89
+3814-222,2024-07-04,20:39:06.048192,Beer,Drinks,19,10.81,205.39,PayPal,Seller A,13.75,32.86,Note 2,34
+4440-401,2024-07-01,20:39:06.048192,Juice,Drinks,13,8.02,104.26,PayPal,Seller C,20.41,16.68,Note 2,90
+3125-727,2024-07-11,20:39:06.048192,Chewing gums,Candies,3,14.53,43.59,Credit Card,Seller C,7.29,6.97,Note 2,72
+4347-118,2024-07-30,20:39:06.048192,Camel,Cigarettes,5,17,85,Bank Transfer,Seller C,10.18,8.13,Note 2,50
